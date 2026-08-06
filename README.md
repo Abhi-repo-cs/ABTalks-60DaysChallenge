@@ -33,8 +33,28 @@ I will update this repository daily with the code, notebooks, notes, and project
 ```
 
 
+## Problem Statement:
+Develop an interactive sales analytics dashboard that provides insights into revenue, sales trends, customer behavior, product performance, regional sales, discounts, and sales representative performance to support data-driven business decision-making.
 
+## Objectives
+Analyze total sales and revenue.
+Identify top-performing products and categories.
+Compare sales across regions.
+Evaluate sales representative performance.
+Understand customer purchasing behavior.
+Measure the impact of discounts.
+Compare Online vs. Retail sales.
+Analyze payment method preferences.
+Track monthly sales trends.
+Create an interactive dashboard for business insights.
 
+## Expected Outcome
+
+A comprehensive business intelligence solution that enables stakeholders to monitor sales performance, identify trends, optimize pricing and marketing strategies, and make informed business decisions using data visualization and analytics.
+
+This 10th problem statement is the strongest choice for a portfolio project because it showcases data cleaning, exploratory data analysis (EDA), visualization, dashboarding, and business insight generation in a single end-to-end project.
+
+## Data Set used: https://www.kaggle.com/datasets/vinothkannaece/sales-dataset/data
 
 
 ## 🎯 Final Goal

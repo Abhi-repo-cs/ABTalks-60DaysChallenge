@@ -1,0 +1,4 @@
+Model,Train RMSE,Test RMSE,Train R2,Test R2
+Linear Regression,19784.42,19991.27,0.8843,0.873
+Ridge Regression,19786.33,19962.02,0.8842,0.8734
+Lasso Regression,19784.42,19991.09,0.8843,0.873

@@ -1,0 +1,389 @@
+User_ID,Movie_ID,Movie_Title,Genre,Rating
+1,1,Inception,Sci-Fi,2.9
+1,5,The Dark Knight,Action,4.5
+1,6,Iron Man,Action,4.5
+1,7,Titanic,Romance,4.1
+1,8,La La Land,Romance,4.3
+1,9,The Notebook,Romance,5.0
+1,10,Toy Story,Animation,1.8
+1,11,Finding Nemo,Animation,2.3
+1,14,Pulp Fiction,Crime,4.1
+1,15,Joker,Crime,4.6
+1,16,Forrest Gump,Drama,4.2
+1,17,The Shawshank Redemption,Drama,3.8
+1,20,A Quiet Place,Horror,3.7
+2,2,Interstellar,Sci-Fi,2.9
+2,4,Avengers: Endgame,Action,2.9
+2,5,The Dark Knight,Action,2.8
+2,6,Iron Man,Action,3.5
+2,7,Titanic,Romance,3.3
+2,8,La La Land,Romance,2.5
+2,9,The Notebook,Romance,2.5
+2,10,Toy Story,Animation,2.8
+2,11,Finding Nemo,Animation,4.8
+2,12,The Lion King,Animation,3.6
+2,13,The Godfather,Crime,5.0
+2,14,Pulp Fiction,Crime,5.0
+2,15,Joker,Crime,3.9
+2,19,The Conjuring,Horror,4.6
+2,20,A Quiet Place,Horror,4.1
+3,2,Interstellar,Sci-Fi,2.6
+3,4,Avengers: Endgame,Action,2.4
+3,5,The Dark Knight,Action,3.0
+3,6,Iron Man,Action,4.0
+3,7,Titanic,Romance,3.6
+3,8,La La Land,Romance,2.5
+3,10,Toy Story,Animation,4.2
+3,11,Finding Nemo,Animation,4.1
+3,12,The Lion King,Animation,4.2
+3,13,The Godfather,Crime,2.2
+3,14,Pulp Fiction,Crime,3.9
+3,17,The Shawshank Redemption,Drama,3.0
+3,20,A Quiet Place,Horror,3.9
+4,1,Inception,Sci-Fi,4.1
+4,2,Interstellar,Sci-Fi,4.5
+4,3,The Matrix,Sci-Fi,2.6
+4,4,Avengers: Endgame,Action,4.7
+4,6,Iron Man,Action,5.0
+4,7,Titanic,Romance,2.7
+4,9,The Notebook,Romance,2.7
+4,11,Finding Nemo,Animation,3.7
+4,12,The Lion King,Animation,3.0
+4,16,Forrest Gump,Drama,4.4
+4,18,Parasite,Drama,3.5
+4,19,The Conjuring,Horror,4.2
+5,1,Inception,Sci-Fi,3.5
+5,2,Interstellar,Sci-Fi,2.9
+5,3,The Matrix,Sci-Fi,4.5
+5,4,Avengers: Endgame,Action,1.8
+5,5,The Dark Knight,Action,2.7
+5,6,Iron Man,Action,4.1
+5,7,Titanic,Romance,4.0
+5,8,La La Land,Romance,4.4
+5,9,The Notebook,Romance,4.4
+5,10,Toy Story,Animation,4.1
+5,11,Finding Nemo,Animation,4.5
+5,12,The Lion King,Animation,4.2
+5,14,Pulp Fiction,Crime,4.6
+5,15,Joker,Crime,2.7
+5,16,Forrest Gump,Drama,2.5
+5,18,Parasite,Drama,1.7
+5,20,A Quiet Place,Horror,3.2
+6,1,Inception,Sci-Fi,2.3
+6,5,The Dark Knight,Action,4.4
+6,6,Iron Man,Action,3.2
+6,7,Titanic,Romance,5.0
+6,8,La La Land,Romance,3.3
+6,9,The Notebook,Romance,4.2
+6,10,Toy Story,Animation,3.7
+6,12,The Lion King,Animation,2.6
+6,13,The Godfather,Crime,4.4
+6,17,The Shawshank Redemption,Drama,3.0
+6,18,Parasite,Drama,3.2
+6,19,The Conjuring,Horror,3.7
+6,20,A Quiet Place,Horror,3.6
+7,1,Inception,Sci-Fi,3.9
+7,6,Iron Man,Action,3.2
+7,7,Titanic,Romance,3.5
+7,9,The Notebook,Romance,2.9
+7,10,Toy Story,Animation,3.2
+7,12,The Lion King,Animation,3.8
+7,14,Pulp Fiction,Crime,3.3
+7,15,Joker,Crime,3.5
+7,17,The Shawshank Redemption,Drama,3.4
+7,18,Parasite,Drama,4.3
+7,20,A Quiet Place,Horror,3.1
+8,1,Inception,Sci-Fi,3.9
+8,2,Interstellar,Sci-Fi,3.5
+8,4,Avengers: Endgame,Action,2.5
+8,5,The Dark Knight,Action,4.1
+8,6,Iron Man,Action,5.0
+8,7,Titanic,Romance,3.0
+8,8,La La Land,Romance,2.8
+8,11,Finding Nemo,Animation,4.7
+8,12,The Lion King,Animation,3.6
+8,13,The Godfather,Crime,3.0
+8,16,Forrest Gump,Drama,3.3
+8,19,The Conjuring,Horror,2.4
+8,20,A Quiet Place,Horror,3.7
+9,1,Inception,Sci-Fi,4.6
+9,3,The Matrix,Sci-Fi,3.6
+9,4,Avengers: Endgame,Action,2.6
+9,7,Titanic,Romance,2.5
+9,8,La La Land,Romance,3.3
+9,10,Toy Story,Animation,2.9
+9,11,Finding Nemo,Animation,4.2
+9,12,The Lion King,Animation,3.3
+9,15,Joker,Crime,4.0
+9,17,The Shawshank Redemption,Drama,3.2
+9,18,Parasite,Drama,3.3
+10,2,Interstellar,Sci-Fi,4.0
+10,5,The Dark Knight,Action,4.3
+10,6,Iron Man,Action,5.0
+10,11,Finding Nemo,Animation,4.4
+10,13,The Godfather,Crime,4.2
+10,16,Forrest Gump,Drama,2.4
+10,18,Parasite,Drama,4.0
+10,19,The Conjuring,Horror,1.9
+11,1,Inception,Sci-Fi,3.2
+11,2,Interstellar,Sci-Fi,2.5
+11,3,The Matrix,Sci-Fi,2.3
+11,5,The Dark Knight,Action,4.3
+11,6,Iron Man,Action,1.3
+11,7,Titanic,Romance,4.2
+11,9,The Notebook,Romance,3.5
+11,11,Finding Nemo,Animation,2.9
+11,12,The Lion King,Animation,1.9
+11,13,The Godfather,Crime,4.5
+11,14,Pulp Fiction,Crime,3.3
+11,15,Joker,Crime,3.9
+11,16,Forrest Gump,Drama,4.0
+11,18,Parasite,Drama,4.0
+12,1,Inception,Sci-Fi,4.0
+12,2,Interstellar,Sci-Fi,3.5
+12,3,The Matrix,Sci-Fi,3.7
+12,4,Avengers: Endgame,Action,2.0
+12,5,The Dark Knight,Action,2.4
+12,6,Iron Man,Action,3.4
+12,7,Titanic,Romance,2.4
+12,10,Toy Story,Animation,4.9
+12,11,Finding Nemo,Animation,4.0
+12,12,The Lion King,Animation,4.0
+12,13,The Godfather,Crime,2.0
+12,14,Pulp Fiction,Crime,2.5
+12,15,Joker,Crime,3.2
+12,18,Parasite,Drama,3.8
+12,19,The Conjuring,Horror,1.9
+12,20,A Quiet Place,Horror,2.9
+13,2,Interstellar,Sci-Fi,4.1
+13,3,The Matrix,Sci-Fi,4.2
+13,4,Avengers: Endgame,Action,3.2
+13,5,The Dark Knight,Action,2.8
+13,6,Iron Man,Action,3.4
+13,7,Titanic,Romance,4.1
+13,8,La La Land,Romance,3.0
+13,11,Finding Nemo,Animation,3.9
+13,12,The Lion King,Animation,4.8
+13,13,The Godfather,Crime,4.7
+13,14,Pulp Fiction,Crime,3.0
+13,15,Joker,Crime,4.5
+13,19,The Conjuring,Horror,4.5
+13,20,A Quiet Place,Horror,2.5
+14,1,Inception,Sci-Fi,3.7
+14,2,Interstellar,Sci-Fi,2.5
+14,4,Avengers: Endgame,Action,3.0
+14,5,The Dark Knight,Action,1.6
+14,7,Titanic,Romance,4.1
+14,9,The Notebook,Romance,4.8
+14,10,Toy Story,Animation,3.2
+14,11,Finding Nemo,Animation,2.8
+14,12,The Lion King,Animation,3.3
+14,13,The Godfather,Crime,3.4
+14,14,Pulp Fiction,Crime,2.7
+14,16,Forrest Gump,Drama,3.1
+14,19,The Conjuring,Horror,4.7
+14,20,A Quiet Place,Horror,3.3
+15,4,Avengers: Endgame,Action,3.0
+15,5,The Dark Knight,Action,2.1
+15,6,Iron Man,Action,3.2
+15,7,Titanic,Romance,3.8
+15,8,La La Land,Romance,2.7
+15,9,The Notebook,Romance,2.3
+15,10,Toy Story,Animation,3.7
+15,11,Finding Nemo,Animation,3.8
+15,12,The Lion King,Animation,2.8
+15,13,The Godfather,Crime,3.9
+15,14,Pulp Fiction,Crime,3.8
+15,15,Joker,Crime,4.1
+15,16,Forrest Gump,Drama,2.4
+15,17,The Shawshank Redemption,Drama,4.1
+15,20,A Quiet Place,Horror,3.1
+16,2,Interstellar,Sci-Fi,3.1
+16,8,La La Land,Romance,3.4
+16,9,The Notebook,Romance,3.1
+16,11,Finding Nemo,Animation,3.2
+16,13,The Godfather,Crime,4.1
+16,14,Pulp Fiction,Crime,3.0
+16,17,The Shawshank Redemption,Drama,2.6
+16,18,Parasite,Drama,2.6
+16,20,A Quiet Place,Horror,5.0
+17,1,Inception,Sci-Fi,2.6
+17,2,Interstellar,Sci-Fi,2.0
+17,5,The Dark Knight,Action,4.6
+17,7,Titanic,Romance,5.0
+17,8,La La Land,Romance,3.4
+17,9,The Notebook,Romance,4.6
+17,12,The Lion King,Animation,5.0
+17,15,Joker,Crime,2.7
+17,18,Parasite,Drama,3.3
+17,19,The Conjuring,Horror,2.1
+17,20,A Quiet Place,Horror,2.9
+18,2,Interstellar,Sci-Fi,3.4
+18,4,Avengers: Endgame,Action,2.0
+18,5,The Dark Knight,Action,3.2
+18,6,Iron Man,Action,3.3
+18,7,Titanic,Romance,2.6
+18,9,The Notebook,Romance,3.9
+18,10,Toy Story,Animation,3.2
+18,11,Finding Nemo,Animation,4.3
+18,13,The Godfather,Crime,2.9
+18,16,Forrest Gump,Drama,1.7
+18,17,The Shawshank Redemption,Drama,3.1
+18,18,Parasite,Drama,2.8
+18,19,The Conjuring,Horror,2.4
+18,20,A Quiet Place,Horror,2.2
+19,1,Inception,Sci-Fi,2.8
+19,3,The Matrix,Sci-Fi,3.0
+19,4,Avengers: Endgame,Action,3.4
+19,5,The Dark Knight,Action,1.8
+19,6,Iron Man,Action,2.7
+19,7,Titanic,Romance,2.8
+19,9,The Notebook,Romance,4.1
+19,10,Toy Story,Animation,3.4
+19,11,Finding Nemo,Animation,3.3
+19,12,The Lion King,Animation,3.9
+19,13,The Godfather,Crime,3.1
+19,15,Joker,Crime,2.9
+19,17,The Shawshank Redemption,Drama,2.6
+19,19,The Conjuring,Horror,3.2
+19,20,A Quiet Place,Horror,4.2
+20,2,Interstellar,Sci-Fi,3.3
+20,3,The Matrix,Sci-Fi,2.3
+20,4,Avengers: Endgame,Action,4.4
+20,5,The Dark Knight,Action,4.1
+20,6,Iron Man,Action,4.4
+20,8,La La Land,Romance,3.0
+20,10,Toy Story,Animation,2.2
+20,11,Finding Nemo,Animation,2.9
+20,14,Pulp Fiction,Crime,3.3
+20,17,The Shawshank Redemption,Drama,2.3
+20,18,Parasite,Drama,2.8
+20,19,The Conjuring,Horror,2.6
+20,20,A Quiet Place,Horror,3.8
+21,1,Inception,Sci-Fi,3.0
+21,2,Interstellar,Sci-Fi,2.7
+21,3,The Matrix,Sci-Fi,1.9
+21,7,Titanic,Romance,2.1
+21,8,La La Land,Romance,1.5
+21,9,The Notebook,Romance,2.0
+21,11,Finding Nemo,Animation,1.7
+21,12,The Lion King,Animation,2.6
+21,13,The Godfather,Crime,4.2
+21,14,Pulp Fiction,Crime,3.8
+21,17,The Shawshank Redemption,Drama,4.8
+21,18,Parasite,Drama,4.2
+21,19,The Conjuring,Horror,4.1
+21,20,A Quiet Place,Horror,4.0
+22,1,Inception,Sci-Fi,3.3
+22,2,Interstellar,Sci-Fi,3.1
+22,3,The Matrix,Sci-Fi,1.6
+22,5,The Dark Knight,Action,2.2
+22,6,Iron Man,Action,2.9
+22,8,La La Land,Romance,4.8
+22,9,The Notebook,Romance,2.2
+22,10,Toy Story,Animation,2.8
+22,11,Finding Nemo,Animation,3.3
+22,12,The Lion King,Animation,1.9
+22,13,The Godfather,Crime,3.0
+22,15,Joker,Crime,3.5
+22,16,Forrest Gump,Drama,3.3
+22,20,A Quiet Place,Horror,4.6
+23,1,Inception,Sci-Fi,2.4
+23,2,Interstellar,Sci-Fi,2.2
+23,3,The Matrix,Sci-Fi,3.0
+23,4,Avengers: Endgame,Action,4.4
+23,6,Iron Man,Action,4.5
+23,7,Titanic,Romance,2.1
+23,9,The Notebook,Romance,2.0
+23,10,Toy Story,Animation,3.6
+23,12,The Lion King,Animation,4.3
+23,14,Pulp Fiction,Crime,4.0
+23,15,Joker,Crime,4.4
+23,17,The Shawshank Redemption,Drama,2.2
+23,18,Parasite,Drama,3.1
+23,19,The Conjuring,Horror,3.4
+24,1,Inception,Sci-Fi,3.9
+24,3,The Matrix,Sci-Fi,3.8
+24,5,The Dark Knight,Action,3.6
+24,6,Iron Man,Action,1.6
+24,7,Titanic,Romance,1.6
+24,8,La La Land,Romance,2.3
+24,9,The Notebook,Romance,2.8
+24,10,Toy Story,Animation,3.4
+24,11,Finding Nemo,Animation,4.2
+24,13,The Godfather,Crime,3.1
+24,14,Pulp Fiction,Crime,4.3
+24,18,Parasite,Drama,2.3
+24,20,A Quiet Place,Horror,1.8
+25,1,Inception,Sci-Fi,1.7
+25,3,The Matrix,Sci-Fi,2.2
+25,4,Avengers: Endgame,Action,2.8
+25,5,The Dark Knight,Action,4.3
+25,7,Titanic,Romance,1.1
+25,8,La La Land,Romance,3.4
+25,10,Toy Story,Animation,4.9
+25,12,The Lion King,Animation,2.8
+25,13,The Godfather,Crime,2.8
+25,15,Joker,Crime,1.8
+25,16,Forrest Gump,Drama,1.9
+25,19,The Conjuring,Horror,1.8
+25,20,A Quiet Place,Horror,2.0
+26,3,The Matrix,Sci-Fi,1.9
+26,5,The Dark Knight,Action,2.7
+26,6,Iron Man,Action,3.3
+26,7,Titanic,Romance,3.1
+26,8,La La Land,Romance,2.6
+26,10,Toy Story,Animation,4.1
+26,11,Finding Nemo,Animation,5.0
+26,12,The Lion King,Animation,4.0
+26,13,The Godfather,Crime,3.6
+26,17,The Shawshank Redemption,Drama,3.4
+26,18,Parasite,Drama,4.2
+26,19,The Conjuring,Horror,2.5
+27,2,Interstellar,Sci-Fi,3.3
+27,3,The Matrix,Sci-Fi,2.6
+27,5,The Dark Knight,Action,3.5
+27,7,Titanic,Romance,4.5
+27,15,Joker,Crime,3.1
+27,17,The Shawshank Redemption,Drama,4.2
+28,1,Inception,Sci-Fi,3.5
+28,2,Interstellar,Sci-Fi,4.3
+28,3,The Matrix,Sci-Fi,3.3
+28,4,Avengers: Endgame,Action,4.1
+28,5,The Dark Knight,Action,4.2
+28,6,Iron Man,Action,3.4
+28,8,La La Land,Romance,5.0
+28,9,The Notebook,Romance,3.9
+28,13,The Godfather,Crime,3.4
+28,16,Forrest Gump,Drama,4.1
+28,17,The Shawshank Redemption,Drama,3.6
+28,20,A Quiet Place,Horror,3.5
+29,1,Inception,Sci-Fi,2.2
+29,2,Interstellar,Sci-Fi,1.9
+29,4,Avengers: Endgame,Action,4.3
+29,7,Titanic,Romance,3.0
+29,9,The Notebook,Romance,3.2
+29,11,Finding Nemo,Animation,4.3
+29,13,The Godfather,Crime,3.5
+29,14,Pulp Fiction,Crime,4.2
+29,15,Joker,Crime,4.4
+29,16,Forrest Gump,Drama,5.0
+29,17,The Shawshank Redemption,Drama,4.9
+29,18,Parasite,Drama,3.4
+29,20,A Quiet Place,Horror,1.9
+30,1,Inception,Sci-Fi,3.7
+30,2,Interstellar,Sci-Fi,4.2
+30,3,The Matrix,Sci-Fi,4.2
+30,4,Avengers: Endgame,Action,2.9
+30,5,The Dark Knight,Action,4.4
+30,6,Iron Man,Action,2.5
+30,8,La La Land,Romance,4.7
+30,9,The Notebook,Romance,3.9
+30,10,Toy Story,Animation,4.0
+30,11,Finding Nemo,Animation,4.0
+30,13,The Godfather,Crime,2.9
+30,15,Joker,Crime,2.9
+30,16,Forrest Gump,Drama,2.7
+30,18,Parasite,Drama,2.9
+30,19,The Conjuring,Horror,3.5
+30,20,A Quiet Place,Horror,2.5

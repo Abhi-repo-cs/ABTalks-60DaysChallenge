@@ -1,0 +1,33 @@
+
+WEEK 3 ENGINEERING REFLECTION
+
+This week focused on moving from simply building machine learning
+models to evaluating them as complete engineering systems.
+
+I learned that model development does not end after training.
+Different models can perform differently depending on the dataset,
+evaluation metric and business requirements.
+
+During the sprint, I compared Logistic Regression, Decision Tree,
+Random Forest and XGBoost.
+
+One of the most important lessons was that accuracy alone can be
+misleading, especially when the classes are imbalanced. Precision,
+recall, F1-score, ROC-AUC and confusion matrices provide a much
+better understanding of model behavior.
+
+I also learned that the best machine learning model is not
+necessarily the model with the highest accuracy. A production
+model must balance predictive performance with interpretability,
+scalability, inference cost, maintainability and business impact.
+
+For this sprint, I selected the final model using a weighted
+engineering score that gives greater importance to recall and
+F1-score.
+
+This week helped me move from thinking about machine learning
+as only a modeling problem to thinking about it as an engineering
+and decision-making problem.
+
+The next step is to improve model explainability, tune the selected
+model and evaluate it on more realistic data.

@@ -1,0 +1,21 @@
+DAY 21 - BEST MODEL ANALYSIS
+============================================================
+
+Selected Model: XGBoost
+
+Evaluation Metrics
+----------------------------------------
+Accuracy: 0.9717
+Precision: 0.9483
+Recall: 0.9091
+F1-Score: 0.9283
+ROC-AUC: 0.9841
+Engineering Score: 0.9400
+
+Why this model was selected
+----------------------------------------
+The model was selected based on a combination of recall, F1-score, ROC-AUC, precision and accuracy. Recall and F1-score were given higher weights because the problem involves an imbalanced classification setting where missing positive cases can be costly.
+
+Engineering considerations
+----------------------------------------
+The final model should not be selected solely based on accuracy. A production system should also consider interpretability, inference speed, scalability, maintenance requirements and business impact.

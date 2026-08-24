@@ -1,0 +1,14 @@
+Column,Type,Description
+Age,Numerical,Customer age in years
+AnnualIncome,Numerical,Annual income in INR
+Gender,Categorical,Customer gender
+City,Categorical,Customer city
+DeviceType,Categorical,Device used for browsing
+Membership,Categorical,Membership tier
+PaymentMethod,Categorical,Preferred payment method
+TrafficSource,Categorical,Traffic source
+SessionDuration,Numerical,Average session duration in minutes
+PagesVisited,Numerical,Number of pages visited
+PreviousPurchases,Numerical,Number of previous purchases
+CartValue,Numerical,Shopping cart value in INR
+Purchased,Target,"Whether the customer purchased (1 = Yes, 0 = No)"

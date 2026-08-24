@@ -1,0 +1,1001 @@
+Age,AnnualIncome,Gender,City,DeviceType,Membership,PaymentMethod,TrafficSource,SessionDuration,PagesVisited,PreviousPurchases,CartValue,Purchased
+56,1593636,Male,Delhi,Tablet,Gold,UPI,Google Ads,11.25,8,7,9467.42,1
+46,1471898,Female,Delhi,Mobile,Basic,Debit Card,Google Ads,41.72,18,7,1672.7,1
+32,1214057,Male,Hyderabad,Tablet,Platinum,Debit Card,Email,39.09,2,12,22846.42,1
+60,1403520,Male,Pune,Mobile,Basic,Credit Card,Email,53.63,18,12,10450.41,1
+25,1799061,Male,Mumbai,Desktop,Silver,UPI,Referral,44.24,18,15,11541.44,1
+38,1676972,Female,Chennai,Desktop,Silver,Net Banking,Organic,30.99,11,7,8811.27,1
+56,1383358,Female,Delhi,Desktop,Basic,Net Banking,Organic,59.52,1,15,15724.9,1
+36,1300483,Male,Pune,Mobile,Basic,Credit Card,Social Media,16.7,14,10,19631.76,1
+40,382967,Male,Mumbai,Desktop,Silver,Debit Card,Google Ads,50.16,16,15,16238.85,1
+28,1531351,Female,Delhi,Mobile,Gold,UPI,Referral,26.18,11,5,18730.36,1
+28,1619758,Male,Delhi,Desktop,Gold,Debit Card,Google Ads,39.28,1,10,22658.74,1
+41,1510823,Male,Chennai,Mobile,Silver,Net Banking,Referral,43.91,7,2,21602.31,1
+53,244772,Other,Chennai,Desktop,Gold,Debit Card,Referral,38.39,16,0,16884.06,1
+57,306108,Male,Delhi,Mobile,Gold,Net Banking,Referral,9.29,14,1,5444.49,1
+41,1242958,Female,Bengaluru,Desktop,Gold,UPI,Google Ads,27.13,15,4,15978.8,1
+20,1312867,Other,Delhi,Desktop,Silver,UPI,Email,34.12,14,12,12701.47,1
+39,543339,Male,Pune,Desktop,Silver,Credit Card,Google Ads,51.09,11,9,17958.76,1
+19,1511329,Male,Delhi,Mobile,Gold,Credit Card,Referral,27.18,16,4,20840.0,1
+41,327550,Male,Hyderabad,Mobile,Silver,Debit Card,Social Media,55.21,19,9,18593.77,1
+47,1460626,Female,Hyderabad,Tablet,Gold,UPI,Organic,26.98,17,13,21179.37,1
+55,612882,Female,Hyderabad,Mobile,Silver,UPI,Referral,33.38,6,0,1690.27,1
+19,517827,Female,Bengaluru,,Basic,Credit Card,Social Media,47.98,11,15,887.34,1
+38,1227843,Male,Bengaluru,Desktop,Basic,Net Banking,Email,35.4,17,0,6536.66,1
+50,1720889,Female,Delhi,Desktop,Silver,Debit Card,Referral,57.65,9,14,22526.59,1
+29,1615434,Female,Hyderabad,Mobile,Silver,Debit Card,Social Media,39.96,18,8,20609.12,1
+39,775603,Female,Bengaluru,Desktop,Gold,Credit Card,Referral,31.84,17,1,17099.91,1
+42,568349,Female,Chennai,Desktop,Basic,UPI,Google Ads,2.39,12,6,17548.89,0
+44,1242729,Female,Delhi,Mobile,Gold,Credit Card,Social Media,25.41,5,9,18194.09,1
+59,1206919,Female,Pune,Tablet,Gold,Credit Card,Google Ads,18.66,11,15,23570.81,1
+45,1469349,Female,Mumbai,Mobile,Basic,Credit Card,Google Ads,45.14,4,3,20821.56,1
+33,1283894,Male,Delhi,Mobile,Gold,Credit Card,Social Media,13.29,4,6,15622.42,1
+32,574030,Male,Mumbai,Mobile,Platinum,Net Banking,Organic,13.11,3,7,16676.31,1
+20,1605753,Female,Hyderabad,Mobile,Gold,Net Banking,Social Media,12.18,17,15,5422.13,1
+54,256077,Male,Mumbai,Tablet,Gold,UPI,Organic,8.41,7,4,16467.24,1
+24,1056906,Female,Hyderabad,Mobile,,Credit Card,Referral,19.35,4,12,10674.51,1
+38,313515,Other,Chennai,Mobile,Silver,Net Banking,Referral,53.27,13,11,3908.75,1
+26,1173497,Female,Mumbai,Mobile,Basic,UPI,Social Media,46.72,12,11,20179.43,1
+56,1435564,Male,Delhi,Mobile,Gold,Credit Card,Referral,44.38,1,0,12805.15,1
+35,305885,Male,Hyderabad,Mobile,Silver,Debit Card,Email,48.04,19,15,24437.88,1
+21,1076209,Male,Delhi,Mobile,Silver,Net Banking,Google Ads,16.9,20,3,7113.82,1
+42,721656,Female,Bengaluru,Mobile,Basic,UPI,Google Ads,53.36,18,9,12068.69,1
+31,850688,Female,Hyderabad,Desktop,Gold,Debit Card,Organic,9.1,11,15,11255.09,1
+26,368014,Female,Mumbai,Mobile,Basic,Credit Card,Referral,20.84,20,2,3107.41,1
+43,271751,Male,Hyderabad,Mobile,Platinum,Credit Card,Organic,35.62,3,9,10710.27,1
+19,410203,Female,Delhi,Mobile,Basic,Credit Card,Google Ads,7.07,17,14,7260.08,1
+37,993738,Female,Chennai,Desktop,Basic,Net Banking,Google Ads,44.08,12,11,4091.98,1
+45,875275,Male,Hyderabad,Mobile,Silver,UPI,Referral,23.85,10,4,7125.67,1
+24,1003651,Female,Mumbai,Mobile,Basic,Debit Card,Email,47.28,8,9,5907.97,1
+25,1440527,Male,Bengaluru,Mobile,Gold,UPI,Email,30.08,15,12,18378.43,1
+52,1733731,Male,Pune,Tablet,Platinum,Net Banking,Referral,11.67,5,9,866.3,1
+31,375716,Female,Chennai,Mobile,Gold,UPI,Referral,44.35,4,12,15474.82,1
+34,764567,Male,Bengaluru,Desktop,Basic,Net Banking,Organic,15.88,20,5,19040.47,1
+53,495172,Female,Hyderabad,Mobile,Basic,Credit Card,Referral,29.96,19,1,12070.01,1
+57,1070695,Female,Delhi,Mobile,Gold,Debit Card,Email,5.46,4,6,23295.97,1
+21,180126,Female,Delhi,Desktop,Platinum,Credit Card,Referral,37.45,15,12,17726.23,1
+19,1018761,Male,Mumbai,Mobile,Silver,UPI,Organic,40.29,17,2,18723.3,1
+23,1256208,Female,Delhi,Desktop,Silver,Credit Card,Organic,23.34,12,14,5003.64,1
+59,680315,Female,Chennai,Tablet,Basic,Debit Card,Organic,57.31,3,0,19454.66,1
+21,1338521,Female,Delhi,Desktop,Gold,Credit Card,Organic,52.58,10,9,20819.16,1
+46,497320,Male,Mumbai,Mobile,Silver,Debit Card,Social Media,42.77,15,2,9095.53,1
+35,1479445,Male,Pune,Desktop,Basic,Debit Card,Referral,43.11,10,8,5412.74,1
+43,921426,Female,Hyderabad,Mobile,Basic,Credit Card,Google Ads,15.89,18,9,9687.76,0
+51,678716,Male,Hyderabad,Desktop,Gold,Net Banking,Referral,39.75,1,10,18516.24,1
+27,1223917,Female,Delhi,Desktop,Basic,UPI,Social Media,12.69,3,10,10499.21,1
+53,1403975,Female,Bengaluru,Desktop,Basic,Net Banking,Organic,9.5,12,14,18442.63,1
+31,642120,Female,Hyderabad,Mobile,Silver,Net Banking,Social Media,59.97,1,5,2927.76,1
+48,1363445,Female,Pune,Mobile,Basic,Credit Card,Email,37.72,3,10,20169.69,1
+32,358954,Female,Delhi,Mobile,Basic,UPI,Email,26.43,3,5,6404.87,0
+25,849078,Female,Mumbai,Desktop,Gold,UPI,Referral,18.0,5,3,6298.33,1
+31,1263136,Female,Pune,Mobile,Gold,Net Banking,Referral,36.63,19,14,14800.49,1
+40,464260,Female,Delhi,Mobile,Gold,Credit Card,Google Ads,3.93,1,7,1845.94,0
+57,312717,Male,Pune,Desktop,Gold,UPI,Google Ads,6.59,4,4,754.81,1
+38,1407171,Male,Hyderabad,Mobile,Silver,Net Banking,Email,2.94,4,6,6599.61,0
+33,828373,Female,Mumbai,Mobile,Gold,UPI,Organic,30.45,17,8,13497.88,1
+35,559862,Male,Delhi,Mobile,Silver,Credit Card,Social Media,36.44,14,12,22699.65,1
+41,674592,Male,Chennai,Mobile,Gold,Credit Card,Google Ads,4.69,18,12,21176.24,1
+43,1328734,Male,Mumbai,Mobile,Platinum,Credit Card,Google Ads,43.55,1,15,12312.12,1
+42,1397078,Female,Chennai,Mobile,Basic,UPI,Organic,14.59,16,13,1022.59,1
+58,1661074,Female,Pune,Mobile,,Debit Card,Organic,41.43,3,15,13427.79,1
+46,510388,Female,Bengaluru,Mobile,Silver,UPI,Referral,58.93,9,15,17649.41,1
+32,498408,Female,Mumbai,Desktop,Basic,Debit Card,Social Media,41.78,4,4,8545.2,1
+18,648276,Female,Pune,Mobile,Basic,Credit Card,Organic,53.11,5,10,2865.48,1
+42,1194920,Male,Chennai,Mobile,Gold,Net Banking,Google Ads,56.94,11,13,7036.34,1
+24,237545,Female,Hyderabad,Tablet,Platinum,Debit Card,Google Ads,29.72,9,4,19312.56,1
+26,691411,Male,Hyderabad,Mobile,Silver,Credit Card,Email,42.44,3,13,8845.97,1
+41,1005656,Female,Bengaluru,Mobile,Basic,Credit Card,Organic,51.27,6,3,20318.34,1
+18,1200020,Female,Mumbai,Desktop,Basic,Debit Card,Referral,22.04,11,5,8056.08,1
+25,1064377,Male,Mumbai,Tablet,Gold,Net Banking,Social Media,16.42,9,1,4172.52,1
+41,193224,Male,Mumbai,Desktop,Silver,Credit Card,Referral,56.85,15,2,10952.62,1
+28,220738,Male,Pune,Desktop,Basic,Debit Card,Google Ads,43.85,3,0,11361.64,0
+34,1122654,Male,Bengaluru,Desktop,Silver,Net Banking,Referral,13.96,1,1,501.09,1
+25,1409336,Male,Mumbai,Mobile,Basic,Net Banking,Google Ads,27.5,20,1,3014.42,1
+52,1197433,Female,Pune,Desktop,Silver,Credit Card,Google Ads,47.99,19,7,4704.66,1
+52,646725,Female,Hyderabad,,,UPI,Google Ads,33.28,14,7,2928.32,1
+50,843937,Female,Chennai,Tablet,Silver,UPI,Google Ads,39.35,17,1,8604.0,1
+22,1760934,Female,Pune,Mobile,Gold,Credit Card,Google Ads,45.47,14,12,24119.11,1
+59,1354737,Female,Hyderabad,Mobile,Silver,Net Banking,Email,37.7,17,13,12779.64,1
+56,1761530,Female,Hyderabad,Mobile,Gold,Credit Card,Referral,32.86,14,5,15726.14,1
+58,1024193,Male,Chennai,Desktop,Gold,Debit Card,Email,45.23,12,14,8974.02,1
+45,478512,Female,Hyderabad,Mobile,Basic,UPI,Email,43.93,16,4,8154.85,1
+24,842143,,Bengaluru,Desktop,Silver,Debit Card,Organic,38.16,1,2,676.35,1
+26,746202,Other,Chennai,Desktop,Basic,Credit Card,Organic,22.23,13,4,12558.31,1
+25,1430155,Female,Hyderabad,Mobile,Gold,Credit Card,Organic,24.94,6,4,12141.86,1
+29,832026,Female,Delhi,Desktop,Silver,Net Banking,Social Media,58.26,17,4,4029.99,1
+51,1176530,Male,Pune,Desktop,Platinum,Net Banking,Organic,7.63,12,2,19131.67,1
+50,951253,Female,Hyderabad,Desktop,Basic,Net Banking,Referral,16.84,19,14,12367.59,1
+40,684471,Female,Bengaluru,Mobile,Gold,Debit Card,Email,30.05,6,2,8540.95,1
+41,1558246,Male,Mumbai,Mobile,Gold,Net Banking,Referral,50.37,7,3,3758.03,1
+54,986388,Male,Hyderabad,Mobile,Gold,Credit Card,Organic,10.66,1,6,13848.8,1
+52,1447543,Female,Mumbai,Mobile,Basic,Net Banking,Social Media,17.34,1,11,18845.14,1
+57,563152,Male,Delhi,Tablet,Silver,UPI,Social Media,4.88,5,11,7121.78,1
+39,1134652,Female,Hyderabad,Mobile,Gold,Net Banking,Email,42.65,6,11,5547.98,1
+44,274270,Male,Chennai,Desktop,Basic,Debit Card,Referral,15.05,16,13,13096.18,1
+52,1225482,Male,Mumbai,Mobile,Basic,UPI,Google Ads,23.93,16,1,3968.05,1
+18,1771961,Female,Delhi,Mobile,Silver,UPI,Referral,27.18,14,9,16698.67,1
+52,1375889,Male,Chennai,Desktop,Silver,UPI,Organic,53.59,1,3,15173.06,1
+54,338768,Female,Chennai,Desktop,Basic,Debit Card,Google Ads,25.27,13,3,2268.34,1
+31,1475302,Male,Chennai,Mobile,Basic,Credit Card,Social Media,9.57,20,0,1009.36,1
+20,750451,Male,Chennai,Mobile,Basic,Net Banking,Email,31.93,10,15,15545.19,1
+18,199816,Female,Hyderabad,Mobile,Gold,UPI,Email,57.81,10,9,7427.91,1
+22,1147344,Female,Pune,Mobile,Gold,UPI,Social Media,36.85,9,15,2252.5,1
+43,937907,Female,Hyderabad,Mobile,Gold,UPI,Organic,59.02,13,7,19009.77,1
+31,494997,Female,Hyderabad,Mobile,Platinum,Credit Card,Social Media,50.63,3,0,7919.7,1
+56,1384565,Female,Delhi,Mobile,Silver,Credit Card,Organic,3.12,18,7,11544.03,1
+44,1435100,Male,Delhi,Desktop,Basic,Debit Card,Google Ads,39.85,20,6,5996.64,1
+26,1218896,Male,Pune,Mobile,Basic,Credit Card,Social Media,17.92,2,8,15720.2,0
+32,1380454,Female,Delhi,Mobile,Basic,Net Banking,Organic,34.02,17,7,7607.06,1
+32,910880,Female,Bengaluru,Mobile,Platinum,Debit Card,Google Ads,17.48,19,15,24203.72,1
+43,1754623,Female,Pune,Desktop,Silver,Debit Card,Social Media,21.58,13,4,17603.39,1
+59,961452,Male,Delhi,Desktop,Basic,Net Banking,Email,55.47,13,7,3504.38,1
+30,1663741,Male,Pune,Mobile,Silver,Net Banking,Social Media,13.19,1,13,10475.7,1
+49,313554,Female,Hyderabad,Desktop,Silver,Net Banking,Referral,52.57,2,14,9696.99,1
+56,631282,Female,Hyderabad,Mobile,Gold,Debit Card,Social Media,2.8,1,10,13402.75,1
+49,1322077,Female,Pune,Mobile,Basic,Debit Card,Referral,6.36,5,9,21064.07,1
+21,444223,Female,Bengaluru,Mobile,Platinum,Debit Card,Google Ads,51.43,3,11,14627.21,1
+47,1288252,Female,Bengaluru,Mobile,Silver,Net Banking,Social Media,38.2,7,15,1632.76,1
+54,1402108,,Pune,Desktop,Basic,Net Banking,Google Ads,45.09,13,14,16419.85,1
+40,777135,Male,Delhi,Desktop,Gold,UPI,Google Ads,13.36,18,11,305.81,1
+56,400178,Male,Mumbai,Mobile,Basic,Credit Card,Organic,32.69,7,2,19521.02,1
+32,1378097,Male,Bengaluru,Desktop,Platinum,UPI,Google Ads,44.5,1,14,16699.24,1
+60,606752,Female,Chennai,Mobile,Platinum,Net Banking,Google Ads,38.01,5,9,7788.76,1
+46,768365,Male,Hyderabad,Mobile,Gold,Debit Card,Social Media,28.83,17,6,7381.8,1
+53,1004690,Female,Pune,Mobile,Gold,Net Banking,Social Media,57.63,8,11,19977.0,1
+30,883662,Male,Chennai,Mobile,Basic,Credit Card,Email,40.89,15,3,19605.08,1
+49,1485585,Male,Pune,Mobile,Platinum,UPI,Organic,54.56,20,4,8872.33,1
+24,1366293,Male,Hyderabad,Mobile,Silver,UPI,Google Ads,44.06,4,15,7543.8,1
+39,1610491,Male,Hyderabad,Mobile,Gold,Debit Card,Organic,44.39,2,8,14039.64,1
+45,742288,Female,,Mobile,Platinum,UPI,Referral,5.72,5,6,308.3,1
+19,1779601,Male,Bengaluru,Desktop,Platinum,UPI,Google Ads,22.21,1,3,2158.41,1
+59,480709,Female,Chennai,Mobile,Gold,Net Banking,Organic,51.64,5,5,3241.62,1
+23,1123026,Male,Pune,Tablet,Basic,UPI,Email,14.72,6,9,4716.75,1
+45,1414816,Male,Hyderabad,Mobile,Platinum,UPI,Email,7.81,2,13,12849.25,1
+45,1503062,Male,Chennai,Desktop,Silver,UPI,Google Ads,20.24,1,10,24806.82,0
+37,1531526,Female,Mumbai,Desktop,Platinum,Debit Card,Referral,14.01,4,6,16350.07,1
+47,1539490,Female,Chennai,Desktop,Gold,Debit Card,Email,55.59,7,12,1626.34,1
+28,1307199,Male,Delhi,Mobile,Basic,Net Banking,Email,52.21,1,9,13186.93,1
+45,1593897,Male,Chennai,Desktop,Silver,UPI,Referral,30.48,1,12,12466.47,1
+42,1197289,Female,Delhi,Mobile,Silver,Debit Card,Organic,4.62,8,8,3689.78,1
+56,1087425,Male,Delhi,Mobile,Gold,Debit Card,Email,43.16,20,3,23014.78,1
+50,363675,Male,Delhi,Mobile,Basic,Net Banking,Social Media,37.78,16,15,11075.05,1
+18,832465,Female,Mumbai,Mobile,Silver,Credit Card,Email,58.26,13,9,24864.52,1
+44,1445030,Female,Chennai,Mobile,Basic,UPI,Organic,33.98,18,2,10559.8,1
+30,1178748,Male,Chennai,Tablet,Gold,Debit Card,Organic,20.85,20,7,15238.15,1
+58,1338151,Female,Mumbai,Desktop,Silver,Net Banking,Google Ads,31.62,10,14,2708.59,1
+20,1213024,Female,Hyderabad,Mobile,Basic,Net Banking,Social Media,58.78,12,0,11410.27,0
+56,1436182,Male,Bengaluru,Tablet,Basic,Net Banking,Organic,42.09,1,8,6045.27,0
+23,685815,Female,Chennai,Mobile,Basic,Debit Card,Referral,40.65,10,12,20905.56,1
+25,1521398,Female,Bengaluru,Tablet,Silver,UPI,Social Media,15.2,9,0,19619.6,1
+44,256218,Male,Pune,Mobile,Basic,Credit Card,Social Media,44.87,3,1,20622.08,1
+26,767518,Male,Pune,Mobile,Basic,UPI,Referral,45.27,19,12,18117.88,1
+54,950044,Male,Mumbai,Desktop,Platinum,Net Banking,Email,19.72,9,7,20833.81,1
+50,1564775,Female,Pune,Desktop,Gold,Net Banking,Referral,29.54,10,8,5100.64,1
+59,629589,Male,Pune,Desktop,Silver,Credit Card,Referral,18.38,19,6,11355.89,1
+41,658446,Female,Hyderabad,Tablet,Platinum,UPI,Email,16.26,16,15,17326.99,1
+32,642052,Female,Hyderabad,Desktop,Basic,Net Banking,Email,2.53,18,2,15971.07,1
+49,1562978,Male,Hyderabad,Desktop,Silver,Net Banking,Email,17.83,14,6,17937.23,1
+49,1268562,Female,Pune,Desktop,Silver,UPI,Email,33.68,3,5,5684.03,1
+41,527739,Male,Mumbai,Desktop,Silver,Net Banking,Email,1.09,2,1,2551.02,0
+58,652327,Female,Delhi,Mobile,Silver,UPI,Referral,17.71,1,2,22928.48,1
+29,1555649,Female,Delhi,Desktop,Silver,Net Banking,Google Ads,53.0,18,10,14048.28,1
+56,777794,Male,Bengaluru,Mobile,Silver,UPI,Google Ads,36.03,9,12,3930.27,1
+19,214911,Male,Delhi,Desktop,Gold,Credit Card,Organic,36.86,13,11,19856.57,1
+20,605037,Male,Delhi,,Basic,Net Banking,Google Ads,24.8,2,12,22881.76,1
+54,910399,Male,Hyderabad,Desktop,Basic,Credit Card,Google Ads,40.91,7,9,4322.13,1
+34,1158039,Male,Hyderabad,Desktop,Basic,Net Banking,Referral,12.21,16,9,20453.57,1
+19,1079885,Male,Pune,Desktop,Basic,Net Banking,Email,49.31,19,12,23337.3,1
+19,788746,Other,Bengaluru,Mobile,Silver,Debit Card,Email,7.88,15,11,23465.2,1
+45,1240751,Male,Chennai,Desktop,Basic,UPI,Referral,39.7,11,14,22862.5,1
+40,1085667,Male,Bengaluru,Mobile,Gold,Credit Card,Google Ads,21.13,1,4,13705.88,1
+54,496915,Female,Bengaluru,Mobile,Basic,Credit Card,Referral,45.1,7,9,8969.66,1
+49,679876,Male,Mumbai,Mobile,Basic,Credit Card,Organic,33.44,20,3,281.09,1
+50,791213,Other,Pune,Mobile,Gold,UPI,Email,27.69,8,1,1616.71,1
+18,948734,Female,Mumbai,Mobile,Basic,Debit Card,Social Media,11.0,10,3,10778.09,0
+36,1294934,Female,Bengaluru,Desktop,Silver,Credit Card,Organic,38.57,5,11,10043.22,1
+19,1639119,Male,Bengaluru,Mobile,Gold,UPI,Organic,58.51,9,7,4699.38,1
+43,227057,Male,Bengaluru,Mobile,Basic,Net Banking,Referral,49.71,1,4,9947.45,1
+49,1496870,Male,Delhi,Mobile,Basic,Credit Card,Google Ads,4.54,2,4,4448.79,1
+23,434726,Female,Mumbai,Mobile,Silver,Credit Card,Email,23.2,19,12,21234.9,1
+49,458176,Male,Bengaluru,Desktop,Basic,Debit Card,Social Media,55.61,14,11,7525.05,1
+21,1755062,Male,Hyderabad,Mobile,Basic,Credit Card,Organic,30.68,20,11,15004.25,1
+28,888754,Other,Pune,Mobile,Basic,Credit Card,Social Media,40.06,10,9,12620.79,1
+34,1117583,Male,Pune,Mobile,Basic,Net Banking,Google Ads,54.84,9,2,1391.86,1
+55,1395868,Male,Hyderabad,Mobile,Silver,UPI,Google Ads,52.55,10,12,23561.62,1
+41,324931,Male,Pune,Mobile,Gold,UPI,Social Media,30.61,6,7,13227.93,1
+22,1672252,Other,Delhi,Mobile,Silver,Debit Card,Email,26.82,17,5,8193.94,1
+51,342491,Male,Delhi,Desktop,Basic,Net Banking,Google Ads,21.04,6,1,4037.35,1
+23,1609585,Female,Chennai,Desktop,Basic,UPI,Social Media,43.42,4,1,8529.31,1
+39,581921,Female,Chennai,Mobile,Gold,Net Banking,Organic,17.93,20,8,610.74,1
+28,440910,Male,Chennai,Tablet,Silver,UPI,Social Media,15.74,3,12,9152.6,1
+33,1251812,Female,Pune,Mobile,Gold,Net Banking,Social Media,22.02,19,6,13334.0,1
+50,267955,Male,Delhi,Mobile,Silver,Debit Card,Referral,11.46,18,9,21809.47,1
+26,807433,Male,Delhi,Tablet,Silver,Credit Card,Google Ads,42.01,4,8,17215.62,1
+23,1459361,Female,,Mobile,Silver,Debit Card,Email,37.36,8,13,2878.4,1
+33,1323490,,Hyderabad,Tablet,Basic,UPI,Email,29.49,17,15,3778.88,1
+46,387990,Female,Delhi,Mobile,Silver,Debit Card,Referral,24.03,5,5,10760.27,0
+20,558387,Female,Hyderabad,Mobile,Silver,Credit Card,Email,54.63,13,14,4973.12,1
+37,718884,Male,Chennai,Mobile,Basic,Debit Card,Social Media,2.72,1,4,793.46,1
+53,1176261,Male,Chennai,Desktop,Basic,UPI,Referral,46.38,13,11,20144.87,1
+36,1422845,Male,Pune,Desktop,Gold,UPI,Organic,54.21,4,0,586.11,1
+43,572417,Male,Chennai,Desktop,Platinum,Debit Card,Google Ads,27.33,14,11,20784.17,1
+20,1160020,Male,Pune,Mobile,Silver,Credit Card,Google Ads,33.49,3,5,3688.19,1
+36,318155,Male,Bengaluru,Mobile,Basic,Debit Card,Google Ads,56.72,5,5,24369.49,1
+37,1349250,Male,Bengaluru,Mobile,Basic,Credit Card,Social Media,13.52,7,2,15136.46,1
+49,1086739,Male,Mumbai,Mobile,Gold,Net Banking,Organic,31.69,1,2,18401.08,1
+24,1485289,Female,Pune,Tablet,Basic,Credit Card,Referral,29.01,12,15,2851.04,1
+58,1670077,Female,Mumbai,Mobile,Platinum,Net Banking,Referral,16.25,11,14,21566.39,1
+50,723351,Male,Mumbai,Desktop,Basic,Debit Card,Google Ads,49.3,8,2,20995.89,1
+57,247642,Female,Bengaluru,Desktop,Silver,Credit Card,Organic,54.08,6,2,16359.52,1
+56,270093,Female,Pune,Mobile,Silver,Net Banking,Organic,47.13,2,6,12606.64,1
+35,1736182,Male,Bengaluru,Desktop,Gold,Net Banking,Organic,12.53,19,9,18065.08,1
+57,397215,Female,Mumbai,Mobile,Silver,Net Banking,Email,6.12,20,10,247.61,1
+18,215954,Female,Pune,Mobile,Silver,UPI,Email,36.72,20,1,14851.77,1
+28,1256432,Female,Mumbai,Mobile,Platinum,Debit Card,Google Ads,4.37,14,9,21200.41,1
+45,706861,Male,Delhi,Mobile,Basic,Net Banking,Organic,40.7,1,12,8986.81,1
+42,739655,Female,Pune,Mobile,Gold,Credit Card,Organic,32.3,10,9,2796.4,1
+40,675553,Male,Pune,Mobile,Basic,Net Banking,Referral,40.1,16,1,10579.84,1
+48,942092,Female,Mumbai,Mobile,Gold,UPI,Referral,35.82,4,2,18204.9,1
+47,1066040,Female,Delhi,Mobile,Silver,Debit Card,Google Ads,25.94,11,9,2771.8,1
+59,502918,Female,Hyderabad,Desktop,Basic,UPI,Organic,12.85,16,11,5230.61,1
+52,1252328,Female,Bengaluru,Desktop,Gold,UPI,Google Ads,19.04,20,6,3774.04,1
+24,1021461,Female,Mumbai,Mobile,Basic,UPI,Referral,31.95,1,2,19944.0,0
+33,328757,Male,Pune,Mobile,Basic,Credit Card,Referral,39.46,16,6,1666.03,1
+43,1542413,Male,Bengaluru,Desktop,Silver,Debit Card,Email,46.99,19,8,17196.0,1
+19,296739,Female,Bengaluru,Mobile,Silver,Debit Card,Google Ads,46.26,9,10,9224.78,1
+18,1466585,Male,Bengaluru,Desktop,Silver,Credit Card,Google Ads,58.39,9,9,18919.2,1
+29,960316,Male,Hyderabad,Mobile,Basic,Debit Card,Organic,17.86,9,11,24113.15,1
+22,1436556,Male,Chennai,Mobile,Basic,UPI,Organic,5.2,17,14,2952.18,1
+54,1485185,Male,Mumbai,Mobile,Basic,Debit Card,Email,21.39,12,10,7928.19,1
+49,1617398,Female,Chennai,Mobile,Basic,Credit Card,Social Media,44.85,13,3,20272.12,1
+26,516676,Female,Chennai,Desktop,Silver,UPI,Social Media,26.85,8,6,6727.34,1
+58,1572714,Female,Chennai,Mobile,Gold,Credit Card,Social Media,49.25,16,8,5456.5,1
+52,1546853,Female,Bengaluru,Desktop,Platinum,Net Banking,Google Ads,33.41,18,13,20651.91,1
+36,1194929,Male,Delhi,Desktop,Gold,UPI,Google Ads,55.86,1,7,24678.35,1
+33,1746847,Male,Bengaluru,Mobile,Basic,UPI,Referral,56.92,1,7,13966.33,1
+20,503412,Female,,Desktop,Silver,Debit Card,Google Ads,5.09,12,8,7023.41,1
+37,665417,Male,Pune,Mobile,Basic,UPI,Google Ads,27.93,6,13,10024.29,0
+41,1660035,Female,Pune,Mobile,,Credit Card,Google Ads,36.97,9,4,4336.25,0
+50,368456,Female,Chennai,Desktop,Silver,Debit Card,Email,16.1,5,13,19070.99,1
+41,735941,Male,Bengaluru,Mobile,Basic,Net Banking,Google Ads,25.02,16,4,19359.5,1
+28,1386305,Female,Chennai,Mobile,Basic,Credit Card,Organic,40.98,18,2,21890.51,1
+25,408504,Female,Pune,Mobile,Platinum,Net Banking,Organic,14.38,17,4,762.4,1
+53,832665,Female,Delhi,Mobile,Silver,Net Banking,Referral,36.52,18,15,14093.34,1
+55,1754486,Male,Mumbai,Desktop,Silver,Net Banking,Email,42.15,1,7,5434.96,0
+57,753044,Male,Chennai,Desktop,Basic,UPI,Organic,6.34,19,11,8587.99,1
+37,1269385,Female,Delhi,Desktop,Basic,Credit Card,Email,30.35,8,4,19645.39,1
+52,1769589,Male,Mumbai,Desktop,Gold,Credit Card,Email,16.52,3,3,4881.64,1
+42,896756,Male,Hyderabad,Mobile,Basic,UPI,Referral,43.74,5,7,15994.71,1
+52,231226,Female,Chennai,Mobile,Silver,Debit Card,Email,12.18,8,6,16398.7,1
+42,679512,Male,Chennai,Mobile,Basic,Net Banking,Google Ads,53.64,19,14,23856.94,1
+46,1704357,Female,Hyderabad,Mobile,Silver,Credit Card,Email,26.43,18,13,19401.51,1
+35,1257978,Female,Hyderabad,Mobile,Basic,UPI,Referral,12.68,18,13,20110.52,1
+35,1232839,Female,Chennai,Tablet,Gold,Net Banking,Referral,26.84,1,5,13336.86,0
+19,1220993,Male,Hyderabad,Mobile,Gold,Debit Card,Referral,25.12,15,4,4750.84,1
+52,1406476,Female,Bengaluru,Mobile,Gold,Debit Card,Organic,26.31,18,13,10696.53,1
+33,752212,Male,Mumbai,Mobile,Basic,Net Banking,Google Ads,35.55,7,4,13782.29,1
+58,516326,Male,Mumbai,Desktop,Gold,Debit Card,Organic,31.75,16,12,16992.64,1
+53,404137,Female,Mumbai,Desktop,Silver,Credit Card,Social Media,9.84,16,9,15231.96,1
+50,1680844,Male,Bengaluru,Mobile,Silver,Credit Card,Google Ads,4.87,15,1,9910.05,1
+21,1109168,Male,Hyderabad,Mobile,Silver,Credit Card,Email,44.04,6,12,6706.3,1
+50,1526457,Female,Delhi,Desktop,Basic,Debit Card,Referral,34.02,9,14,4288.95,1
+31,543476,Male,Hyderabad,Mobile,Basic,Credit Card,Social Media,22.18,7,3,17376.75,1
+38,1580283,Male,Chennai,Mobile,Gold,UPI,Google Ads,48.69,14,7,16170.43,1
+37,1739161,Female,Pune,Desktop,Basic,Credit Card,Organic,23.9,11,7,17215.57,1
+25,871757,Female,Mumbai,Desktop,Silver,Credit Card,Referral,47.96,16,10,9375.93,1
+24,570719,Female,Hyderabad,Mobile,Silver,Debit Card,Organic,19.04,6,0,6633.95,0
+20,1707937,Male,Delhi,Desktop,Gold,Credit Card,Google Ads,5.3,16,1,19017.06,1
+34,1329947,Male,Chennai,Desktop,Platinum,Net Banking,Google Ads,56.03,20,4,19363.82,1
+50,742997,Male,Bengaluru,Mobile,Gold,UPI,Social Media,24.28,16,8,11444.85,1
+29,1213578,Male,Bengaluru,Tablet,Basic,Debit Card,Email,47.77,12,9,15336.41,1
+39,1420768,Female,Delhi,Desktop,Basic,UPI,Organic,17.47,17,10,9400.64,1
+39,1378898,Male,Chennai,Desktop,Silver,Net Banking,Social Media,39.14,5,15,17578.49,1
+47,201172,Male,Mumbai,Desktop,Basic,Debit Card,Referral,52.53,13,11,20909.47,1
+55,715843,Female,Hyderabad,Mobile,Basic,Debit Card,Email,3.46,8,12,17237.01,1
+55,1176121,Female,Chennai,Mobile,Silver,Credit Card,Social Media,50.01,5,10,12863.31,1
+25,761780,Female,Bengaluru,Mobile,Silver,UPI,Organic,34.71,12,15,11520.58,1
+44,888362,Male,Delhi,Mobile,Platinum,Net Banking,Google Ads,36.84,9,6,16093.76,1
+44,693319,Male,Delhi,Mobile,Basic,Net Banking,Referral,31.87,3,9,17027.29,1
+51,960298,Male,Hyderabad,Desktop,Basic,Debit Card,Organic,52.59,3,4,14012.36,1
+38,1056031,Male,Delhi,Desktop,Basic,Credit Card,Email,3.56,1,0,15661.06,1
+47,1450896,Female,Delhi,Desktop,Platinum,Debit Card,Email,16.4,18,14,2505.06,1
+50,1646554,Female,Chennai,Desktop,Gold,Debit Card,Google Ads,52.67,12,15,23798.96,1
+45,1239622,Female,Mumbai,Desktop,Gold,Debit Card,Google Ads,45.39,9,14,19790.25,1
+50,408071,Female,Hyderabad,Mobile,Platinum,Debit Card,Referral,2.04,9,5,9410.8,1
+22,558165,Male,Chennai,Mobile,Silver,Net Banking,Referral,31.5,18,11,14114.03,1
+36,888662,Female,,Mobile,Silver,Net Banking,Google Ads,32.24,18,7,1278.38,1
+21,596366,,Chennai,Desktop,Basic,Debit Card,Google Ads,24.65,7,6,1126.57,0
+52,1495573,Female,Pune,Mobile,Silver,Debit Card,Email,18.55,4,1,6344.88,1
+34,1192117,Female,Chennai,Desktop,Silver,Credit Card,Google Ads,41.22,13,11,17273.57,1
+45,825188,Male,Delhi,Mobile,Silver,Debit Card,Social Media,13.26,17,4,21318.48,1
+47,1711191,Male,Mumbai,Desktop,Platinum,Net Banking,Organic,48.14,2,13,14023.73,1
+46,595008,Other,Hyderabad,Desktop,Platinum,UPI,Google Ads,48.38,14,15,13350.11,1
+23,1434126,Male,Hyderabad,Desktop,Gold,Net Banking,Referral,25.5,3,10,10117.51,1
+52,424883,Male,Mumbai,Tablet,Gold,Credit Card,Social Media,17.73,5,3,4123.79,1
+58,1689090,Male,Delhi,Desktop,Gold,Net Banking,Referral,17.75,14,8,3047.02,1
+54,1129491,Female,Bengaluru,Tablet,Basic,UPI,Social Media,29.46,3,9,19040.93,1
+41,851210,Female,Chennai,Tablet,Basic,Debit Card,Google Ads,43.46,7,15,23194.84,1
+46,1109616,Female,Delhi,Desktop,Gold,UPI,Organic,22.17,18,0,11511.25,1
+48,1350365,Male,Pune,Desktop,Gold,Debit Card,Referral,36.99,13,11,16520.2,1
+52,859418,Female,Mumbai,Mobile,Basic,Debit Card,Social Media,23.57,10,15,22870.0,1
+50,880780,Male,Chennai,Mobile,Platinum,Net Banking,Email,18.97,13,5,2343.83,1
+38,1791754,Female,Hyderabad,Mobile,Basic,Net Banking,Google Ads,2.47,16,2,19284.99,0
+49,1294593,Female,Bengaluru,Mobile,Basic,Net Banking,Organic,1.23,9,10,15458.74,1
+40,1406952,Male,Pune,Mobile,Gold,Credit Card,Google Ads,14.41,2,8,15006.07,1
+50,679137,Male,Hyderabad,Tablet,Basic,Net Banking,Email,24.98,5,4,7384.26,0
+20,836884,Male,Mumbai,Desktop,Basic,Credit Card,Organic,51.22,17,12,17128.94,1
+35,804712,Male,Chennai,Desktop,Basic,Net Banking,Email,48.11,4,5,19890.46,1
+42,873264,Male,Mumbai,Mobile,Gold,Debit Card,Google Ads,16.76,17,10,2910.17,1
+59,1021344,Female,Chennai,Mobile,Silver,Credit Card,Social Media,15.43,9,8,13384.68,1
+48,1786872,Female,Delhi,Mobile,Gold,UPI,Google Ads,14.41,20,8,2621.5,1
+20,1621852,Male,Bengaluru,Mobile,Silver,Credit Card,Google Ads,21.02,2,15,21827.09,1
+57,787847,Male,Delhi,Mobile,Basic,Credit Card,Google Ads,30.39,18,7,12740.15,1
+41,1283913,Male,Delhi,Mobile,Platinum,UPI,Referral,26.88,11,8,20218.35,1
+49,1077048,Female,Mumbai,Tablet,Basic,Credit Card,Email,13.88,13,15,9265.33,1
+39,1504070,Male,Bengaluru,Desktop,Platinum,Debit Card,Email,8.7,8,3,3214.45,1
+40,1252930,Female,Chennai,Mobile,Silver,Net Banking,Email,1.74,1,15,1133.33,1
+19,1273762,Female,Chennai,Mobile,Platinum,UPI,Referral,10.08,17,5,7109.59,1
+44,732433,Female,Pune,Mobile,Basic,Net Banking,Social Media,42.62,12,4,6181.42,1
+59,607236,Female,Hyderabad,Mobile,Silver,Debit Card,Google Ads,15.37,4,4,14052.76,1
+19,1728459,Male,Pune,Tablet,Basic,UPI,Social Media,28.65,13,3,641.3,1
+43,920829,Female,Pune,Mobile,Basic,Net Banking,Referral,35.89,9,1,13062.21,1
+34,1773445,Male,Chennai,Mobile,Silver,Net Banking,Email,53.32,7,11,9855.12,1
+57,465195,Male,Mumbai,Mobile,Basic,Debit Card,Google Ads,53.44,5,5,14470.34,1
+50,755762,Female,Delhi,Mobile,Silver,Net Banking,Organic,45.0,5,8,17590.2,1
+26,796036,Female,Delhi,Desktop,Basic,Debit Card,Organic,3.07,17,11,15888.89,0
+60,1354571,Female,Delhi,Desktop,Basic,Credit Card,Social Media,34.93,9,0,24617.64,1
+56,1474266,Male,Bengaluru,Desktop,Gold,Debit Card,Email,47.41,6,13,3542.81,1
+46,1560346,Male,Chennai,Mobile,Silver,Credit Card,Organic,2.02,19,6,10800.45,1
+59,973392,Female,Mumbai,Mobile,Silver,UPI,Social Media,33.43,16,5,10678.29,1
+43,608988,Male,Bengaluru,Mobile,Silver,Net Banking,Referral,51.61,2,2,10484.62,1
+52,360553,Female,Hyderabad,Desktop,Gold,Debit Card,Social Media,28.97,10,0,16628.58,0
+42,740696,Female,Mumbai,Mobile,Basic,Debit Card,Social Media,1.24,16,12,12296.72,1
+41,1060438,Female,Pune,Mobile,Gold,Net Banking,Social Media,1.65,5,3,12984.07,1
+30,1488144,Male,Mumbai,Desktop,Platinum,Net Banking,Google Ads,25.58,15,14,10865.66,1
+24,499278,Male,Mumbai,Desktop,Gold,UPI,Social Media,10.15,13,13,24793.32,1
+53,1380139,Male,Delhi,Mobile,Silver,UPI,Social Media,40.2,13,8,23196.28,1
+37,879983,Female,Mumbai,Mobile,Silver,Debit Card,Google Ads,42.82,13,14,7762.33,1
+18,573554,Male,Pune,Mobile,Gold,UPI,Google Ads,11.49,15,1,2878.69,1
+25,1431079,Female,Pune,Desktop,Silver,Credit Card,Referral,53.42,14,2,21010.14,1
+33,1371902,Male,Chennai,Mobile,Basic,UPI,Email,27.07,8,1,24929.54,1
+31,1239920,Other,Mumbai,Tablet,Basic,UPI,Organic,9.43,11,13,7385.96,0
+29,574966,Male,Delhi,Mobile,Gold,Debit Card,Organic,46.09,18,1,9008.84,0
+40,285423,Male,Mumbai,Tablet,Basic,Credit Card,Social Media,47.61,4,9,23546.67,1
+32,500197,Male,Hyderabad,Desktop,Gold,UPI,Referral,38.72,10,10,17807.12,1
+45,644071,Female,Hyderabad,Mobile,Silver,Credit Card,Social Media,51.35,1,10,7461.39,1
+51,851256,Female,Delhi,Desktop,Silver,Credit Card,Organic,44.51,5,7,14568.06,1
+19,366833,Female,Chennai,Mobile,Basic,Credit Card,Google Ads,53.05,13,2,23611.32,1
+49,897912,Male,Chennai,Tablet,Basic,Net Banking,Email,26.6,1,6,20314.15,1
+40,955435,Male,Pune,Desktop,Platinum,Net Banking,Referral,45.11,8,7,18571.63,1
+39,257454,Female,Pune,Mobile,Gold,Net Banking,Google Ads,59.99,3,2,18451.21,1
+42,1486170,Male,Bengaluru,Desktop,Gold,Net Banking,Email,43.77,3,1,4532.71,1
+39,1740473,Male,Delhi,Tablet,Silver,Debit Card,Referral,7.74,7,12,20634.56,1
+39,1581320,Other,Mumbai,Mobile,Gold,UPI,Referral,31.58,4,12,6975.35,1
+59,1089164,Other,Delhi,Mobile,Silver,Net Banking,Organic,35.65,3,7,23266.13,1
+23,1744718,Female,Bengaluru,Desktop,Silver,Debit Card,Google Ads,11.28,15,2,9179.54,1
+32,1125439,Female,Pune,Desktop,Basic,UPI,Referral,57.81,8,6,21455.74,1
+60,217641,Male,Delhi,Mobile,Silver,Net Banking,Referral,11.36,3,11,6729.21,1
+54,1782575,Male,Delhi,Mobile,Gold,UPI,Email,11.48,7,0,12911.72,1
+50,1597616,Female,Pune,Mobile,Platinum,Net Banking,Organic,54.99,18,13,2761.44,1
+25,792121,Female,Bengaluru,Mobile,Basic,Debit Card,Social Media,28.45,11,14,16536.96,1
+22,498420,Male,Pune,Mobile,Gold,Credit Card,Organic,4.73,11,11,20918.37,1
+56,461685,Male,Chennai,Tablet,Silver,Credit Card,Social Media,36.29,17,5,17989.34,1
+21,1704102,Male,Mumbai,Mobile,Silver,UPI,Google Ads,36.51,6,11,13129.14,1
+23,1273389,Female,Pune,Desktop,Basic,Debit Card,Google Ads,4.81,8,11,1223.39,0
+49,844180,Female,Bengaluru,Mobile,Silver,Credit Card,Referral,58.38,1,15,23342.68,1
+47,466214,Female,Hyderabad,Mobile,Silver,Net Banking,Google Ads,33.1,10,12,17666.69,1
+52,1108626,Male,Chennai,Mobile,Basic,Credit Card,Referral,34.03,19,8,18672.02,1
+57,522703,Other,Hyderabad,Mobile,Gold,UPI,Organic,31.69,3,11,19887.55,1
+33,384615,Female,Pune,Desktop,Gold,UPI,Google Ads,37.03,4,2,18718.81,1
+30,1705233,Male,Chennai,Tablet,Silver,Debit Card,Organic,16.59,11,13,11083.79,1
+59,1794650,Male,Mumbai,Desktop,Platinum,UPI,Organic,17.95,15,6,18367.18,1
+47,579953,Male,Pune,Tablet,Basic,Credit Card,Google Ads,31.17,1,12,15663.17,1
+36,1151741,Male,Mumbai,Desktop,Basic,Credit Card,Organic,48.59,9,5,21365.01,1
+34,1018003,Female,Delhi,Mobile,Gold,Credit Card,Google Ads,3.94,11,7,20081.25,1
+36,1516230,Male,Hyderabad,Desktop,Basic,Credit Card,Google Ads,36.6,19,2,1130.22,1
+45,461570,Female,Chennai,Desktop,Basic,Debit Card,Google Ads,48.6,13,2,9534.29,1
+43,1265841,Male,Mumbai,Mobile,Basic,Net Banking,Social Media,10.26,16,3,964.43,1
+54,1477897,Male,Bengaluru,Desktop,Basic,Net Banking,Organic,1.89,4,2,2641.67,0
+43,246150,Male,Mumbai,Mobile,Gold,Debit Card,Email,19.45,1,8,15075.13,1
+40,1318189,Male,Bengaluru,Mobile,Basic,UPI,Google Ads,35.7,20,15,21858.16,1
+26,517054,Female,Pune,Desktop,,Net Banking,Organic,9.16,13,10,3083.64,1
+29,301826,Female,Chennai,Mobile,Basic,UPI,Referral,26.14,1,3,11332.12,0
+18,739723,Female,Mumbai,Mobile,Gold,Net Banking,Google Ads,33.59,5,5,22780.88,1
+18,630348,Female,Mumbai,Tablet,Basic,UPI,Google Ads,36.33,5,7,20376.09,1
+51,1438593,Male,Chennai,Desktop,Gold,Debit Card,Email,17.19,14,10,13039.73,1
+49,1179554,Male,Mumbai,Mobile,Silver,Credit Card,Social Media,24.6,14,12,19312.13,1
+42,314055,Male,Bengaluru,Desktop,Basic,UPI,Social Media,46.92,8,7,13115.07,1
+57,670457,Female,Mumbai,Mobile,Silver,Credit Card,Google Ads,56.53,4,15,4036.5,1
+18,856022,Male,Hyderabad,Mobile,Basic,UPI,Organic,51.85,7,14,3205.93,1
+33,989942,Male,Pune,Tablet,Silver,UPI,Referral,34.29,20,4,4790.37,1
+56,876358,Female,Delhi,Desktop,Basic,UPI,Referral,25.21,19,4,8837.96,1
+22,1678638,Male,Bengaluru,Mobile,Platinum,UPI,Organic,20.64,15,5,23270.18,1
+39,1322647,Male,Hyderabad,Desktop,Basic,UPI,Google Ads,8.37,4,9,20011.99,1
+46,1535267,Male,Pune,Desktop,Gold,Credit Card,Referral,7.29,19,6,10876.76,1
+20,1021052,Female,Chennai,Mobile,Basic,UPI,Social Media,41.61,9,12,12377.61,1
+29,326389,Female,Bengaluru,Mobile,Basic,Credit Card,Organic,16.33,13,12,6713.68,1
+43,449708,Female,Delhi,Mobile,Silver,Debit Card,Email,16.03,14,9,17638.39,1
+33,818112,Male,Pune,Desktop,Platinum,Net Banking,Google Ads,59.89,14,13,20088.87,1
+54,1191727,Other,Delhi,Desktop,Basic,UPI,Organic,12.09,10,6,6048.73,0
+39,434444,Female,Chennai,Desktop,Basic,Net Banking,Referral,9.74,16,12,1141.36,1
+46,783561,Male,Chennai,Tablet,Basic,Credit Card,Google Ads,6.82,5,3,15634.83,1
+31,1041291,Female,Bengaluru,Desktop,Basic,Debit Card,Social Media,35.21,6,5,14106.55,1
+45,391837,Male,Mumbai,Mobile,Basic,Debit Card,Google Ads,38.04,2,6,10113.07,1
+22,290017,Female,Chennai,Mobile,Silver,Debit Card,Google Ads,22.55,13,4,16132.96,1
+47,303618,Female,Pune,Mobile,Basic,Net Banking,Social Media,32.59,13,4,13810.27,1
+22,639297,Male,Mumbai,Mobile,Basic,Credit Card,Social Media,47.52,19,1,6339.48,1
+29,1353917,Other,Hyderabad,Desktop,Gold,UPI,Google Ads,49.27,18,6,10003.45,1
+33,1200154,Female,Delhi,Desktop,Silver,UPI,Social Media,57.52,19,11,10760.03,1
+43,995862,Female,Mumbai,Mobile,Basic,Credit Card,Organic,49.63,1,5,22018.18,1
+43,732076,Male,Delhi,Mobile,Basic,Net Banking,Social Media,34.33,8,10,24026.51,1
+38,930865,Male,Mumbai,Desktop,Silver,UPI,Social Media,11.6,16,0,22335.73,1
+56,621759,Male,Hyderabad,Mobile,Basic,Credit Card,Google Ads,6.89,2,3,18007.53,1
+53,1062554,Female,Chennai,Mobile,Silver,UPI,Organic,4.22,8,2,14666.32,1
+50,1792838,Male,Hyderabad,Mobile,Basic,Debit Card,Email,40.33,6,11,17262.61,1
+47,1073741,Female,Chennai,Mobile,Silver,UPI,Email,48.64,16,14,23483.82,1
+54,720659,Female,Chennai,Tablet,Basic,Net Banking,Referral,31.01,11,2,6324.97,1
+40,602845,Male,Delhi,Mobile,Silver,Credit Card,Social Media,4.23,17,6,13424.5,1
+27,886544,Female,,Mobile,Gold,Net Banking,Social Media,32.59,19,10,17271.24,1
+22,504060,Male,Hyderabad,Mobile,Silver,Credit Card,Organic,56.21,11,11,17013.25,1
+53,1421835,Other,Mumbai,Tablet,Basic,Debit Card,Email,36.26,8,9,6381.75,1
+51,455128,Female,Hyderabad,Mobile,Basic,Credit Card,Referral,48.76,4,3,14709.62,1
+48,999471,Male,Delhi,Mobile,Basic,UPI,Organic,48.21,11,14,19918.24,1
+27,789719,Male,Chennai,Mobile,Basic,UPI,Social Media,56.0,8,11,11929.47,1
+36,1050123,Male,Delhi,Mobile,Basic,Debit Card,Email,46.44,9,7,19853.12,1
+49,1025038,Female,Bengaluru,Mobile,Gold,Credit Card,Referral,45.11,2,15,9061.08,1
+18,1632408,Female,Bengaluru,Desktop,Silver,Debit Card,Google Ads,14.81,16,10,23475.13,1
+22,1069097,Female,Mumbai,Mobile,Silver,UPI,Email,4.54,6,15,13394.82,0
+21,1409720,Male,Delhi,Mobile,Silver,Net Banking,Referral,31.54,19,8,14939.1,1
+33,430195,Male,Mumbai,Desktop,Silver,Debit Card,Organic,8.34,8,2,880.9,1
+41,1372324,Male,Mumbai,Mobile,Basic,Net Banking,Google Ads,57.77,14,15,4339.7,1
+33,1632608,Female,Bengaluru,Mobile,Gold,Net Banking,Referral,18.11,16,4,15860.05,1
+19,212733,Female,Mumbai,Mobile,Basic,Credit Card,Referral,51.32,12,3,10554.77,1
+45,706338,Male,Bengaluru,Tablet,Gold,Debit Card,Social Media,23.87,5,13,12753.28,1
+49,289996,Male,Chennai,Mobile,Gold,Net Banking,Email,20.07,19,11,1667.99,1
+44,738221,Female,Delhi,Desktop,Gold,Net Banking,Social Media,56.17,18,15,20869.97,1
+37,729239,Female,Mumbai,Desktop,Silver,Credit Card,Google Ads,22.44,9,9,19634.19,1
+41,736701,Female,Bengaluru,Mobile,Basic,Credit Card,Referral,24.03,2,14,4715.31,1
+29,1394449,Female,Hyderabad,Tablet,Silver,UPI,Social Media,7.26,20,5,15894.8,1
+52,1130417,Male,Mumbai,Mobile,Silver,Net Banking,Email,40.56,12,10,20476.05,1
+50,1079005,Male,Pune,Mobile,Silver,UPI,Google Ads,18.04,2,9,16057.27,1
+50,1216580,Female,Chennai,Desktop,Gold,Net Banking,Organic,35.55,10,3,7828.91,1
+60,613816,Female,Chennai,Desktop,Basic,UPI,Social Media,35.89,1,7,16437.17,1
+54,1450464,Male,Hyderabad,Desktop,Basic,Credit Card,Google Ads,43.43,4,2,5340.5,1
+29,965332,Female,Bengaluru,Mobile,Basic,Debit Card,Organic,44.97,12,10,8024.55,1
+20,947950,Female,Mumbai,Mobile,Basic,Credit Card,Social Media,31.35,9,4,6077.73,0
+18,346472,Female,Bengaluru,Desktop,Silver,UPI,Google Ads,20.53,4,12,13967.44,1
+50,577710,Female,Chennai,Mobile,Gold,UPI,Google Ads,50.41,9,15,2794.84,1
+57,391760,Male,Bengaluru,Mobile,Gold,Debit Card,Social Media,19.28,6,15,23339.43,1
+27,302744,Female,Chennai,Mobile,Gold,Net Banking,Google Ads,30.94,1,0,8404.46,1
+60,1730522,Female,Bengaluru,Mobile,Gold,UPI,Referral,24.67,10,12,5552.36,1
+46,1271577,Female,Hyderabad,Desktop,Gold,UPI,Social Media,51.45,14,14,12464.09,1
+30,771652,Female,Delhi,Mobile,Basic,UPI,Google Ads,26.48,18,5,6997.25,1
+29,1091420,Female,Hyderabad,Tablet,Gold,Debit Card,Organic,23.78,6,10,13419.11,1
+48,1011460,Male,Hyderabad,Mobile,Basic,Credit Card,Organic,41.7,18,4,8777.88,1
+19,418506,Female,Delhi,Desktop,Basic,UPI,Referral,36.54,20,7,3388.46,1
+52,933019,Female,Delhi,Mobile,Silver,Debit Card,Social Media,7.33,16,8,6720.79,1
+40,610789,Female,Mumbai,Mobile,Basic,UPI,Google Ads,30.98,15,7,11017.15,1
+34,1090775,Female,Mumbai,Mobile,Basic,Net Banking,Google Ads,44.39,16,15,854.3,1
+43,1092727,Female,Hyderabad,Mobile,Basic,Debit Card,Organic,59.53,8,7,19289.0,1
+25,679722,Male,Hyderabad,Mobile,Basic,UPI,Referral,38.12,13,11,15583.43,1
+46,738924,Female,Chennai,Tablet,Platinum,Debit Card,Organic,22.85,11,13,15073.85,1
+43,359352,Male,Chennai,Desktop,Basic,UPI,Organic,14.34,7,12,13696.64,1
+27,990694,Male,Mumbai,Mobile,Basic,Credit Card,Referral,52.5,17,2,14798.8,1
+43,373283,Female,Pune,Mobile,Silver,UPI,Social Media,49.06,18,3,23372.83,1
+51,1152346,Female,Pune,Mobile,Silver,Debit Card,Google Ads,14.8,19,15,313.37,1
+58,1095015,Male,Mumbai,Mobile,Platinum,Net Banking,Social Media,12.84,13,14,1290.21,1
+24,1678771,Male,Chennai,Desktop,Basic,Net Banking,Email,43.19,15,10,4868.19,1
+21,1178974,Female,Chennai,Tablet,Silver,Net Banking,Email,19.58,1,3,4265.8,0
+28,611413,Male,Pune,Mobile,Gold,UPI,Email,19.08,16,14,4611.74,1
+46,1532564,Male,Bengaluru,Mobile,Platinum,Credit Card,Referral,9.99,5,14,16831.4,1
+53,506898,Male,Bengaluru,Mobile,Silver,UPI,Organic,16.57,3,13,11541.13,1
+42,1131661,Male,Chennai,Desktop,Gold,Net Banking,Social Media,26.22,10,10,24795.29,1
+38,1043561,Male,Bengaluru,Mobile,Basic,Debit Card,Google Ads,44.24,19,4,5749.46,1
+53,482186,Male,Delhi,Desktop,Silver,Net Banking,Email,20.84,5,12,7839.67,1
+27,1290241,Male,Mumbai,Desktop,Silver,Debit Card,Social Media,20.39,7,8,24607.59,1
+54,1475160,Female,Mumbai,Mobile,Gold,Credit Card,Email,17.81,14,11,20810.78,1
+26,1345529,Female,Chennai,Desktop,Basic,Debit Card,Email,29.22,3,8,11798.0,0
+41,656072,Female,Hyderabad,Mobile,Basic,UPI,Google Ads,11.66,13,9,13909.46,1
+52,1206553,Male,Pune,Desktop,Basic,UPI,Referral,29.65,13,12,21095.13,1
+52,1415202,Male,Chennai,Mobile,Basic,UPI,Organic,42.55,10,11,12076.41,1
+53,325271,Female,Bengaluru,Mobile,Basic,Debit Card,Referral,2.76,2,13,5229.99,1
+35,298533,Male,Pune,Tablet,Platinum,UPI,Social Media,1.58,6,0,20728.27,1
+56,1148452,Female,Hyderabad,Desktop,Silver,UPI,Referral,5.43,8,13,13490.54,1
+49,1694542,Female,Bengaluru,Desktop,Silver,UPI,Social Media,32.6,4,13,3910.76,1
+41,246262,Female,Delhi,Mobile,Gold,Credit Card,Social Media,51.41,12,7,12689.09,1
+40,1013032,Male,Bengaluru,Desktop,Silver,Debit Card,Organic,1.29,15,15,10388.76,1
+49,256898,Male,Delhi,Mobile,Basic,Debit Card,Google Ads,56.26,8,13,21933.38,1
+54,635699,Female,,Desktop,Basic,Net Banking,Organic,7.27,7,0,3238.78,0
+29,1377945,Male,Delhi,Mobile,Basic,Debit Card,Referral,50.68,14,15,21892.72,1
+30,734736,Female,Pune,Tablet,Silver,Credit Card,Social Media,29.49,19,1,12854.05,1
+40,468316,Female,Pune,Tablet,Silver,Debit Card,Email,39.9,14,6,10168.67,1
+42,1236233,Other,Pune,Desktop,Basic,Credit Card,Email,31.13,13,14,4132.98,1
+52,657602,Male,Pune,Mobile,Silver,Credit Card,Social Media,29.15,1,7,17550.37,1
+58,1124189,Female,Pune,Mobile,Platinum,Debit Card,Organic,50.26,19,0,23177.49,1
+47,1219504,Female,Bengaluru,Desktop,Gold,Net Banking,Google Ads,45.6,1,14,9446.9,1
+34,554999,Male,Pune,Mobile,Gold,UPI,Organic,29.52,4,2,6115.47,1
+37,187906,Male,Bengaluru,Desktop,Gold,UPI,Social Media,7.59,10,6,13916.19,1
+42,1552133,Female,Pune,Mobile,Basic,Debit Card,Social Media,7.81,3,12,19925.03,1
+39,973719,Male,Delhi,Mobile,Gold,Debit Card,Google Ads,48.29,20,8,193.82,1
+30,1524380,Male,Pune,Tablet,Basic,Credit Card,Referral,32.23,9,7,15821.3,1
+36,1697550,Male,Hyderabad,Desktop,Gold,Debit Card,Referral,29.41,3,7,14953.25,1
+53,1026936,Female,Pune,Mobile,Silver,Credit Card,Google Ads,41.15,6,14,8021.99,1
+29,895080,Female,Pune,Mobile,Basic,Net Banking,Referral,51.67,6,8,11340.43,1
+58,214701,Female,Delhi,Mobile,Gold,Debit Card,Email,38.1,12,9,6249.38,1
+36,1311876,Male,Mumbai,Desktop,Platinum,UPI,Referral,46.01,1,2,19768.15,1
+29,945537,Male,Delhi,Mobile,Basic,UPI,Referral,46.15,16,7,15899.92,1
+26,263560,Female,Hyderabad,Tablet,Gold,Debit Card,Referral,22.02,5,0,13364.52,1
+24,422615,Female,Mumbai,Desktop,Basic,Credit Card,Email,17.17,9,15,9873.9,1
+45,223642,Male,Chennai,Mobile,Silver,UPI,Referral,48.27,10,7,7355.47,1
+31,697083,Female,Chennai,Desktop,Silver,Credit Card,Email,23.25,13,12,20586.14,1
+48,671036,Other,Hyderabad,Mobile,Silver,Debit Card,Google Ads,54.3,15,6,11340.05,0
+36,507304,Female,Delhi,Mobile,Platinum,Debit Card,Organic,5.11,12,12,12586.04,1
+33,545464,Female,Bengaluru,Tablet,Gold,UPI,Google Ads,4.43,5,14,13068.64,1
+22,793089,Female,Hyderabad,Mobile,Gold,Debit Card,Organic,55.69,5,7,11264.34,1
+52,1516651,Male,Mumbai,Mobile,Basic,Net Banking,Google Ads,39.26,18,0,6476.6,1
+29,1322953,Female,Mumbai,Mobile,Platinum,Net Banking,Organic,23.4,12,5,3096.48,1
+42,506916,Other,Pune,Mobile,Basic,UPI,Organic,45.55,3,6,2553.58,1
+38,1680554,Male,Chennai,Mobile,Gold,Net Banking,Social Media,40.67,7,13,18960.82,1
+53,492250,Female,Mumbai,Desktop,Basic,Credit Card,Organic,32.34,17,10,5665.84,1
+40,785409,Female,Hyderabad,Desktop,,UPI,Organic,6.83,19,4,1486.25,1
+33,1254135,Female,Mumbai,Desktop,Gold,UPI,Social Media,48.92,18,13,19958.18,1
+56,1072027,Female,Hyderabad,Mobile,Basic,Credit Card,Referral,52.1,1,4,3936.14,1
+59,738030,Female,Bengaluru,Mobile,Basic,Net Banking,Referral,11.16,5,6,15666.14,0
+56,1036101,Female,Pune,Mobile,Basic,Net Banking,Social Media,51.18,2,14,8532.22,1
+31,1363620,Male,Chennai,Mobile,Basic,Net Banking,Email,52.79,1,10,3249.36,1
+48,1340793,Female,Mumbai,Mobile,Basic,UPI,Organic,33.42,7,14,10420.58,1
+22,1794737,Male,Hyderabad,Mobile,Basic,UPI,Organic,39.71,11,15,468.74,1
+52,1072964,Male,Delhi,Mobile,Silver,Net Banking,Social Media,23.55,11,2,21042.02,1
+40,583119,Male,Chennai,Mobile,Basic,Debit Card,Social Media,17.63,18,5,12886.1,1
+46,838380,Female,Bengaluru,Tablet,Gold,Net Banking,Email,43.6,17,6,3565.08,1
+60,1315564,Male,Hyderabad,Tablet,Basic,Credit Card,Referral,51.85,2,0,6000.81,1
+28,749936,Female,Pune,Desktop,Platinum,UPI,Google Ads,39.59,7,11,11254.58,1
+35,305991,Female,Pune,Tablet,Gold,Credit Card,Referral,31.18,7,1,4802.85,1
+29,582732,Female,Bengaluru,Desktop,Basic,Credit Card,Organic,10.38,10,15,6788.12,1
+26,686079,Male,Bengaluru,Mobile,Gold,UPI,Social Media,4.15,3,11,13406.2,0
+27,706684,Female,Pune,Mobile,Gold,Debit Card,Email,27.3,12,3,20831.96,1
+34,1312658,Female,Mumbai,Desktop,Platinum,Net Banking,Referral,3.91,3,12,10105.81,1
+55,308322,Female,Mumbai,Desktop,Silver,Credit Card,Email,34.59,11,15,17952.68,1
+24,836951,Male,Hyderabad,Desktop,Basic,UPI,Referral,23.58,12,7,21929.44,1
+30,191303,Male,Delhi,Desktop,Silver,Credit Card,Organic,45.67,4,10,5485.89,1
+57,1390209,Male,Hyderabad,Mobile,Silver,Net Banking,Google Ads,19.03,16,12,20199.08,1
+59,1562439,Male,Delhi,Desktop,Silver,Debit Card,Email,35.99,20,13,18959.31,1
+26,1478266,Male,Bengaluru,Tablet,Basic,Debit Card,Email,32.72,18,9,8987.74,1
+44,1189612,Female,Chennai,Mobile,Gold,Debit Card,Google Ads,1.28,4,5,24739.05,1
+19,279616,Male,Hyderabad,Desktop,Platinum,UPI,Email,5.27,6,0,6638.05,1
+22,1090597,Male,Hyderabad,Mobile,Basic,UPI,Email,18.13,15,9,6444.6,0
+46,1314807,Male,Delhi,Desktop,Basic,Debit Card,Referral,53.05,1,4,19329.25,1
+54,449458,Male,Bengaluru,Desktop,Basic,Net Banking,Referral,9.67,3,6,10922.97,0
+55,1248199,Male,Bengaluru,Mobile,Gold,Net Banking,Google Ads,42.94,5,14,8336.8,1
+36,903035,Male,Delhi,Desktop,Gold,UPI,Organic,58.43,17,12,4548.7,1
+25,670042,Male,Bengaluru,Mobile,Silver,Debit Card,Email,47.64,14,5,19156.78,1
+18,638298,Female,Pune,Desktop,Silver,Net Banking,Organic,15.33,9,12,19679.41,1
+39,1227343,Other,Mumbai,Mobile,Silver,Net Banking,Google Ads,54.59,3,12,14207.44,1
+34,1705416,Male,Pune,Desktop,Basic,Net Banking,Google Ads,6.49,13,11,23937.11,1
+24,285228,Male,Chennai,Mobile,Silver,UPI,Referral,28.62,3,8,8022.27,1
+42,606346,Female,Hyderabad,Desktop,Gold,Debit Card,Email,53.36,11,7,5568.51,1
+21,1064056,Male,Chennai,Mobile,Platinum,Credit Card,Social Media,38.83,2,14,16968.92,1
+53,1749123,Male,Hyderabad,Desktop,Platinum,Debit Card,Google Ads,25.41,15,3,18984.38,1
+23,1297850,Female,Mumbai,Tablet,Platinum,Debit Card,Email,18.28,13,12,5700.16,1
+48,1362117,Male,Bengaluru,Tablet,Silver,UPI,Organic,23.13,19,10,2007.61,1
+36,1282523,Female,Pune,Desktop,Silver,Net Banking,Referral,31.03,16,11,20281.86,1
+56,1423268,Female,Delhi,Desktop,Gold,Net Banking,Organic,19.82,18,4,24414.9,1
+44,228874,Male,Pune,Mobile,Platinum,UPI,Google Ads,58.17,7,6,16152.34,1
+27,1303129,Male,Mumbai,Mobile,Basic,UPI,Google Ads,56.05,13,7,7018.89,1
+43,772632,Female,Chennai,Mobile,Basic,UPI,Organic,52.37,4,4,24917.15,1
+36,889662,Male,Delhi,Desktop,Basic,UPI,Google Ads,25.89,9,8,22342.34,1
+56,751926,Male,Bengaluru,Tablet,Silver,UPI,Email,41.79,10,13,12883.18,1
+20,1306825,Female,Mumbai,Mobile,Basic,Credit Card,Google Ads,54.27,9,9,20650.5,1
+30,707007,Female,Delhi,Tablet,Basic,Debit Card,Referral,51.18,7,11,20413.93,1
+45,858250,Male,Mumbai,Desktop,Basic,Debit Card,Email,25.45,15,3,23376.49,1
+37,650452,Female,Mumbai,Desktop,Basic,Debit Card,Social Media,7.63,8,3,21039.0,0
+45,1658301,Male,Bengaluru,Mobile,Gold,Net Banking,Google Ads,5.46,19,12,16127.61,1
+25,222534,Female,Hyderabad,Mobile,Basic,Credit Card,Google Ads,35.05,11,7,15271.66,0
+58,675518,Female,Delhi,Mobile,Gold,Debit Card,Referral,38.92,5,0,11737.2,1
+56,796529,Female,Bengaluru,Desktop,Silver,Net Banking,Referral,51.14,2,7,15699.49,1
+18,592003,Female,Mumbai,Mobile,Gold,Credit Card,Organic,18.26,10,4,19900.89,1
+20,306209,Other,Bengaluru,Mobile,Basic,Credit Card,Organic,10.88,16,12,24229.04,1
+30,622061,Male,Hyderabad,Desktop,Platinum,Net Banking,Organic,23.36,13,13,11735.46,1
+45,1417580,Female,Pune,Desktop,Silver,Credit Card,Referral,21.86,8,10,14383.96,1
+42,796412,Male,Delhi,Tablet,Platinum,Net Banking,Organic,8.82,9,0,11175.66,1
+50,344134,Male,Hyderabad,Mobile,Platinum,Debit Card,Organic,40.66,11,3,16745.37,1
+55,1304289,Male,Chennai,Mobile,Basic,Net Banking,Social Media,31.01,11,1,15785.02,1
+23,668972,Female,Delhi,Desktop,Basic,Credit Card,Organic,43.55,16,3,544.06,0
+49,1157965,Other,Hyderabad,Mobile,Basic,Debit Card,Google Ads,21.81,10,7,13574.92,1
+38,1303994,Male,Mumbai,Mobile,Silver,Debit Card,Referral,20.22,12,4,2303.32,1
+33,1164176,Male,Delhi,Mobile,Basic,UPI,Email,28.88,6,0,756.95,1
+38,1356808,Female,Delhi,Mobile,Basic,UPI,Social Media,52.77,12,6,19800.81,1
+28,700551,Male,Bengaluru,Mobile,Silver,Credit Card,Referral,3.38,10,0,6540.38,1
+54,343038,Male,Mumbai,Mobile,Basic,Net Banking,Referral,48.49,18,8,8582.31,1
+53,1170049,Female,,Mobile,Basic,Net Banking,Google Ads,22.77,18,2,1695.71,1
+52,1110491,Female,Pune,Mobile,Silver,Credit Card,Organic,51.42,4,11,4569.56,1
+36,1396959,Other,Hyderabad,Desktop,Basic,Debit Card,Google Ads,48.33,9,2,19163.56,1
+37,1554572,Male,Bengaluru,Mobile,Silver,Credit Card,Organic,21.58,7,14,12388.92,1
+35,438722,Male,Hyderabad,Desktop,Silver,Credit Card,Organic,41.94,18,14,22028.64,1
+58,312079,Female,Chennai,Mobile,Silver,Debit Card,Referral,10.42,8,5,9991.33,1
+31,382053,Female,Chennai,Mobile,Gold,Net Banking,Organic,53.88,11,15,6790.65,1
+32,780530,Female,Delhi,Desktop,Silver,Credit Card,Social Media,24.86,7,9,8755.24,1
+48,1407165,Female,Chennai,Mobile,Silver,Net Banking,Social Media,27.88,9,5,17848.02,1
+18,1731814,Male,Hyderabad,Mobile,Silver,Credit Card,Social Media,42.64,8,12,13919.64,1
+20,1257833,Female,Mumbai,Mobile,Gold,Debit Card,Referral,49.43,3,10,22614.36,1
+33,660488,,Mumbai,Tablet,Gold,Debit Card,Google Ads,14.94,17,10,15094.0,1
+40,615423,Male,Delhi,Mobile,Gold,UPI,Email,40.02,2,5,12376.15,1
+28,1372929,Female,Pune,Mobile,Gold,Debit Card,Organic,24.13,15,12,19665.24,1
+29,503390,Male,Hyderabad,Desktop,Basic,UPI,Email,22.75,14,0,23693.59,1
+27,443579,Male,Hyderabad,Mobile,Basic,Credit Card,Google Ads,41.71,18,4,8960.56,1
+49,1458523,Female,Chennai,Mobile,Basic,Net Banking,Google Ads,23.84,16,11,6321.92,1
+33,1460334,Male,Hyderabad,Mobile,Platinum,Debit Card,Referral,21.42,20,5,15443.81,1
+25,1386308,Female,Bengaluru,Desktop,Gold,Debit Card,Social Media,50.32,4,7,12521.93,1
+55,1179701,Male,Pune,Mobile,Gold,Debit Card,Social Media,6.98,20,12,24730.72,1
+29,1111011,Female,Chennai,Mobile,Basic,Credit Card,Google Ads,40.88,6,0,11612.81,1
+41,1667331,Male,Bengaluru,Mobile,Gold,UPI,Referral,15.67,6,4,1950.86,1
+45,318563,Male,Delhi,Desktop,Basic,Credit Card,Referral,1.91,11,2,24436.49,1
+25,963066,Other,Mumbai,Mobile,Basic,Net Banking,Organic,10.84,17,1,21105.31,1
+45,1734623,Female,Delhi,Tablet,Silver,Credit Card,Social Media,36.79,3,10,4538.43,1
+53,885552,Female,Mumbai,Mobile,Silver,Net Banking,Google Ads,42.84,13,7,22624.67,1
+43,506032,Male,Delhi,Tablet,Silver,Debit Card,Email,2.24,3,6,8582.6,1
+25,777897,Female,Hyderabad,Tablet,Gold,Net Banking,Social Media,3.15,16,9,9490.09,1
+45,952800,Female,Bengaluru,Mobile,Basic,Net Banking,Organic,54.25,15,6,22669.15,1
+45,1482549,Female,Mumbai,Mobile,Silver,UPI,Referral,5.33,11,4,13299.88,1
+54,1511673,Female,Chennai,Mobile,Silver,Net Banking,Google Ads,53.76,18,11,3530.3,1
+58,1605402,Male,Bengaluru,Mobile,Basic,Net Banking,Social Media,14.46,15,15,9289.5,1
+53,1742833,Male,Chennai,Desktop,Gold,Credit Card,Email,44.66,5,12,18080.23,1
+44,1659359,Female,Bengaluru,Mobile,Gold,Debit Card,Organic,19.27,16,8,4437.19,1
+34,1343950,Male,Bengaluru,Mobile,Gold,Credit Card,Organic,51.67,16,4,14796.76,1
+26,729148,Male,Delhi,Mobile,Gold,Credit Card,Social Media,42.33,17,1,17412.33,1
+50,856555,Female,Mumbai,Tablet,,Debit Card,Email,24.71,9,2,8661.95,1
+37,781763,Female,Mumbai,Mobile,Basic,Debit Card,Organic,5.5,3,3,17377.63,0
+30,664090,Female,Bengaluru,Mobile,Gold,Net Banking,Google Ads,44.23,20,14,22116.76,1
+45,1053698,Female,Hyderabad,Mobile,Basic,Net Banking,Organic,37.4,13,4,11855.71,1
+46,856787,Female,Hyderabad,Tablet,Basic,UPI,Email,1.17,3,12,9634.44,1
+30,1517803,Male,Chennai,Desktop,Basic,Credit Card,Referral,1.56,7,2,6353.84,1
+52,922406,Male,Chennai,Mobile,Gold,Debit Card,Referral,48.72,6,11,15144.72,1
+23,1023804,Male,Delhi,Mobile,Gold,Net Banking,Social Media,16.3,9,13,22008.32,1
+35,828074,Male,Bengaluru,Mobile,Basic,Debit Card,Email,38.53,12,6,8184.07,1
+22,1141568,Female,Chennai,Mobile,Gold,Net Banking,Organic,27.8,15,4,9966.26,1
+42,1760677,Male,Chennai,Tablet,Platinum,UPI,Organic,51.94,20,4,10224.98,1
+19,1260174,Male,Pune,Desktop,Basic,UPI,Referral,55.1,3,5,14064.23,1
+27,1734510,Male,Bengaluru,Mobile,Basic,Debit Card,Referral,59.81,10,6,5787.38,1
+47,469226,Male,Delhi,Desktop,Gold,UPI,Google Ads,10.07,1,9,20573.06,1
+22,995673,Male,Chennai,Mobile,Basic,Debit Card,Referral,51.91,19,9,7460.5,1
+50,407286,Male,Delhi,Desktop,Silver,Net Banking,Google Ads,16.7,19,15,17663.53,1
+18,617785,Male,Mumbai,Desktop,Basic,Credit Card,Organic,35.86,13,7,12879.07,1
+35,1240321,Male,Delhi,Mobile,Silver,UPI,Google Ads,30.84,12,8,14688.85,1
+49,992461,Male,Hyderabad,Desktop,Gold,Net Banking,Google Ads,2.06,1,10,4572.26,1
+28,1372673,Female,Hyderabad,Mobile,Gold,Credit Card,Social Media,56.03,19,3,18402.08,1
+38,412732,Male,Delhi,Mobile,Gold,Credit Card,Referral,5.62,16,4,4796.65,1
+43,793474,Male,Hyderabad,Mobile,Gold,Credit Card,Google Ads,41.6,15,14,2925.49,1
+42,1104044,Female,Mumbai,Mobile,Gold,Net Banking,Organic,47.32,16,4,13712.32,1
+39,1064200,Male,Bengaluru,Desktop,Gold,Net Banking,Email,47.92,11,7,17761.5,1
+44,393030,Female,Hyderabad,Tablet,Basic,Debit Card,Google Ads,8.99,6,8,1345.89,0
+30,904238,Female,Hyderabad,Desktop,Silver,Credit Card,Referral,27.41,11,6,1827.94,1
+50,1794710,Male,Delhi,Desktop,Basic,Credit Card,Social Media,49.94,3,14,20086.71,1
+51,1198652,Female,Mumbai,Desktop,Gold,Credit Card,Organic,18.86,15,4,20244.91,1
+58,1566652,Male,Bengaluru,Mobile,Basic,Debit Card,Social Media,28.6,1,2,6208.09,1
+52,328554,Female,Delhi,Mobile,Silver,Credit Card,Email,17.09,7,0,15419.18,0
+18,465555,Male,Delhi,Mobile,Basic,Net Banking,Google Ads,28.35,1,10,11135.18,1
+38,624191,Female,Pune,Desktop,Gold,Credit Card,Google Ads,53.38,17,8,15854.13,1
+23,1682337,Male,Mumbai,Tablet,Gold,UPI,Referral,27.85,9,4,21585.69,1
+45,1734094,Female,Bengaluru,Mobile,Silver,Net Banking,Google Ads,33.8,13,8,2088.42,1
+34,1569517,Female,Mumbai,Desktop,Gold,Debit Card,Organic,24.83,11,9,19471.81,1
+22,494451,Male,Bengaluru,Desktop,Basic,Credit Card,Email,28.15,20,14,12376.42,1
+48,1100597,Male,Mumbai,Mobile,Silver,UPI,Social Media,1.9,6,11,14146.76,1
+22,1512762,Female,Delhi,Mobile,Gold,Debit Card,Email,17.74,1,12,16382.89,1
+55,952944,Female,Delhi,Mobile,Basic,Debit Card,Google Ads,26.76,7,13,23073.32,1
+20,1666205,Male,Chennai,Mobile,Platinum,Net Banking,Social Media,38.39,12,3,1512.33,1
+40,948747,Female,Hyderabad,Mobile,Basic,Debit Card,Referral,27.55,20,4,833.96,1
+54,404695,Other,Pune,Mobile,Basic,Debit Card,Email,20.93,19,3,4538.72,1
+54,1064315,Female,Mumbai,Mobile,Platinum,Debit Card,Social Media,23.9,17,1,24662.55,1
+27,1524476,Male,Pune,Mobile,Basic,Debit Card,Social Media,15.3,4,11,17905.4,1
+27,1281844,Female,Chennai,Desktop,Platinum,Credit Card,Social Media,55.55,3,0,15404.56,1
+36,1661006,Male,Hyderabad,Mobile,Platinum,Credit Card,Organic,31.78,1,7,1271.27,1
+34,1441519,,Mumbai,Desktop,Basic,Credit Card,Email,1.79,18,3,21989.84,1
+38,1650394,Female,Bengaluru,Mobile,Silver,Credit Card,Social Media,2.15,15,4,20337.65,1
+31,888691,Male,Hyderabad,Mobile,Basic,UPI,Email,58.4,8,5,16653.52,1
+26,753189,Female,Delhi,Tablet,Silver,Credit Card,Social Media,14.07,1,13,8544.36,0
+18,1590706,Male,Chennai,Mobile,Basic,Debit Card,Referral,48.53,20,7,1855.57,1
+30,1423064,Other,Hyderabad,Mobile,Basic,Credit Card,Referral,4.44,14,10,14542.96,1
+21,570530,Other,Hyderabad,Desktop,Silver,Credit Card,Referral,55.35,4,7,18020.39,1
+18,842784,Female,Delhi,Mobile,Silver,Net Banking,Google Ads,52.59,5,6,2446.58,1
+57,421531,Male,Mumbai,Mobile,Platinum,Debit Card,Social Media,34.69,13,3,15880.81,1
+49,1475269,Female,Bengaluru,Mobile,Gold,Credit Card,Google Ads,1.53,15,5,7230.52,1
+51,1174465,Male,Delhi,Mobile,Gold,Credit Card,Email,16.21,6,15,19129.68,1
+45,1099484,Male,Bengaluru,Mobile,Silver,Credit Card,Google Ads,25.0,1,3,13536.43,1
+48,883650,Female,Mumbai,Mobile,Gold,UPI,Email,28.14,19,14,3313.02,1
+25,1779295,Male,Hyderabad,Desktop,Basic,Credit Card,Email,18.56,13,13,13210.33,1
+56,1466936,Male,Bengaluru,Desktop,Gold,Net Banking,Email,2.94,6,6,9953.85,1
+43,524855,Other,Chennai,Desktop,Platinum,Debit Card,Google Ads,35.82,15,11,4590.86,1
+51,1735979,Male,Chennai,Desktop,Basic,Debit Card,Social Media,31.93,16,12,21053.74,1
+20,1254961,Male,Delhi,Desktop,Gold,Credit Card,Google Ads,17.7,16,11,374.61,1
+29,611374,Female,Mumbai,,Gold,Credit Card,Social Media,3.24,10,15,7871.99,1
+18,1644811,Male,Delhi,Desktop,Platinum,Credit Card,Social Media,59.68,9,14,413.62,1
+22,460783,Female,Delhi,Desktop,Gold,Debit Card,Email,29.44,9,12,2490.57,1
+47,1314106,Other,Pune,Desktop,Basic,Debit Card,Google Ads,45.6,17,12,7497.7,1
+47,463707,Female,Delhi,Mobile,Basic,UPI,Social Media,27.69,17,10,1451.35,1
+34,557816,Female,Pune,Mobile,Basic,Net Banking,Referral,3.55,17,13,14956.1,1
+40,1658236,Male,Chennai,Mobile,Gold,UPI,Social Media,19.27,12,0,2262.89,1
+32,1166420,Male,Chennai,Desktop,Basic,Net Banking,Referral,19.89,13,4,17572.67,1
+54,1630503,Female,Delhi,Mobile,Gold,UPI,Google Ads,50.46,12,14,1410.79,1
+38,525114,Female,Chennai,Desktop,Basic,Debit Card,Google Ads,39.6,14,13,1576.79,1
+31,423373,Female,Mumbai,Mobile,Basic,UPI,Google Ads,17.25,10,9,7702.61,1
+19,527697,Male,Pune,Mobile,Silver,Net Banking,Social Media,58.1,19,11,22424.63,1
+28,1390355,Male,Pune,Mobile,Gold,Credit Card,Organic,19.97,2,15,16070.69,1
+56,1398758,Male,Delhi,Mobile,Basic,Net Banking,Social Media,59.9,4,14,19276.27,1
+55,1226914,Female,Chennai,Mobile,Silver,Credit Card,Social Media,59.77,19,9,3624.65,1
+51,1136331,Male,Bengaluru,Mobile,Silver,Debit Card,Email,12.28,7,14,20869.72,1
+55,1466836,Female,Pune,Tablet,Basic,Net Banking,Email,19.45,15,3,302.84,1
+51,1103159,Female,Delhi,Mobile,Basic,UPI,Social Media,29.68,15,10,5405.13,0
+35,1151129,Male,Delhi,Mobile,Gold,Net Banking,Referral,40.18,6,6,15440.7,1
+47,826701,Female,Mumbai,Desktop,Silver,Credit Card,Email,32.15,3,12,9443.64,1
+32,966958,Male,Hyderabad,Desktop,Basic,Debit Card,Social Media,58.2,6,8,24606.42,1
+44,510904,Female,Hyderabad,Desktop,Gold,UPI,Organic,43.72,16,4,855.45,1
+51,1276413,Female,Pune,Mobile,Platinum,Net Banking,Referral,13.51,2,3,24965.09,1
+55,698349,Female,Mumbai,Desktop,Silver,Credit Card,Google Ads,7.2,7,14,15628.33,1
+50,964838,Female,Mumbai,Desktop,Silver,UPI,Social Media,41.62,11,8,14011.8,1
+41,977968,Male,Mumbai,Mobile,Gold,Debit Card,Social Media,10.35,7,4,1581.86,1
+32,1781405,Male,Pune,Mobile,Platinum,UPI,Referral,47.47,4,8,6905.89,1
+47,259083,Female,Hyderabad,Mobile,Gold,Debit Card,Email,19.35,20,7,23124.1,1
+59,738819,Male,Mumbai,Mobile,Silver,UPI,Email,20.29,7,3,8920.73,1
+34,1499432,Male,Chennai,Desktop,Silver,Net Banking,Email,1.64,4,10,16575.16,1
+22,1594821,Male,Delhi,Mobile,Gold,Credit Card,Google Ads,42.36,12,10,24987.46,1
+46,957147,Female,Delhi,Tablet,Basic,Net Banking,Referral,7.68,5,6,6650.44,0
+21,1228382,Male,Bengaluru,Mobile,Silver,Net Banking,Referral,46.6,19,4,14444.41,1
+27,834037,Female,Bengaluru,Mobile,Gold,Debit Card,Email,30.02,5,9,17441.3,1
+34,1218836,Other,Pune,Mobile,Gold,Debit Card,Email,47.27,19,3,4199.22,1
+27,1021047,Male,Pune,Mobile,Silver,Debit Card,Organic,35.45,3,4,3801.95,1
+34,786791,Male,Delhi,Desktop,Gold,Net Banking,Organic,5.86,11,4,11462.07,1
+37,1482922,Male,Chennai,Desktop,Basic,UPI,Social Media,46.17,7,10,9706.73,1
+41,789996,Female,Hyderabad,Mobile,Silver,UPI,Social Media,5.12,17,14,17883.96,1
+22,895472,Male,Hyderabad,Mobile,Gold,Net Banking,Referral,29.24,9,8,1830.77,1
+51,1224244,Male,Pune,Mobile,Basic,Net Banking,Referral,11.17,9,11,24306.95,1
+23,958513,Male,Chennai,Desktop,Basic,Credit Card,Google Ads,45.39,10,15,455.5,1
+19,1386237,Female,Pune,Mobile,Platinum,Debit Card,Google Ads,54.78,13,8,15072.79,1
+30,340081,Male,Hyderabad,Mobile,Basic,Debit Card,Organic,33.69,15,5,14109.55,0
+60,568590,Female,Pune,Desktop,Basic,Net Banking,Social Media,32.1,5,13,3454.42,1
+60,1073093,Female,Mumbai,Tablet,Platinum,Net Banking,Organic,46.07,3,3,3857.81,1
+28,861503,Male,Pune,Mobile,Gold,UPI,Organic,1.3,8,14,19837.67,0
+40,1234730,Female,Delhi,Mobile,Gold,Net Banking,Social Media,55.15,20,1,22200.31,1
+33,857164,Male,Pune,Desktop,Gold,UPI,Google Ads,12.65,10,13,7147.12,1
+48,1139192,Female,Delhi,Desktop,Basic,Net Banking,Social Media,59.06,13,2,11005.3,1
+28,1292864,Female,Chennai,Mobile,Gold,Credit Card,Email,44.44,3,1,8939.38,1
+33,231195,Female,Hyderabad,Tablet,Silver,Credit Card,Email,46.68,8,4,1906.42,1
+25,462725,Male,Bengaluru,Desktop,Gold,UPI,Email,39.72,9,5,16862.79,1
+21,625864,Male,Bengaluru,Mobile,Silver,Debit Card,Referral,28.83,12,10,20647.3,1
+57,472231,Male,Hyderabad,Mobile,Silver,Credit Card,Google Ads,34.73,11,4,7691.5,1
+21,885290,Male,Bengaluru,Mobile,Silver,UPI,Google Ads,3.74,2,1,24755.38,1
+42,344053,Male,Pune,Desktop,Silver,Net Banking,Referral,37.81,18,11,1988.7,1
+20,773586,Male,Chennai,Mobile,Gold,Net Banking,Organic,37.94,9,4,16578.59,1
+49,1665200,Male,Chennai,Desktop,Silver,UPI,Email,53.58,2,8,11260.88,1
+20,1268075,Male,Hyderabad,Desktop,Silver,Debit Card,Email,30.83,2,3,11220.39,1
+44,1616536,Female,Bengaluru,Mobile,Silver,UPI,Organic,5.55,3,11,11495.38,1
+46,625485,Male,Pune,Desktop,Silver,UPI,Social Media,19.07,16,9,6541.18,1
+49,1473774,Male,Chennai,Tablet,Gold,Credit Card,Social Media,39.68,19,1,17917.51,1
+36,1696111,Male,Chennai,Mobile,Gold,UPI,Google Ads,15.12,4,2,18067.26,1
+38,1539507,Male,Mumbai,Mobile,Gold,UPI,Referral,17.55,18,2,7131.69,1
+22,1526208,Other,Mumbai,Mobile,Platinum,Net Banking,Google Ads,49.41,20,8,20899.13,1
+35,516585,Male,Chennai,Desktop,Gold,Credit Card,Social Media,35.47,18,3,7989.44,1
+45,202431,Female,Hyderabad,Tablet,Silver,Net Banking,Organic,31.0,10,15,18154.82,1
+59,1552401,Other,Delhi,Mobile,Gold,Net Banking,Google Ads,19.79,11,14,3112.89,1
+39,1423131,Female,Delhi,Desktop,Platinum,Debit Card,Email,44.12,17,0,4300.67,1
+38,827008,Female,Pune,Mobile,Silver,Debit Card,Email,17.98,20,0,7963.31,1
+23,753441,Female,Chennai,Mobile,Gold,Credit Card,Organic,44.49,16,14,14887.46,1
+18,448512,Other,Chennai,Mobile,Gold,Credit Card,Social Media,5.14,20,6,16173.24,1
+22,1078792,Female,Chennai,Mobile,Silver,Debit Card,Email,52.01,13,6,9969.27,1
+58,356076,Female,Hyderabad,Mobile,Basic,Debit Card,Email,30.47,2,1,2038.19,1
+29,1448300,Female,Mumbai,Mobile,Silver,Debit Card,Referral,26.87,2,8,9403.5,1
+43,1543046,Female,Chennai,Mobile,Platinum,Debit Card,Google Ads,37.05,14,8,17250.31,1
+51,858758,Female,Chennai,Tablet,Gold,Debit Card,Social Media,37.83,4,4,16807.79,1
+31,933753,Male,Bengaluru,Mobile,Silver,Net Banking,Google Ads,8.79,17,14,4088.89,1
+43,230861,Male,Hyderabad,Mobile,Platinum,Credit Card,Social Media,45.62,13,14,293.82,1
+44,1566617,Male,Pune,Mobile,Silver,Net Banking,Email,17.28,4,2,18849.24,1
+26,1441553,Male,Chennai,Desktop,Silver,Net Banking,Referral,54.39,3,2,2748.57,1
+43,831406,Male,Bengaluru,Mobile,Gold,UPI,Google Ads,49.25,12,11,2150.49,1
+39,901001,Male,Delhi,Mobile,Gold,Net Banking,Email,21.43,8,2,167.26,1
+47,189078,Female,Pune,Tablet,Basic,Debit Card,Social Media,48.66,2,5,10871.77,1
+60,504912,Male,Chennai,Mobile,Silver,Debit Card,Google Ads,22.03,6,3,12631.27,1
+34,1038058,Female,Chennai,Mobile,Silver,UPI,Google Ads,6.96,10,7,15977.83,1
+43,1024092,Male,Bengaluru,Desktop,Silver,UPI,Email,57.75,12,14,7471.99,1
+53,1147290,Male,Hyderabad,Mobile,Silver,UPI,Google Ads,39.5,10,12,17789.58,0
+18,1623717,Female,Chennai,Mobile,Silver,UPI,Referral,27.91,10,10,4316.36,1
+25,395048,Female,Delhi,Mobile,Basic,UPI,Referral,24.47,3,12,20816.55,1
+52,940581,Male,Chennai,Mobile,Silver,Net Banking,Email,20.16,20,10,14339.02,1
+32,1096838,Female,Delhi,Mobile,,UPI,Social Media,58.91,10,10,14638.86,1
+39,829438,Female,Pune,Mobile,Silver,Net Banking,Email,8.95,9,4,5323.41,0
+31,1385663,Male,Pune,Mobile,Gold,Credit Card,Referral,19.57,20,0,1945.31,1
+43,213320,Male,Mumbai,Mobile,Gold,UPI,Organic,29.64,19,8,11671.65,1
+45,507025,Other,Mumbai,Desktop,Silver,UPI,Organic,29.2,14,0,15428.74,1
+40,795115,Female,Delhi,Mobile,Basic,Net Banking,Google Ads,28.81,2,5,2466.66,1
+31,1741863,Female,Hyderabad,Mobile,Basic,Credit Card,Google Ads,11.37,5,0,23768.31,1
+41,544359,Female,Chennai,Desktop,Silver,Net Banking,Organic,9.55,20,2,24512.32,0
+19,1123793,Male,Chennai,Desktop,Basic,Net Banking,Referral,16.03,8,14,13681.87,1
+43,1488507,Male,Mumbai,Mobile,Silver,UPI,Google Ads,54.96,7,9,23756.72,1
+31,1123187,Male,Delhi,Tablet,Basic,Debit Card,Email,7.67,6,4,4568.19,1
+24,586845,Female,Chennai,Mobile,Gold,Debit Card,Email,45.69,11,14,732.98,1
+20,1777690,Female,Chennai,Mobile,Silver,Net Banking,Referral,45.7,12,9,1081.3,1
+40,280734,Female,Hyderabad,Desktop,Basic,UPI,Google Ads,48.78,18,6,14729.06,1
+60,337702,Male,Bengaluru,Mobile,Gold,Credit Card,Email,53.31,19,13,1634.88,1
+35,934122,Male,Mumbai,Mobile,Basic,Debit Card,Google Ads,16.52,10,9,23967.79,1
+55,1405811,Female,Mumbai,Mobile,Basic,Credit Card,Google Ads,14.25,14,7,3634.14,1
+52,1327087,Female,Bengaluru,Mobile,Silver,Debit Card,Email,28.46,3,11,7687.6,1
+32,1163939,Female,Chennai,Mobile,Silver,UPI,Organic,16.64,18,8,20580.69,1
+42,1502373,Male,Hyderabad,Tablet,Gold,Net Banking,Email,44.32,15,15,5546.63,1
+54,786229,Female,Hyderabad,Mobile,Basic,Credit Card,Referral,38.52,6,5,6149.91,0
+45,909497,Male,Mumbai,Desktop,Silver,Credit Card,Social Media,52.62,10,14,16093.49,1
+27,278818,Female,Hyderabad,Mobile,Basic,Net Banking,Email,5.88,12,10,6974.54,1
+56,1153950,,Pune,Desktop,Basic,Credit Card,Google Ads,54.99,7,8,5514.45,1
+34,332360,Female,Bengaluru,,Gold,Debit Card,Google Ads,18.31,17,7,6429.03,1
+56,799369,Male,Chennai,Desktop,Gold,Net Banking,Email,29.95,1,8,12317.12,1
+39,741165,Female,Pune,Mobile,Basic,Debit Card,Social Media,26.88,18,9,24155.89,1
+43,553706,Male,Bengaluru,Mobile,Silver,Debit Card,Email,45.86,15,3,20822.72,1
+42,1112817,Male,Delhi,Mobile,Basic,UPI,Social Media,25.8,19,8,7186.8,1
+34,1440533,Male,Mumbai,Desktop,Gold,Debit Card,Social Media,56.67,1,14,9147.99,1
+30,252715,Male,Hyderabad,Desktop,Basic,UPI,Referral,54.25,5,6,11666.36,1
+37,321398,Male,Delhi,Mobile,Basic,Credit Card,Google Ads,52.46,15,4,24475.35,1
+42,1747628,Female,Hyderabad,Mobile,Silver,Credit Card,Google Ads,5.2,3,4,4392.52,1
+21,1361208,Male,Pune,Mobile,Silver,UPI,Social Media,51.4,1,0,9001.33,1
+27,1045580,Female,Chennai,Desktop,Silver,Debit Card,Google Ads,47.12,8,1,18262.71,0
+20,263186,Female,Chennai,Mobile,Basic,Net Banking,Organic,7.11,12,9,24102.2,1
+58,1379670,Female,Chennai,Desktop,Basic,Net Banking,Social Media,7.34,19,2,3976.31,1
+35,774604,Male,Hyderabad,Tablet,Silver,UPI,Google Ads,6.97,12,13,5761.76,1
+53,1256956,Male,Delhi,Mobile,Basic,Credit Card,Organic,1.67,13,13,5719.8,1
+39,814486,Female,,Mobile,Gold,Credit Card,Referral,33.37,1,7,621.21,1
+51,444500,Other,Delhi,Mobile,Basic,Net Banking,Google Ads,58.43,19,5,15142.48,1
+25,250326,Male,Hyderabad,Mobile,Silver,UPI,Organic,26.88,6,11,16800.51,1
+57,1058879,Male,Pune,Mobile,Gold,Net Banking,Email,32.9,8,9,15102.89,1
+36,819282,Male,Delhi,Mobile,Basic,Debit Card,Email,58.11,4,10,1875.94,1
+59,400971,Other,Pune,Desktop,Silver,Debit Card,Organic,16.06,5,12,1823.83,1
+58,986481,Male,Hyderabad,Mobile,Gold,UPI,Social Media,51.65,7,14,5338.63,1
+54,1697509,Male,Hyderabad,Mobile,Basic,UPI,Social Media,33.24,4,13,7328.33,1
+23,1397060,Female,Mumbai,Tablet,Platinum,Debit Card,Google Ads,34.6,20,4,19684.94,1
+43,1211519,Male,Hyderabad,Desktop,Silver,Credit Card,Email,21.25,4,12,4068.82,1
+51,969352,Male,Hyderabad,Mobile,Basic,UPI,Social Media,34.13,15,0,1197.9,1
+23,664410,Female,Bengaluru,Mobile,Silver,Debit Card,Social Media,5.32,5,11,9910.29,1
+54,1570281,Female,Chennai,Mobile,Basic,Debit Card,Email,46.11,9,10,10468.17,0
+50,405314,Male,Mumbai,Desktop,Gold,Credit Card,Referral,17.8,2,11,11327.59,1
+39,1667292,Male,Mumbai,Desktop,Gold,Credit Card,Social Media,53.37,7,8,20689.9,1
+38,1720448,Male,Mumbai,Desktop,Gold,Credit Card,Organic,22.7,17,2,2540.33,1
+23,696998,Male,Bengaluru,Mobile,Platinum,Credit Card,Google Ads,9.43,16,2,17628.16,1
+23,1127531,Female,Pune,Desktop,Gold,Net Banking,Social Media,42.06,17,1,8514.84,1
+21,1748560,Male,Hyderabad,Mobile,Silver,Credit Card,Social Media,10.71,20,3,7818.51,1
+47,645757,Male,Chennai,Mobile,Basic,Net Banking,Referral,45.47,2,11,23320.32,1
+28,1603060,Male,Delhi,Mobile,Silver,UPI,Organic,58.12,11,1,6286.87,1
+47,688062,Female,Pune,Mobile,Basic,Debit Card,Google Ads,46.99,2,15,16099.04,1
+48,312028,Female,Hyderabad,Mobile,Gold,Net Banking,Social Media,2.32,1,12,6950.68,1
+41,411447,Female,Bengaluru,Desktop,Silver,UPI,Google Ads,36.39,2,8,12727.88,1
+26,1040563,Male,Hyderabad,Tablet,Basic,UPI,Email,42.03,9,11,19678.69,1
+20,1669700,Female,Hyderabad,Mobile,Basic,Net Banking,Social Media,49.7,2,9,22054.89,1
+48,1175843,Female,Bengaluru,Mobile,Silver,UPI,Social Media,4.3,15,6,20983.56,1
+57,806045,Male,Mumbai,Mobile,Silver,UPI,Email,29.33,10,7,14596.3,1
+54,1661235,Male,Mumbai,Mobile,Silver,Net Banking,Referral,32.59,15,2,6295.53,1
+53,481207,Male,Chennai,Mobile,Silver,UPI,Social Media,10.98,10,5,16564.71,1
+41,1604945,Male,Chennai,Tablet,Silver,Credit Card,Google Ads,20.02,17,14,17776.64,1
+48,1607120,Male,Mumbai,Mobile,Gold,Credit Card,Organic,26.97,9,9,366.23,1
+23,1571538,Male,Pune,Mobile,Basic,Debit Card,Google Ads,50.16,18,5,11036.34,1
+19,446847,Male,Delhi,Mobile,Basic,UPI,Referral,55.84,4,12,21097.22,1
+37,900488,Female,Hyderabad,Desktop,Silver,Debit Card,Organic,38.08,9,0,12290.73,1
+45,776387,Male,Delhi,Desktop,Silver,Credit Card,Google Ads,24.3,16,5,7853.25,1
+28,599065,Female,Hyderabad,Tablet,Basic,Credit Card,Google Ads,15.99,4,15,21807.76,1
+21,867220,Female,Mumbai,Desktop,Silver,Credit Card,Email,58.95,16,12,3981.43,1
+32,211585,Female,Chennai,Mobile,Basic,UPI,Referral,59.0,19,13,5240.49,1
+23,1643807,Female,Pune,Mobile,Silver,UPI,Email,55.57,1,2,17215.57,1
+47,1175043,Male,Chennai,Desktop,Silver,Credit Card,Organic,47.35,6,10,8875.65,1
+55,1796449,Female,Delhi,Mobile,Silver,Debit Card,Email,20.22,10,15,17854.12,1
+19,469102,,Chennai,Mobile,Gold,Debit Card,Referral,49.2,16,2,4026.82,1
+32,1516737,Male,Mumbai,Mobile,Basic,Net Banking,Social Media,25.12,4,2,6381.5,1
+28,1615397,Female,Pune,Mobile,Platinum,Credit Card,Social Media,20.28,13,9,4000.52,1
+25,1142854,Male,Delhi,Mobile,Silver,Debit Card,Organic,44.95,16,10,23827.47,1
+43,459922,Male,Pune,Mobile,Silver,Credit Card,Social Media,5.7,20,14,10194.56,0
+22,880601,Female,Hyderabad,Desktop,Gold,Debit Card,Email,3.87,6,10,8496.78,1
+23,1270805,Female,Chennai,Mobile,Gold,Net Banking,Organic,27.43,11,14,453.63,1
+43,1315228,Female,Pune,Mobile,Silver,Net Banking,Referral,27.29,3,9,3920.1,1
+21,1094699,Male,Bengaluru,Mobile,Silver,Credit Card,Organic,53.84,20,10,10586.28,1
+36,429474,Female,Chennai,Mobile,Basic,Debit Card,Organic,8.44,10,7,1805.72,0
+37,1092935,Male,Hyderabad,Mobile,Basic,UPI,Google Ads,8.27,1,12,12817.41,1
+50,440116,Female,Pune,Mobile,Silver,Net Banking,Google Ads,9.7,20,15,11429.88,1
+37,1051310,Female,Delhi,Mobile,Basic,Credit Card,Organic,2.75,11,4,19202.49,1
+29,1124994,Female,Hyderabad,Mobile,Silver,Credit Card,Social Media,5.23,12,3,16529.09,1
+18,700985,Female,Bengaluru,Mobile,Basic,Debit Card,Google Ads,39.93,14,12,11204.09,1
+43,199975,Male,Pune,Mobile,Gold,Credit Card,Referral,26.46,8,8,5694.05,1
+31,337795,Female,Mumbai,Mobile,Gold,Net Banking,Email,46.05,11,8,18198.9,1
+55,1645071,Female,Chennai,Mobile,Platinum,Credit Card,Google Ads,59.56,4,0,17725.77,1
+54,1437949,Male,Delhi,Mobile,Silver,Credit Card,Organic,39.88,7,1,3917.07,1
+28,1109065,Female,Mumbai,Desktop,Gold,UPI,Social Media,3.98,10,7,22877.32,0
+53,1204939,Male,Pune,Mobile,Gold,UPI,Email,7.17,19,4,1703.69,1
+30,1425709,Female,Pune,Mobile,Silver,Net Banking,Google Ads,52.98,4,15,1470.44,1
+60,1054829,Female,Hyderabad,Mobile,Basic,Debit Card,Social Media,32.12,2,6,4765.03,1
+20,1523862,Female,Pune,Desktop,Platinum,UPI,Social Media,49.67,18,0,22745.57,1
+50,1404613,Male,Delhi,Desktop,Silver,Debit Card,Social Media,51.54,14,11,13047.95,1
+23,568076,Female,Mumbai,Desktop,Silver,Net Banking,Organic,55.73,16,9,19719.73,1
+27,840008,Female,Delhi,Desktop,Basic,UPI,Referral,57.04,11,11,5773.3,1
+22,870493,Female,Bengaluru,Mobile,Basic,Debit Card,Social Media,33.73,10,4,12306.53,1
+40,1148181,Male,Bengaluru,Desktop,Gold,UPI,Email,21.12,17,10,9021.41,1
+27,800347,Male,Chennai,Mobile,Silver,Net Banking,Google Ads,57.75,14,11,20712.93,1
+19,1192092,Female,Chennai,Mobile,Basic,Net Banking,Email,33.3,4,2,662.85,1
+30,802605,Male,Bengaluru,Mobile,Basic,UPI,Organic,4.79,19,9,6171.68,1
+57,905495,Female,Pune,Mobile,Silver,Debit Card,Organic,38.92,2,11,3899.1,1
+19,1525766,Female,Delhi,Tablet,Silver,Credit Card,Email,35.67,7,11,21493.81,1
+37,1668856,Female,Bengaluru,Mobile,Basic,Credit Card,Referral,53.85,9,13,11741.84,1
+18,281459,Female,Chennai,Desktop,Gold,UPI,Organic,39.54,19,1,10165.08,1
+54,941985,Female,Bengaluru,Mobile,Basic,Debit Card,Organic,21.59,16,1,11292.12,0
+26,380422,Male,Pune,Mobile,Silver,Credit Card,Email,58.01,16,8,24300.92,1
+34,1330096,Male,Bengaluru,,Gold,Net Banking,Organic,48.3,18,12,21271.66,1
+26,765560,Male,Delhi,Mobile,Basic,Debit Card,Referral,38.19,11,3,17688.58,1
+28,927512,Male,Mumbai,Desktop,Gold,Credit Card,Referral,18.28,7,15,7332.93,1
+32,696123,Female,Pune,Mobile,Gold,Debit Card,Referral,23.04,9,3,4212.81,0
+41,1558369,Female,Chennai,Mobile,Gold,UPI,Google Ads,40.53,4,6,23043.7,1
+55,506818,Female,Delhi,Desktop,Basic,Debit Card,Referral,5.25,13,9,10634.58,1
+52,1216548,Female,Bengaluru,Mobile,Basic,Credit Card,Referral,16.14,4,15,7041.02,1
+47,324832,Other,Bengaluru,Tablet,Basic,UPI,Google Ads,43.12,19,9,11825.93,1
+48,332999,Female,Mumbai,Mobile,Silver,Debit Card,Social Media,29.32,2,12,22954.4,1
+22,528619,Female,Chennai,Mobile,Gold,Net Banking,Organic,24.74,9,1,9737.98,1
+31,241367,Female,Chennai,Mobile,Gold,Credit Card,Referral,9.94,12,2,14109.76,0
+28,933315,Male,Hyderabad,Mobile,Gold,UPI,Organic,27.07,2,2,20093.86,1
+26,585804,Male,Chennai,Mobile,Platinum,Debit Card,Email,46.47,6,5,10735.6,1
+51,1088182,Male,Mumbai,Desktop,Gold,Net Banking,Organic,16.58,5,2,5915.19,1
+29,937038,Female,Hyderabad,Desktop,Basic,Credit Card,Google Ads,1.32,5,10,24863.69,1
+52,1464382,Female,Hyderabad,Desktop,Basic,Net Banking,Organic,40.44,20,4,23918.61,1
+52,1084586,Male,Bengaluru,Mobile,Gold,Debit Card,Organic,58.38,5,3,21102.63,1
+18,1273314,Male,Bengaluru,Mobile,Basic,Debit Card,Organic,36.8,4,2,17240.51,1
+57,737685,Female,Chennai,Mobile,Basic,UPI,Social Media,8.08,9,7,7442.15,1
+39,1572909,Male,Hyderabad,Mobile,Silver,Net Banking,Social Media,19.92,10,13,22843.98,1
+46,1567087,Male,Bengaluru,Desktop,Gold,UPI,Email,52.19,16,9,6961.36,1
+25,1222377,Female,Mumbai,Mobile,Basic,Credit Card,Google Ads,14.72,10,2,20040.16,1
+28,382332,Male,Bengaluru,Mobile,Gold,UPI,Organic,36.85,10,5,22964.63,1
+58,562729,Male,Pune,Mobile,Gold,Credit Card,Organic,24.76,19,12,15114.8,1
+54,1340029,Female,Pune,Tablet,Silver,Debit Card,Organic,13.26,10,14,20096.1,1
+31,1248392,Female,Bengaluru,Mobile,Basic,Debit Card,Organic,48.99,6,6,19813.21,1
+47,1139744,Female,Hyderabad,Mobile,Basic,Net Banking,Social Media,44.83,17,6,4909.63,1
+52,1103780,Male,Hyderabad,Mobile,Gold,Credit Card,Email,40.03,5,1,16731.32,1
+38,949299,Male,Delhi,Mobile,Gold,Debit Card,Referral,14.94,6,13,2427.35,1
+54,1645291,Male,Pune,Mobile,Gold,Net Banking,Google Ads,6.77,15,2,12745.47,1
+22,1186080,Female,Mumbai,Mobile,Silver,Net Banking,Organic,34.99,19,11,4139.67,1
+36,551000,Female,Hyderabad,Desktop,Basic,UPI,Email,33.67,18,9,10467.1,1
+31,393567,Male,Chennai,Mobile,Basic,Net Banking,Referral,12.11,4,9,20841.25,0
+43,1743509,Female,Pune,Desktop,Gold,Debit Card,Email,4.32,8,14,24680.48,1
+21,775923,Male,Mumbai,Tablet,Basic,UPI,Social Media,5.76,16,3,8017.2,1
+42,396184,Male,Mumbai,Desktop,Basic,Credit Card,Referral,59.57,19,6,13345.7,1
+59,478090,Male,Hyderabad,Mobile,Silver,Credit Card,Email,47.23,20,1,12831.32,1
+42,497348,Male,Mumbai,Mobile,Basic,Debit Card,Social Media,55.4,3,2,23864.6,1
+35,1411534,Female,Hyderabad,Desktop,Basic,Debit Card,Email,12.51,10,6,12016.73,0
+57,1169156,Female,Bengaluru,,Silver,UPI,Email,57.67,2,6,17507.74,1
+25,1506283,Male,Pune,Mobile,Basic,UPI,Referral,9.42,4,15,23052.55,1
+56,272324,Female,Delhi,Desktop,Basic,Debit Card,Social Media,31.04,6,14,9397.13,1
+57,403536,Male,Bengaluru,Mobile,Gold,Debit Card,Organic,49.95,11,9,22562.84,1
+31,1500567,Female,Pune,Mobile,Gold,Credit Card,Google Ads,21.64,14,2,22944.66,1
+49,206155,Female,Hyderabad,Mobile,Basic,Credit Card,Referral,26.06,16,11,23273.5,1
+55,521815,Male,Pune,Mobile,Gold,Credit Card,Social Media,8.56,19,0,6834.11,1
+50,640494,Female,Hyderabad,Mobile,Silver,Debit Card,Email,8.25,2,11,10068.85,1
+40,329381,Male,Bengaluru,Desktop,Silver,Net Banking,Social Media,37.55,17,2,21772.86,1
+32,1360267,Male,Chennai,Mobile,Gold,Debit Card,Google Ads,40.86,9,4,9043.13,1
+50,1704986,Male,Chennai,Mobile,Gold,Debit Card,Google Ads,46.86,17,6,15046.3,1
+42,623324,Female,Pune,Mobile,Gold,Credit Card,Organic,33.84,15,3,3039.56,1
+34,214707,Female,Chennai,Mobile,Basic,Debit Card,Organic,39.1,7,12,1501.25,1
+50,1117841,Male,Hyderabad,Mobile,Basic,UPI,Google Ads,1.8,19,12,10358.65,1
+19,1747053,Female,Mumbai,Desktop,Gold,Debit Card,Referral,10.57,3,10,14515.02,1
+31,926788,Female,Hyderabad,Desktop,Silver,Debit Card,Referral,59.11,1,10,9878.21,1
+57,533299,Female,Mumbai,Desktop,Basic,Debit Card,Email,5.48,4,15,14485.62,1
+57,1387068,Female,Bengaluru,Desktop,Gold,Debit Card,Organic,41.05,18,14,12925.6,1
+56,1702688,Female,Delhi,Mobile,Gold,Net Banking,Email,11.39,8,0,17174.11,1
+23,350102,Male,Mumbai,Mobile,Gold,Debit Card,Organic,43.29,19,5,16273.36,1
+23,574274,Male,Chennai,Mobile,Basic,UPI,Google Ads,42.65,6,1,10663.72,1
+20,397285,Other,Hyderabad,Mobile,Gold,UPI,Referral,14.82,1,11,10682.38,1
+24,1566980,Male,Bengaluru,Tablet,Basic,Debit Card,Referral,16.91,8,2,3605.38,1
+25,1388052,Other,Chennai,Mobile,Basic,Credit Card,Google Ads,39.63,1,3,12879.64,1
+59,938842,Female,Bengaluru,Mobile,Silver,Net Banking,Email,24.02,19,5,14720.76,1
+32,1202788,Male,Delhi,Desktop,Basic,Debit Card,Email,12.48,11,5,11964.59,1
+46,1389504,Male,Hyderabad,Tablet,Basic,Debit Card,Social Media,44.17,15,6,8210.11,0
+50,1030610,Male,Pune,Desktop,Gold,Debit Card,Organic,10.09,11,4,18069.05,1
+47,476141,Female,Hyderabad,Mobile,Basic,Credit Card,Email,51.48,19,6,1959.07,1
+56,1123115,Male,Delhi,Mobile,Basic,Credit Card,Google Ads,31.37,10,1,22869.57,1
+44,1477076,Male,Hyderabad,Mobile,Basic,Credit Card,Email,7.24,12,0,614.02,1
+53,1360887,Male,Pune,Mobile,Silver,Net Banking,Referral,41.95,1,11,24062.52,1
+46,425546,Male,Mumbai,Mobile,Silver,UPI,Organic,31.63,7,9,11612.65,1
+55,1425309,Female,Bengaluru,Mobile,Gold,Net Banking,Social Media,18.59,17,7,10375.48,1
+50,831233,Male,Pune,Tablet,Gold,Credit Card,Organic,25.93,10,0,6485.46,1
+54,1798136,Female,Chennai,Mobile,Silver,UPI,Referral,18.6,6,11,350.77,1
+44,1221592,Male,Delhi,Desktop,Gold,UPI,Referral,16.52,17,1,6942.28,1
+50,326470,Male,Mumbai,Desktop,Basic,Credit Card,Referral,10.65,18,10,2824.06,1
+21,824318,Male,Chennai,Mobile,Basic,Credit Card,Referral,22.4,5,11,16529.54,1
+39,1547223,Male,Chennai,Desktop,Gold,Net Banking,Google Ads,15.81,18,9,8044.97,1
+19,1235146,Other,Delhi,,Silver,Credit Card,Social Media,41.32,17,5,19202.77,1
+27,510929,Female,Mumbai,Mobile,Platinum,UPI,Referral,41.35,16,0,5252.21,1

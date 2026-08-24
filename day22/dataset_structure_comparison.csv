@@ -1,0 +1,4 @@
+Version,Rows,Features
+Original,1000,12
+Label Encoding,1000,12
+One-Hot Encoding,1000,31

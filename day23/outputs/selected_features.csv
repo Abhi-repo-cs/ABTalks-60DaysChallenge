@@ -1,0 +1,7 @@
+selected_feature,importance
+tenure_months,0.1876903557657474
+loyalty_score,0.14869517238911095
+purchase_frequency,0.10556238046417635
+avg_order_value,0.07994938636909128
+noise_feature,0.07449473838215206
+discount_used,0.06795221215823516

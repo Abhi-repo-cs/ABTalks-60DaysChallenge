@@ -1,0 +1,19 @@
+Day 23 of my Data Science journey 🚀
+
+Today I focused on Feature Selection — finding the signals that actually matter.
+
+What I worked on:
+• Analyzed feature correlations
+• Calculated Random Forest feature importance
+• Removed highly correlated/redundant features
+• Selected the strongest predictive features
+• Compared model performance before vs. after selection
+• Created feature-importance and performance visualizations
+
+The biggest lesson: more features don't automatically mean a better ML model.
+
+Good feature selection can reduce complexity, improve interpretability, and help create a cleaner model while maintaining predictive performance.
+
+Next step: continuing to build stronger and more reliable ML pipelines. 📊🤖
+
+#DataScience #MachineLearning #FeatureSelection #Python #100DaysOfCode #ML

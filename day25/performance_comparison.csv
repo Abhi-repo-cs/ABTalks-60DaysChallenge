@@ -1,0 +1,6 @@
+Model,Single Split Acc,CV Mean Acc,CV Std Dev,CV Min,CV Max,Gap (Single - CVmean)
+SVM (RBF),0.9825,0.9772,0.0163,0.9474,0.9912,0.0053
+Logistic Regression,0.9825,0.9737,0.0166,0.9474,0.9912,0.0088
+K-Nearest Neighbors,0.9561,0.9631,0.0179,0.9386,0.9825,-0.007
+Random Forest,0.9561,0.9543,0.0102,0.9386,0.9649,0.0018
+Decision Tree,0.9123,0.9104,0.0279,0.8684,0.9386,0.0019

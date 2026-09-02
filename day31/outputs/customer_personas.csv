@@ -1,0 +1,301 @@
+Customer ID,Age,Annual Income,Spending Score,Purchase Frequency,Recency,Engagement,Cluster,Persona
+CUST0001,56,101047.04,67.43,5,18.77,100.0,3,Potential Growth Customers
+CUST0002,46,70424.32,81.24,12,1.4,100.0,0,High-Value Loyalists
+CUST0003,32,33791.32,40.22,6,68.83,80.12,1,Low-Engagement Customers
+CUST0004,60,74444.18,28.31,8,53.1,89.28,3,Potential Growth Customers
+CUST0005,25,38557.0,67.79,14,8.97,100.0,0,High-Value Loyalists
+CUST0006,38,77315.86,80.19,5,13.99,100.0,3,Potential Growth Customers
+CUST0007,56,85489.1,20.04,9,92.31,64.31,1,Low-Engagement Customers
+CUST0008,36,41944.99,81.36,14,14.29,100.0,0,High-Value Loyalists
+CUST0009,40,81194.27,55.59,5,63.25,90.16,3,Potential Growth Customers
+CUST0010,28,69081.18,75.34,13,1.0,100.0,0,High-Value Loyalists
+CUST0011,28,78085.32,22.58,11,46.95,94.52,3,Potential Growth Customers
+CUST0012,41,101729.45,48.49,8,24.88,100.0,3,Potential Growth Customers
+CUST0013,53,54601.46,69.44,6,29.26,100.0,2,Engaged Growth Customers
+CUST0014,57,43417.8,49.82,10,27.23,100.0,2,Engaged Growth Customers
+CUST0015,41,40430.68,24.52,7,69.17,68.31,1,Low-Engagement Customers
+CUST0016,20,42052.17,89.32,13,9.5,100.0,0,High-Value Loyalists
+CUST0017,39,58303.76,75.6,13,24.67,100.0,0,High-Value Loyalists
+CUST0018,19,67505.34,67.06,11,20.43,100.0,0,High-Value Loyalists
+CUST0019,41,66087.2,43.27,10,55.7,94.34,3,Potential Growth Customers
+CUST0020,61,78198.03,52.72,11,49.97,99.64,3,Potential Growth Customers
+CUST0021,47,60286.04,49.41,11,42.93,88.16,3,Potential Growth Customers
+CUST0022,55,91977.75,25.24,6,77.86,77.83,1,Low-Engagement Customers
+CUST0023,19,54177.55,20.49,13,81.74,85.41,1,Low-Engagement Customers
+CUST0024,38,119843.72,37.67,10,36.89,100.0,3,Potential Growth Customers
+CUST0025,50,73764.68,41.01,3,67.35,72.67,1,Low-Engagement Customers
+CUST0026,29,41142.53,77.6,14,9.37,100.0,0,High-Value Loyalists
+CUST0027,39,36440.37,47.29,7,60.02,85.66,2,Engaged Growth Customers
+CUST0028,61,70614.39,26.42,8,60.97,93.49,3,Potential Growth Customers
+CUST0029,42,55083.82,27.67,5,75.52,73.12,1,Low-Engagement Customers
+CUST0030,44,75708.01,81.07,11,18.94,100.0,0,High-Value Loyalists
+CUST0031,59,70411.23,33.17,8,37.68,100.0,3,Potential Growth Customers
+CUST0032,45,58397.76,51.03,7,31.45,100.0,3,Potential Growth Customers
+CUST0033,33,41370.54,47.98,5,69.08,77.02,1,Low-Engagement Customers
+CUST0034,32,26673.36,76.92,13,10.07,100.0,2,Engaged Growth Customers
+CUST0035,64,50176.67,95.91,12,13.91,100.0,0,High-Value Loyalists
+CUST0036,61,78840.77,51.39,4,56.89,79.56,1,Low-Engagement Customers
+CUST0037,20,64710.06,24.87,9,65.13,85.0,1,Low-Engagement Customers
+CUST0038,54,32593.75,72.2,12,32.87,100.0,2,Engaged Growth Customers
+CUST0039,24,63809.98,55.58,9,66.8,84.05,3,Potential Growth Customers
+CUST0040,38,68476.98,79.43,10,12.71,100.0,0,High-Value Loyalists
+CUST0041,26,40555.14,59.36,6,17.46,100.0,2,Engaged Growth Customers
+CUST0042,56,63381.95,96.66,17,1.35,100.0,0,High-Value Loyalists
+CUST0043,35,61280.59,13.61,5,81.8,65.23,1,Low-Engagement Customers
+CUST0044,21,34854.65,48.68,10,33.89,97.72,2,Engaged Growth Customers
+CUST0045,42,67871.32,32.43,6,60.27,77.34,1,Low-Engagement Customers
+CUST0046,31,72337.26,46.48,10,33.61,100.0,3,Potential Growth Customers
+CUST0047,26,83827.13,80.79,8,34.21,95.44,3,Potential Growth Customers
+CUST0048,43,83183.65,12.79,11,75.88,73.68,1,Low-Engagement Customers
+CUST0049,19,29691.27,88.51,17,15.84,100.0,0,High-Value Loyalists
+CUST0050,37,39367.85,29.38,6,81.7,64.34,1,Low-Engagement Customers
+CUST0051,45,71330.78,17.69,4,69.86,49.87,1,Low-Engagement Customers
+CUST0052,64,71303.29,85.86,13,13.08,100.0,0,High-Value Loyalists
+CUST0053,24,71331.05,47.89,9,77.56,84.77,1,Low-Engagement Customers
+CUST0054,61,140000.0,38.2,9,60.56,83.86,3,Potential Growth Customers
+CUST0055,25,72559.59,78.42,4,19.98,97.94,3,Potential Growth Customers
+CUST0056,64,84982.44,73.84,12,21.98,100.0,0,High-Value Loyalists
+CUST0057,52,80988.04,66.7,10,16.27,100.0,3,Potential Growth Customers
+CUST0058,31,74330.61,84.95,15,14.54,100.0,0,High-Value Loyalists
+CUST0059,34,53064.08,85.15,15,31.63,100.0,0,High-Value Loyalists
+CUST0060,53,76697.32,73.8,11,23.99,100.0,0,High-Value Loyalists
+CUST0061,57,42997.85,30.95,5,71.9,72.68,1,Low-Engagement Customers
+CUST0062,21,54789.99,66.58,16,1.58,100.0,0,High-Value Loyalists
+CUST0063,19,49322.0,36.19,15,48.21,100.0,2,Engaged Growth Customers
+CUST0064,23,61801.23,37.88,9,56.03,89.91,3,Potential Growth Customers
+CUST0065,59,110922.49,60.93,12,35.8,100.0,3,Potential Growth Customers
+CUST0066,21,18920.17,79.77,13,20.62,100.0,2,Engaged Growth Customers
+CUST0067,46,75097.72,56.87,6,71.56,73.2,1,Low-Engagement Customers
+CUST0068,35,24520.25,76.56,8,32.13,99.37,2,Engaged Growth Customers
+CUST0069,43,49617.5,59.36,10,58.47,90.21,2,Engaged Growth Customers
+CUST0070,61,83956.91,42.62,9,47.09,86.48,3,Potential Growth Customers
+CUST0071,51,61414.16,45.46,11,37.68,98.45,3,Potential Growth Customers
+CUST0072,27,36289.61,84.49,10,35.83,93.3,2,Engaged Growth Customers
+CUST0073,53,44263.32,88.76,15,10.56,100.0,0,High-Value Loyalists
+CUST0074,31,74951.15,78.71,6,32.18,80.76,3,Potential Growth Customers
+CUST0075,48,43931.93,60.7,6,19.17,100.0,2,Engaged Growth Customers
+CUST0076,65,64762.09,71.61,9,25.35,100.0,3,Potential Growth Customers
+CUST0077,32,61002.58,81.61,14,13.44,100.0,0,High-Value Loyalists
+CUST0078,25,45664.79,70.76,9,11.77,95.1,2,Engaged Growth Customers
+CUST0079,31,107166.77,35.95,5,64.76,72.85,1,Low-Engagement Customers
+CUST0080,40,73946.22,55.07,9,21.76,100.0,3,Potential Growth Customers
+CUST0081,57,18000.0,56.73,10,38.42,93.79,2,Engaged Growth Customers
+CUST0082,38,64101.99,51.65,9,69.54,77.95,1,Low-Engagement Customers
+CUST0083,33,45440.7,73.72,9,38.64,100.0,2,Engaged Growth Customers
+CUST0084,62,78753.53,72.51,10,18.43,100.0,0,High-Value Loyalists
+CUST0085,35,42564.54,64.41,8,46.59,85.5,2,Engaged Growth Customers
+CUST0086,64,57475.8,49.3,12,35.15,95.88,3,Potential Growth Customers
+CUST0087,41,71109.72,56.38,11,35.14,100.0,3,Potential Growth Customers
+CUST0088,43,79046.61,81.58,16,9.88,100.0,0,High-Value Loyalists
+CUST0089,42,33593.48,41.37,8,84.15,74.79,1,Low-Engagement Customers
+CUST0090,62,52640.97,65.17,7,42.64,88.2,2,Engaged Growth Customers
+CUST0091,58,49551.2,22.38,4,77.35,69.84,1,Low-Engagement Customers
+CUST0092,46,45626.76,95.63,15,9.15,100.0,0,High-Value Loyalists
+CUST0093,32,98839.99,34.89,5,66.2,80.3,1,Low-Engagement Customers
+CUST0094,62,68909.6,91.98,11,13.65,100.0,0,High-Value Loyalists
+CUST0095,18,32260.55,81.5,14,4.41,100.0,0,High-Value Loyalists
+CUST0096,42,80192.96,31.8,8,78.36,72.0,1,Low-Engagement Customers
+CUST0097,24,106687.44,36.22,13,69.09,98.87,3,Potential Growth Customers
+CUST0098,26,82714.24,64.99,9,24.72,100.0,3,Potential Growth Customers
+CUST0099,41,26573.86,89.61,20,15.75,100.0,0,High-Value Loyalists
+CUST0100,18,49346.85,79.07,9,9.92,100.0,2,Engaged Growth Customers
+CUST0101,61,87872.05,55.91,7,33.7,93.35,3,Potential Growth Customers
+CUST0102,25,44431.27,32.38,7,85.72,58.65,1,Low-Engagement Customers
+CUST0103,41,69764.03,41.22,11,58.15,94.48,3,Potential Growth Customers
+CUST0104,28,77041.95,71.89,5,46.25,85.13,3,Potential Growth Customers
+CUST0105,34,39607.53,47.31,7,48.36,92.31,2,Engaged Growth Customers
+CUST0106,25,58690.44,41.45,8,44.25,89.53,3,Potential Growth Customers
+CUST0107,52,18000.0,70.51,8,23.06,100.0,2,Engaged Growth Customers
+CUST0108,52,37463.47,36.59,10,92.39,65.05,1,Low-Engagement Customers
+CUST0109,50,54443.5,51.46,12,43.77,100.0,2,Engaged Growth Customers
+CUST0110,22,32548.77,66.06,9,15.72,98.92,2,Engaged Growth Customers
+CUST0111,59,95913.05,32.6,9,69.96,84.37,1,Low-Engagement Customers
+CUST0112,56,28536.89,15.11,7,81.38,73.97,1,Low-Engagement Customers
+CUST0113,58,50319.02,68.37,11,6.35,100.0,0,High-Value Loyalists
+CUST0114,45,62876.29,60.44,6,12.96,100.0,3,Potential Growth Customers
+CUST0115,24,91708.01,74.6,18,9.75,100.0,0,High-Value Loyalists
+CUST0116,26,28411.03,78.49,8,33.7,83.55,2,Engaged Growth Customers
+CUST0117,25,85589.6,21.36,12,92.96,78.79,1,Low-Engagement Customers
+CUST0118,29,60225.13,84.55,7,12.93,90.83,2,Engaged Growth Customers
+CUST0119,51,38406.81,42.84,8,45.91,85.59,2,Engaged Growth Customers
+CUST0120,50,70166.28,36.27,13,55.14,100.0,3,Potential Growth Customers
+CUST0121,65,64379.31,53.81,9,50.93,87.72,3,Potential Growth Customers
+CUST0122,40,46795.23,94.5,18,18.29,100.0,0,High-Value Loyalists
+CUST0123,41,61535.65,79.81,9,9.32,100.0,0,High-Value Loyalists
+CUST0124,54,51523.1,63.16,10,25.02,100.0,2,Engaged Growth Customers
+CUST0125,52,62497.38,28.9,5,54.42,68.24,1,Low-Engagement Customers
+CUST0126,61,74566.87,30.84,5,64.36,68.24,1,Low-Engagement Customers
+CUST0127,57,94892.37,80.05,14,13.79,100.0,0,High-Value Loyalists
+CUST0128,39,32768.06,19.83,7,70.67,89.53,1,Low-Engagement Customers
+CUST0129,44,106926.73,79.6,12,8.35,100.0,0,High-Value Loyalists
+CUST0130,52,18000.0,52.21,6,42.87,80.95,2,Engaged Growth Customers
+CUST0131,18,56660.73,97.23,15,15.79,100.0,0,High-Value Loyalists
+CUST0132,52,72942.98,61.88,12,31.5,100.0,3,Potential Growth Customers
+CUST0133,54,66181.82,95.01,13,15.43,100.0,0,High-Value Loyalists
+CUST0134,64,46300.61,72.91,10,29.48,100.0,2,Engaged Growth Customers
+CUST0135,31,55421.31,51.71,3,63.24,71.47,1,Low-Engagement Customers
+CUST0136,20,49153.98,35.84,5,48.01,83.47,1,Low-Engagement Customers
+CUST0137,18,47033.98,58.55,7,50.94,89.7,2,Engaged Growth Customers
+CUST0138,22,78691.25,43.65,3,101.02,61.19,1,Low-Engagement Customers
+CUST0139,43,67854.34,56.7,11,24.46,100.0,3,Potential Growth Customers
+CUST0140,31,44755.99,46.34,11,55.5,86.13,2,Engaged Growth Customers
+CUST0141,56,79791.2,45.8,10,38.24,100.0,3,Potential Growth Customers
+CUST0142,44,66760.59,50.54,16,36.16,100.0,0,High-Value Loyalists
+CUST0143,26,77882.97,99.75,13,21.24,100.0,0,High-Value Loyalists
+CUST0144,32,73851.83,64.42,14,31.4,100.0,0,High-Value Loyalists
+CUST0145,32,41762.11,80.73,11,11.12,100.0,0,High-Value Loyalists
+CUST0146,43,47676.02,84.36,16,15.34,100.0,0,High-Value Loyalists
+CUST0147,59,76440.46,36.38,8,29.75,97.52,3,Potential Growth Customers
+CUST0148,30,73428.15,35.42,10,62.15,76.84,1,Low-Engagement Customers
+CUST0149,49,59540.16,66.61,8,29.78,100.0,3,Potential Growth Customers
+CUST0150,56,62581.2,45.3,11,28.47,100.0,3,Potential Growth Customers
+CUST0151,49,88108.63,23.48,10,33.73,90.57,3,Potential Growth Customers
+CUST0152,21,46985.43,53.76,13,41.49,100.0,2,Engaged Growth Customers
+CUST0153,47,72036.14,69.87,11,12.49,100.0,0,High-Value Loyalists
+CUST0154,54,55551.76,93.82,12,18.48,100.0,0,High-Value Loyalists
+CUST0155,40,55211.01,30.65,7,66.67,77.94,1,Low-Engagement Customers
+CUST0156,56,84173.09,72.66,17,8.41,100.0,0,High-Value Loyalists
+CUST0157,62,78159.16,83.73,11,15.73,100.0,0,High-Value Loyalists
+CUST0158,32,77897.21,28.09,5,78.07,62.77,1,Low-Engagement Customers
+CUST0159,60,88720.53,29.39,8,73.44,61.88,1,Low-Engagement Customers
+CUST0160,46,60462.08,75.4,11,38.23,100.0,0,High-Value Loyalists
+CUST0161,53,75002.97,21.43,6,56.97,88.58,1,Low-Engagement Customers
+CUST0162,30,53174.13,48.91,9,20.38,100.0,2,Engaged Growth Customers
+CUST0163,49,67131.66,73.22,15,11.03,100.0,0,High-Value Loyalists
+CUST0164,24,57136.85,77.29,13,11.68,100.0,0,High-Value Loyalists
+CUST0165,39,62133.91,60.03,8,43.69,95.14,3,Potential Growth Customers
+CUST0166,45,73093.45,81.18,9,22.58,100.0,0,High-Value Loyalists
+CUST0167,19,41999.14,41.7,12,52.13,95.64,2,Engaged Growth Customers
+CUST0168,59,106032.52,75.3,18,12.46,100.0,0,High-Value Loyalists
+CUST0169,62,37867.62,42.88,9,54.81,91.9,2,Engaged Growth Customers
+CUST0170,23,33287.85,68.73,12,21.82,100.0,2,Engaged Growth Customers
+CUST0171,45,85478.44,63.89,6,34.64,85.26,3,Potential Growth Customers
+CUST0172,45,77416.58,67.11,11,35.2,100.0,3,Potential Growth Customers
+CUST0173,61,73730.64,38.72,10,51.57,87.81,3,Potential Growth Customers
+CUST0174,61,73823.6,67.62,10,31.61,100.0,3,Potential Growth Customers
+CUST0175,37,59730.57,50.69,8,37.47,91.28,3,Potential Growth Customers
+CUST0176,47,40260.4,42.12,10,49.07,87.55,2,Engaged Growth Customers
+CUST0177,28,61667.7,59.19,13,35.66,100.0,0,High-Value Loyalists
+CUST0178,45,45102.44,30.7,6,69.06,84.53,1,Low-Engagement Customers
+CUST0179,42,81452.63,82.95,11,18.58,100.0,0,High-Value Loyalists
+CUST0180,56,56764.74,32.32,6,79.76,60.77,1,Low-Engagement Customers
+CUST0181,50,41839.06,77.14,10,13.26,100.0,2,Engaged Growth Customers
+CUST0182,18,52929.51,68.41,10,41.34,90.21,2,Engaged Growth Customers
+CUST0183,44,69084.49,20.12,5,67.41,69.05,1,Low-Engagement Customers
+CUST0184,30,47598.06,57.77,8,71.69,71.75,1,Low-Engagement Customers
+CUST0185,58,41911.15,18.82,14,70.01,100.0,2,Engaged Growth Customers
+CUST0186,20,65361.12,72.43,11,40.19,99.32,3,Potential Growth Customers
+CUST0187,56,65389.26,77.69,11,11.42,100.0,0,High-Value Loyalists
+CUST0188,23,48847.25,48.38,8,29.81,100.0,2,Engaged Growth Customers
+CUST0189,25,49637.16,32.93,4,37.71,100.0,2,Engaged Growth Customers
+CUST0190,44,65105.1,77.52,4,33.88,79.81,3,Potential Growth Customers
+CUST0191,26,28142.14,34.25,9,46.64,100.0,2,Engaged Growth Customers
+CUST0192,54,29035.8,57.79,10,42.25,100.0,2,Engaged Growth Customers
+CUST0193,50,44194.23,72.73,9,14.75,100.0,2,Engaged Growth Customers
+CUST0194,59,55304.16,77.61,10,13.07,100.0,0,High-Value Loyalists
+CUST0195,61,66839.97,33.01,5,73.6,72.87,1,Low-Engagement Customers
+CUST0196,41,92457.84,65.32,8,23.8,100.0,3,Potential Growth Customers
+CUST0197,32,78868.51,76.47,8,22.12,99.67,3,Potential Growth Customers
+CUST0198,49,56481.35,28.6,3,67.06,64.68,1,Low-Engagement Customers
+CUST0199,49,59581.64,61.76,6,38.43,100.0,3,Potential Growth Customers
+CUST0200,41,37944.35,88.67,19,19.89,100.0,0,High-Value Loyalists
+CUST0201,58,59592.71,46.73,12,33.77,100.0,3,Potential Growth Customers
+CUST0202,29,53649.51,67.01,5,19.6,94.68,2,Engaged Growth Customers
+CUST0203,56,67099.81,61.97,9,34.06,95.61,3,Potential Growth Customers
+CUST0204,19,41800.92,72.32,7,38.96,100.0,2,Engaged Growth Customers
+CUST0205,20,71425.62,12.83,3,52.28,68.4,1,Low-Engagement Customers
+CUST0206,54,93720.26,73.16,11,16.93,100.0,0,High-Value Loyalists
+CUST0207,34,57607.28,72.7,13,33.56,100.0,0,High-Value Loyalists
+CUST0208,19,68837.66,60.92,10,30.27,100.0,3,Potential Growth Customers
+CUST0209,19,75183.17,83.76,13,16.35,100.0,0,High-Value Loyalists
+CUST0210,45,51173.15,60.88,12,20.1,100.0,2,Engaged Growth Customers
+CUST0211,40,64930.03,22.26,9,79.82,80.75,1,Low-Engagement Customers
+CUST0212,54,60277.03,66.89,12,21.23,100.0,0,High-Value Loyalists
+CUST0213,49,62148.87,35.54,14,56.07,93.06,3,Potential Growth Customers
+CUST0214,50,42993.78,91.74,15,9.72,100.0,0,High-Value Loyalists
+CUST0215,18,60539.22,77.89,13,7.55,100.0,0,High-Value Loyalists
+CUST0216,36,70955.96,33.47,6,41.26,96.77,3,Potential Growth Customers
+CUST0217,19,91925.16,59.03,9,38.0,89.29,3,Potential Growth Customers
+CUST0218,61,81103.96,76.42,10,34.23,100.0,3,Potential Growth Customers
+CUST0219,43,107370.01,56.37,7,75.98,59.76,1,Low-Engagement Customers
+CUST0220,49,43118.35,48.39,8,64.29,82.57,1,Low-Engagement Customers
+CUST0221,23,79191.05,35.62,8,52.55,100.0,3,Potential Growth Customers
+CUST0222,49,64033.52,64.31,11,27.69,100.0,3,Potential Growth Customers
+CUST0223,21,108175.66,26.28,9,101.32,58.23,1,Low-Engagement Customers
+CUST0224,28,42217.44,46.99,5,75.28,74.95,1,Low-Engagement Customers
+CUST0225,34,41526.12,76.26,10,16.78,100.0,2,Engaged Growth Customers
+CUST0226,55,46813.36,38.93,5,24.66,93.01,2,Engaged Growth Customers
+CUST0227,41,18000.0,35.01,3,78.38,67.67,1,Low-Engagement Customers
+CUST0228,22,48433.39,47.17,10,62.32,83.28,1,Low-Engagement Customers
+CUST0229,51,43299.08,64.25,8,11.79,100.0,2,Engaged Growth Customers
+CUST0230,23,63308.66,57.61,12,19.43,100.0,0,High-Value Loyalists
+CUST0231,39,67518.63,17.98,7,85.39,71.39,1,Low-Engagement Customers
+CUST0232,28,101275.76,80.16,18,16.38,100.0,0,High-Value Loyalists
+CUST0233,65,80909.32,91.44,16,19.36,100.0,0,High-Value Loyalists
+CUST0234,33,47308.12,34.37,3,55.96,78.41,1,Low-Engagement Customers
+CUST0235,50,40234.88,83.55,9,8.98,100.0,2,Engaged Growth Customers
+CUST0236,26,70822.22,51.69,6,43.29,92.59,3,Potential Growth Customers
+CUST0237,23,30954.87,34.74,11,63.27,85.92,2,Engaged Growth Customers
+CUST0238,33,100292.09,56.01,6,43.23,88.14,3,Potential Growth Customers
+CUST0239,46,85947.68,55.63,5,17.76,94.3,3,Potential Growth Customers
+CUST0240,20,49678.14,77.75,16,10.85,100.0,0,High-Value Loyalists
+CUST0241,37,22311.04,55.61,7,40.21,87.61,2,Engaged Growth Customers
+CUST0242,53,89785.19,50.32,11,50.94,88.39,3,Potential Growth Customers
+CUST0243,36,57480.12,85.87,17,3.8,100.0,0,High-Value Loyalists
+CUST0244,43,87231.96,69.09,6,29.52,98.46,3,Potential Growth Customers
+CUST0245,20,24922.59,16.07,7,100.54,65.58,1,Low-Engagement Customers
+CUST0246,36,46813.75,48.62,7,60.34,79.2,1,Low-Engagement Customers
+CUST0247,37,60115.36,62.61,10,51.67,96.44,3,Potential Growth Customers
+CUST0248,49,61033.57,73.18,17,10.04,100.0,0,High-Value Loyalists
+CUST0249,24,50098.56,45.0,14,31.08,100.0,2,Engaged Growth Customers
+CUST0250,58,73702.7,81.29,5,36.06,85.39,3,Potential Growth Customers
+CUST0251,50,36512.35,33.18,9,40.37,98.64,2,Engaged Growth Customers
+CUST0252,57,56867.65,39.74,4,78.03,68.43,1,Low-Engagement Customers
+CUST0253,56,62646.5,49.49,12,49.11,99.44,3,Potential Growth Customers
+CUST0254,35,71317.65,87.45,14,16.98,100.0,0,High-Value Loyalists
+CUST0255,57,75655.53,25.76,2,99.48,50.81,1,Low-Engagement Customers
+CUST0256,18,35257.87,85.27,16,9.67,100.0,0,High-Value Loyalists
+CUST0257,28,26249.49,65.86,13,49.09,99.08,2,Engaged Growth Customers
+CUST0258,45,88108.89,34.85,8,73.67,71.98,1,Low-Engagement Customers
+CUST0259,42,67310.91,41.39,9,33.37,100.0,3,Potential Growth Customers
+CUST0260,40,43533.3,49.16,3,56.07,77.95,1,Low-Engagement Customers
+CUST0261,48,94125.34,79.54,12,15.2,100.0,0,High-Value Loyalists
+CUST0262,47,62544.84,29.16,1,64.0,58.19,1,Low-Engagement Customers
+CUST0263,59,85944.54,75.29,17,11.05,100.0,0,High-Value Loyalists
+CUST0264,52,61485.41,74.91,17,13.62,100.0,0,High-Value Loyalists
+CUST0265,24,105336.45,86.28,14,6.26,100.0,0,High-Value Loyalists
+CUST0266,33,98617.5,41.93,13,102.27,74.72,1,Low-Engagement Customers
+CUST0267,43,54522.79,18.42,12,86.63,85.96,1,Low-Engagement Customers
+CUST0268,65,81374.56,91.83,8,12.43,100.0,0,High-Value Loyalists
+CUST0269,19,74198.27,76.9,18,1.0,100.0,0,High-Value Loyalists
+CUST0270,18,90109.89,85.67,13,11.07,100.0,0,High-Value Loyalists
+CUST0271,65,38771.68,44.46,10,67.87,84.22,2,Engaged Growth Customers
+CUST0272,29,75093.13,35.18,7,77.26,73.42,1,Low-Engagement Customers
+CUST0273,22,83285.34,56.22,9,45.15,95.48,3,Potential Growth Customers
+CUST0274,54,21307.73,17.43,8,83.3,70.74,1,Low-Engagement Customers
+CUST0275,49,33968.31,24.75,6,78.51,78.36,1,Low-Engagement Customers
+CUST0276,26,18000.0,68.2,9,55.9,88.47,2,Engaged Growth Customers
+CUST0277,58,54073.05,39.35,5,71.27,63.96,1,Low-Engagement Customers
+CUST0278,52,75785.93,16.33,6,93.01,59.29,1,Low-Engagement Customers
+CUST0279,36,93051.86,65.3,16,3.85,100.0,0,High-Value Loyalists
+CUST0280,65,61630.09,77.32,15,18.03,100.0,0,High-Value Loyalists
+CUST0281,33,95829.54,5.0,8,77.11,79.41,1,Low-Engagement Customers
+CUST0282,20,29637.77,25.94,1,45.49,71.22,1,Low-Engagement Customers
+CUST0283,37,22525.59,71.13,7,17.96,100.0,2,Engaged Growth Customers
+CUST0284,41,58777.95,81.75,15,15.89,100.0,0,High-Value Loyalists
+CUST0285,50,68449.44,74.72,10,14.33,100.0,0,High-Value Loyalists
+CUST0286,41,59280.72,46.96,14,56.84,98.48,3,Potential Growth Customers
+CUST0287,28,18000.0,74.51,14,19.61,100.0,2,Engaged Growth Customers
+CUST0288,25,58039.36,34.97,10,58.24,95.84,3,Potential Growth Customers
+CUST0289,53,31301.67,35.96,7,52.35,95.14,2,Engaged Growth Customers
+CUST0290,55,74732.8,76.66,14,7.26,100.0,0,High-Value Loyalists
+CUST0291,57,68065.16,84.34,13,20.74,100.0,0,High-Value Loyalists
+CUST0292,37,39322.64,40.8,10,72.21,80.08,1,Low-Engagement Customers
+CUST0293,52,48694.93,25.83,7,79.65,67.59,1,Low-Engagement Customers
+CUST0294,65,36697.3,61.93,12,29.48,100.0,2,Engaged Growth Customers
+CUST0295,42,58621.06,29.51,3,48.81,86.28,1,Low-Engagement Customers
+CUST0296,52,81013.13,80.5,11,16.66,100.0,0,High-Value Loyalists
+CUST0297,42,38314.03,72.56,6,35.5,100.0,2,Engaged Growth Customers
+CUST0298,46,71089.02,63.41,7,28.1,100.0,3,Potential Growth Customers
+CUST0299,35,48334.33,64.09,18,10.82,100.0,0,High-Value Loyalists
+CUST0300,63,42556.8,61.05,6,50.95,79.32,2,Engaged Growth Customers

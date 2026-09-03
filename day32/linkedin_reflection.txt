@@ -1,0 +1,16 @@
+Day 32 of my Data Analytics journey — Recommendation Systems 🚀
+
+Today I built a similarity-based recommendation engine that personalizes product suggestions using customer behavior.
+
+🔹 Calculated customer similarity using Cosine Similarity
+🔹 Identified customers with similar behavioral patterns
+🔹 Generated similarity-weighted Top-N product recommendations
+🔹 Filtered out products already seen by the customer
+🔹 Evaluated the recommender using Precision@5, Recall@5 and Hit Rate@5
+🔹 Created visualizations to understand similarity and recommendation scores
+
+The key takeaway: recommendation systems can transform customer behavior into personalized experiences by finding meaningful similarities between users.
+
+This project helped me understand the foundations behind recommendation engines used by platforms such as Amazon, Netflix and Spotify.
+
+#DataAnalytics #RecommendationSystems #MachineLearning #Python #ScikitLearn #100DaysOfCode

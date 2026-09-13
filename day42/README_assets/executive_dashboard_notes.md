@@ -1,0 +1,1 @@
+Dashboard narrative: Start with business health KPIs, then show forecast direction, customer risk concentration, and the retention queue. The key executive question is: where is value at risk, and what action should happen next?

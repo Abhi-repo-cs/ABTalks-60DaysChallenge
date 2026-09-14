@@ -1,0 +1,1 @@
+Place your actual local API screenshots in this folder using the filenames listed in DEMO_GUIDE.md.

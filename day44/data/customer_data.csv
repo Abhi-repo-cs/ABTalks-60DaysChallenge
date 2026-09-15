@@ -1,0 +1,1201 @@
+CustomerID,Age,TenureMonths,MonthlyRevenue,SupportTickets,MonthlyLogins,Contract,Segment,ChurnRisk,Churn
+C00001,22,53,133.28,5,14,Annual,Standard,0.092,0
+C00002,58,29,130.18,2,9,Monthly,Value,0.375,1
+C00003,52,60,185.71,5,13,Monthly,Value,0.106,0
+C00004,40,46,162.11,0,7,Annual,Standard,0.069,0
+C00005,40,40,25.32,2,12,Two Year,Premium,0.322,1
+C00006,62,55,29.89,2,11,Monthly,Premium,0.428,0
+C00007,22,31,140.31,1,8,Annual,Value,0.147,0
+C00008,54,44,117.24,2,12,Monthly,Standard,0.272,0
+C00009,28,18,72.04,6,8,Annual,Value,0.491,1
+C00010,22,58,103.73,5,14,Monthly,Premium,0.247,1
+C00011,45,38,171.58,2,10,Annual,Standard,0.086,0
+C00012,68,47,185.32,3,16,Monthly,Value,0.124,0
+C00013,56,28,132.24,3,15,Two Year,Premium,0.165,0
+C00014,57,53,97.07,5,13,Two Year,Premium,0.139,0
+C00015,55,5,74.14,0,8,Monthly,Standard,0.702,0
+C00016,58,7,124.38,3,14,Annual,Standard,0.319,0
+C00017,44,31,82.95,0,11,Monthly,Value,0.434,0
+C00018,24,44,132.82,2,9,Annual,Value,0.112,1
+C00019,61,49,155.33,3,8,Monthly,Standard,0.2,0
+C00020,41,27,33.22,4,7,Monthly,Premium,0.725,1
+C00021,44,39,20.21,0,10,Annual,Standard,0.319,1
+C00022,37,34,62.46,1,11,Monthly,Value,0.491,1
+C00023,27,58,198.9,3,12,Annual,Standard,0.033,0
+C00024,66,40,149.26,0,9,Annual,Value,0.091,0
+C00025,58,26,54.39,2,6,Monthly,Standard,0.647,0
+C00026,51,59,198.05,2,13,Monthly,Premium,0.075,0
+C00027,38,7,113.99,3,8,Annual,Standard,0.396,1
+C00028,60,60,115.22,4,15,Annual,Standard,0.08,0
+C00029,46,10,207.11,2,21,Monthly,Premium,0.233,0
+C00030,41,18,31.9,4,11,Monthly,Standard,0.762,0
+C00031,41,50,63.04,5,9,Annual,Standard,0.237,1
+C00032,29,45,137.15,1,18,Annual,Premium,0.072,0
+C00033,22,59,59.1,2,7,Annual,Standard,0.163,0
+C00034,46,45,155.91,2,7,Monthly,Standard,0.212,0
+C00035,64,39,62.82,1,14,Annual,Value,0.211,0
+C00036,21,21,39.83,3,16,Annual,Standard,0.425,1
+C00037,62,1,61.4,7,15,Monthly,Value,0.82,1
+C00038,61,8,104.55,4,9,Monthly,Value,0.67,1
+C00039,32,18,55.23,3,14,Monthly,Standard,0.665,1
+C00040,50,3,46.94,2,14,Annual,Premium,0.555,0
+C00041,26,31,192.06,2,9,Monthly,Value,0.21,0
+C00042,57,47,84.08,2,13,Annual,Premium,0.151,0
+C00043,54,58,92.15,4,22,Annual,Value,0.087,0
+C00044,36,30,31.05,2,17,Monthly,Standard,0.59,1
+C00045,21,53,91.47,4,13,Annual,Standard,0.136,0
+C00046,68,60,72.96,1,21,Annual,Standard,0.082,0
+C00047,41,52,142.1,0,12,Monthly,Standard,0.149,0
+C00048,64,28,61.08,2,8,Annual,Value,0.351,0
+C00049,53,20,197.67,5,16,Monthly,Premium,0.272,1
+C00050,58,59,205.93,1,14,Monthly,Value,0.061,0
+C00051,57,15,39.97,1,8,Annual,Premium,0.501,0
+C00052,28,25,41.48,1,12,Annual,Value,0.377,0
+C00053,36,5,43.07,1,14,Monthly,Value,0.752,1
+C00054,42,48,143.91,2,13,Two Year,Standard,0.077,0
+C00055,43,39,44.39,4,11,Annual,Premium,0.327,0
+C00056,20,6,190.48,1,7,Annual,Value,0.19,0
+C00057,46,14,170.85,1,13,Monthly,Value,0.331,0
+C00058,26,34,183.96,4,9,Monthly,Standard,0.24,0
+C00059,56,33,125.21,2,20,Monthly,Standard,0.273,0
+C00060,53,49,219.34,1,12,Annual,Value,0.03,0
+C00061,65,16,28.84,2,11,Monthly,Premium,0.748,1
+C00062,56,56,100.25,4,10,Annual,Standard,0.124,0
+C00063,37,27,84.79,1,17,Monthly,Standard,0.434,1
+C00064,68,50,209.73,7,11,Annual,Premium,0.056,0
+C00065,39,15,135.37,2,14,Annual,Value,0.221,0
+C00066,34,3,181.24,1,14,Annual,Standard,0.185,1
+C00067,65,4,54.07,0,11,Annual,Value,0.507,1
+C00068,37,23,215.73,4,12,Two Year,Standard,0.095,0
+C00069,21,58,119.73,1,19,Monthly,Standard,0.137,0
+C00070,42,3,118.73,3,12,Annual,Standard,0.382,1
+C00071,59,23,214.18,4,13,Two Year,Standard,0.094,0
+C00072,27,7,96.15,7,10,Annual,Value,0.52,1
+C00073,42,56,99.51,3,9,Monthly,Standard,0.269,1
+C00074,24,41,136.95,2,14,Two Year,Value,0.101,1
+C00075,53,46,45.61,1,9,Monthly,Standard,0.455,1
+C00076,42,43,84.22,3,17,Monthly,Standard,0.345,0
+C00077,35,40,58.64,3,12,Monthly,Premium,0.487,0
+C00078,29,47,40.66,2,15,Monthly,Value,0.431,1
+C00079,47,1,193.23,4,17,Monthly,Standard,0.404,0
+C00080,52,52,137.87,2,8,Monthly,Standard,0.202,0
+C00081,66,45,91.73,3,13,Two Year,Standard,0.16,0
+C00082,40,45,101.73,2,7,Monthly,Standard,0.341,0
+C00083,26,24,106.3,5,8,Monthly,Standard,0.563,1
+C00084,61,49,146.63,1,16,Two Year,Standard,0.06,0
+C00085,50,23,205.35,4,9,Annual,Value,0.117,0
+C00086,54,3,206.56,4,12,Monthly,Premium,0.391,0
+C00087,23,55,98.3,1,9,Monthly,Standard,0.244,1
+C00088,34,15,85.85,2,9,Annual,Premium,0.38,0
+C00089,57,7,110.21,2,15,Annual,Value,0.329,0
+C00090,61,38,133.59,2,19,Annual,Standard,0.098,0
+C00091,40,15,112.36,3,8,Monthly,Standard,0.579,1
+C00092,59,52,151.75,1,9,Annual,Value,0.065,0
+C00093,61,27,130.88,2,14,Annual,Standard,0.164,0
+C00094,38,1,84.14,2,12,Annual,Premium,0.479,0
+C00095,64,58,89.15,2,15,Two Year,Standard,0.096,0
+C00096,32,31,95.72,2,11,Annual,Premium,0.225,1
+C00097,30,16,38.93,3,7,Annual,Value,0.549,1
+C00098,53,41,53.21,3,11,Annual,Standard,0.271,0
+C00099,51,32,164.62,2,18,Annual,Value,0.087,0
+C00100,25,2,97.82,1,11,Annual,Value,0.416,0
+C00101,61,46,62.91,3,10,Monthly,Value,0.439,0
+C00102,28,25,132.53,6,13,Annual,Standard,0.235,0
+C00103,59,42,171.11,1,16,Annual,Premium,0.058,0
+C00104,18,54,71.48,1,8,Monthly,Standard,0.323,0
+C00105,59,37,185.36,5,12,Monthly,Value,0.216,0
+C00106,58,41,205.5,2,15,Annual,Value,0.045,0
+C00107,58,16,139.48,3,10,Annual,Value,0.247,0
+C00108,52,15,153.79,1,9,Monthly,Premium,0.402,0
+C00109,42,25,30.52,1,15,Monthly,Premium,0.628,1
+C00110,54,52,209.1,2,14,Monthly,Value,0.08,0
+C00111,32,32,98.5,4,14,Two Year,Premium,0.226,0
+C00112,58,21,204.78,1,9,Two Year,Standard,0.098,0
+C00113,46,47,135.8,5,16,Annual,Standard,0.101,0
+C00114,41,52,20.92,4,16,Monthly,Standard,0.482,0
+C00115,44,55,27.71,1,13,Annual,Standard,0.194,0
+C00116,47,18,156.08,1,11,Annual,Value,0.168,1
+C00117,19,43,132.53,2,10,Two Year,Value,0.113,0
+C00118,25,36,25.31,0,12,Monthly,Standard,0.554,0
+C00119,30,27,168.69,2,17,Monthly,Standard,0.234,0
+C00120,23,24,190.43,0,14,Annual,Value,0.082,0
+C00121,40,7,119.28,2,12,Monthly,Standard,0.57,0
+C00122,52,17,113.15,3,10,Annual,Standard,0.303,0
+C00123,52,33,21.09,0,13,Annual,Standard,0.34,1
+C00124,42,54,177.33,4,8,Monthly,Premium,0.15,0
+C00125,62,52,86.14,3,15,Monthly,Premium,0.287,1
+C00126,47,12,195.75,4,12,Annual,Value,0.164,0
+C00127,22,41,94.61,1,14,Annual,Standard,0.146,1
+C00128,57,6,133.02,0,11,Monthly,Premium,0.502,1
+C00129,47,41,74.07,3,9,Monthly,Standard,0.458,1
+C00130,51,21,52.12,2,6,Annual,Value,0.453,0
+C00131,47,27,174.98,0,8,Monthly,Standard,0.245,0
+C00132,46,44,119.32,2,13,Annual,Standard,0.114,0
+C00133,22,26,127.3,3,12,Annual,Premium,0.2,0
+C00134,47,49,213.08,4,16,Monthly,Value,0.093,0
+C00135,59,33,212.72,2,13,Annual,Value,0.058,0
+C00136,33,60,191.13,0,10,Monthly,Standard,0.073,0
+C00137,49,39,57.52,1,9,Monthly,Standard,0.48,1
+C00138,19,18,138.85,3,6,Annual,Standard,0.262,0
+C00139,36,47,195.63,2,11,Two Year,Value,0.048,0
+C00140,40,25,94.89,1,8,Annual,Value,0.268,0
+C00141,69,33,40.22,1,9,Monthly,Value,0.584,1
+C00142,29,9,182.19,2,10,Annual,Standard,0.187,0
+C00143,32,8,116.35,1,19,Monthly,Standard,0.487,1
+C00144,39,35,132.88,2,14,Annual,Standard,0.127,0
+C00145,69,12,216.43,1,12,Annual,Value,0.105,0
+C00146,62,60,141.44,1,17,Monthly,Standard,0.109,0
+C00147,19,52,105.0,1,12,Monthly,Premium,0.23,1
+C00148,30,43,94.0,4,13,Two Year,Standard,0.178,1
+C00149,60,45,103.52,3,13,Monthly,Standard,0.31,1
+C00150,21,36,43.68,2,13,Annual,Value,0.298,0
+C00151,62,4,178.95,4,8,Annual,Premium,0.267,0
+C00152,32,24,187.54,3,9,Annual,Standard,0.126,0
+C00153,65,30,76.88,3,12,Monthly,Standard,0.519,1
+C00154,33,55,80.76,2,14,Monthly,Standard,0.268,1
+C00155,40,14,194.87,2,10,Monthly,Value,0.31,0
+C00156,52,30,24.79,1,9,Annual,Standard,0.408,0
+C00157,24,21,124.09,0,11,Two Year,Standard,0.196,0
+C00158,46,9,112.74,3,7,Two Year,Premium,0.391,0
+C00159,44,7,158.03,2,8,Monthly,Standard,0.49,0
+C00160,58,22,52.68,4,7,Monthly,Value,0.714,0
+C00161,69,5,153.67,0,9,Monthly,Value,0.467,0
+C00162,52,5,95.35,1,9,Two Year,Premium,0.415,1
+C00163,39,22,143.74,3,7,Monthly,Standard,0.433,0
+C00164,39,13,28.02,2,16,Monthly,Standard,0.737,1
+C00165,39,34,112.35,3,9,Annual,Premium,0.2,0
+C00166,60,2,124.45,2,9,Annual,Premium,0.378,1
+C00167,34,19,62.87,2,11,Monthly,Premium,0.64,1
+C00168,26,28,47.92,0,13,Annual,Premium,0.308,1
+C00169,35,58,57.69,4,14,Monthly,Value,0.342,0
+C00170,19,39,88.83,2,13,Monthly,Standard,0.376,0
+C00171,23,53,39.36,1,9,Monthly,Value,0.413,1
+C00172,22,21,209.46,1,14,Monthly,Value,0.19,0
+C00173,58,27,101.0,2,11,Two Year,Standard,0.238,0
+C00174,55,26,181.79,7,16,Annual,Standard,0.139,0
+C00175,54,54,214.88,1,10,Annual,Value,0.03,0
+C00176,42,58,36.15,1,7,Monthly,Premium,0.397,1
+C00177,55,58,150.33,1,10,Annual,Standard,0.052,0
+C00178,26,46,194.28,1,12,Two Year,Standard,0.044,0
+C00179,64,31,146.85,4,11,Monthly,Value,0.338,0
+C00180,44,33,105.81,3,20,Two Year,Value,0.16,0
+C00181,66,59,106.22,1,11,Annual,Value,0.081,0
+C00182,25,18,27.18,3,17,Annual,Standard,0.48,1
+C00183,43,21,126.92,0,16,Monthly,Standard,0.35,0
+C00184,54,54,218.71,2,14,Annual,Value,0.03,0
+C00185,43,24,211.74,0,12,Monthly,Value,0.168,1
+C00186,41,15,28.08,4,16,Two Year,Standard,0.534,0
+C00187,26,34,161.16,3,10,Two Year,Value,0.119,1
+C00188,37,20,80.35,1,11,Monthly,Value,0.56,1
+C00189,30,54,200.6,3,7,Two Year,Standard,0.044,0
+C00190,33,55,29.02,1,17,Two Year,Premium,0.171,0
+C00191,53,19,207.17,3,11,Annual,Premium,0.112,0
+C00192,50,32,187.5,1,17,Monthly,Value,0.158,1
+C00193,49,60,43.5,1,16,Monthly,Premium,0.291,1
+C00194,36,45,31.96,3,17,Monthly,Standard,0.479,1
+C00195,67,13,186.94,2,12,Monthly,Standard,0.323,1
+C00196,22,36,51.15,5,16,Two Year,Value,0.314,0
+C00197,35,38,126.98,4,10,Monthly,Value,0.344,0
+C00198,24,40,203.15,4,7,Annual,Value,0.074,0
+C00199,35,2,133.49,1,13,Annual,Standard,0.302,0
+C00200,68,18,99.45,2,7,Annual,Premium,0.334,0
+C00201,37,52,109.0,2,12,Monthly,Standard,0.237,0
+C00202,65,15,32.62,2,12,Annual,Premium,0.511,1
+C00203,43,18,213.75,2,8,Annual,Standard,0.11,0
+C00204,54,20,82.13,6,16,Annual,Value,0.376,0
+C00205,41,11,57.87,2,13,Monthly,Standard,0.7,0
+C00206,31,10,77.21,1,16,Annual,Standard,0.367,0
+C00207,57,21,212.87,3,11,Monthly,Standard,0.231,0
+C00208,68,53,38.86,7,11,Annual,Value,0.294,0
+C00209,31,1,193.46,0,7,Monthly,Standard,0.401,0
+C00210,58,17,161.57,0,11,Monthly,Standard,0.328,0
+C00211,31,4,186.0,1,9,Annual,Premium,0.198,0
+C00212,55,34,215.18,2,13,Monthly,Standard,0.136,0
+C00213,59,16,188.43,4,12,Two Year,Standard,0.157,0
+C00214,41,48,208.68,3,15,Two Year,Standard,0.038,0
+C00215,56,36,45.39,3,24,Monthly,Value,0.456,0
+C00216,32,48,179.16,1,13,Monthly,Premium,0.12,0
+C00217,22,39,129.14,2,10,Monthly,Standard,0.292,0
+C00218,23,27,128.7,1,10,Two Year,Premium,0.175,0
+C00219,41,52,199.78,2,7,Annual,Standard,0.044,0
+C00220,64,29,214.36,1,12,Monthly,Premium,0.152,0
+C00221,24,57,160.97,1,14,Monthly,Premium,0.107,0
+C00222,41,60,116.59,3,9,Monthly,Value,0.207,1
+C00223,54,36,111.28,0,18,Annual,Value,0.117,0
+C00224,28,41,97.27,3,17,Monthly,Standard,0.326,0
+C00225,55,16,92.32,2,9,Monthly,Standard,0.598,0
+C00226,33,49,98.3,2,14,Annual,Value,0.119,0
+C00227,60,41,37.95,5,13,Monthly,Value,0.576,0
+C00228,48,55,35.49,0,12,Annual,Standard,0.172,0
+C00229,46,17,175.97,2,11,Annual,Premium,0.153,0
+C00230,27,48,109.21,1,13,Two Year,Standard,0.104,0
+C00231,42,29,206.14,0,11,Monthly,Value,0.158,0
+C00232,62,12,142.44,0,12,Two Year,Standard,0.206,0
+C00233,19,11,27.04,4,14,Monthly,Standard,0.796,1
+C00234,57,34,51.5,3,11,Two Year,Standard,0.327,0
+C00235,43,20,61.16,1,12,Monthly,Standard,0.607,0
+C00236,55,7,215.15,6,14,Annual,Standard,0.171,0
+C00237,52,26,63.74,2,16,Monthly,Standard,0.536,0
+C00238,40,40,123.15,3,10,Two Year,Value,0.147,0
+C00239,34,20,207.24,1,13,Two Year,Value,0.087,0
+C00240,50,58,215.44,0,13,Monthly,Premium,0.054,0
+C00241,25,47,67.27,2,8,Annual,Value,0.206,0
+C00242,48,31,29.82,1,8,Annual,Value,0.393,1
+C00243,22,57,50.72,0,14,Monthly,Standard,0.29,0
+C00244,51,26,32.67,3,11,Annual,Standard,0.446,1
+C00245,50,9,59.02,1,15,Annual,Value,0.436,1
+C00246,22,3,133.71,2,20,Annual,Standard,0.263,0
+C00247,57,57,202.49,5,15,Monthly,Premium,0.091,0
+C00248,39,58,127.44,0,10,Two Year,Standard,0.062,0
+C00249,58,45,145.2,0,7,Monthly,Standard,0.204,0
+C00250,20,7,60.37,0,8,Annual,Standard,0.488,1
+C00251,27,18,180.12,4,8,Monthly,Premium,0.375,0
+C00252,43,3,143.56,2,19,Monthly,Standard,0.472,0
+C00253,27,4,192.83,1,13,Monthly,Standard,0.35,0
+C00254,35,15,209.77,4,16,Monthly,Value,0.261,0
+C00255,52,35,89.58,2,15,Annual,Standard,0.191,1
+C00256,25,4,38.12,3,13,Annual,Value,0.603,0
+C00257,53,60,65.19,1,8,Annual,Value,0.133,0
+C00258,23,28,107.57,1,17,Annual,Premium,0.171,0
+C00259,27,16,209.14,2,10,Monthly,Standard,0.261,1
+C00260,48,31,95.66,4,6,Monthly,Premium,0.529,0
+C00261,59,48,174.15,1,11,Annual,Value,0.054,0
+C00262,26,19,128.1,5,11,Annual,Standard,0.281,1
+C00263,33,3,56.56,2,11,Annual,Standard,0.553,1
+C00264,66,4,84.15,1,10,Monthly,Premium,0.688,0
+C00265,69,52,150.64,2,10,Annual,Standard,0.069,0
+C00266,48,7,154.57,0,7,Monthly,Value,0.464,0
+C00267,41,39,106.95,1,17,Annual,Value,0.124,0
+C00268,36,24,65.73,2,10,Monthly,Premium,0.599,0
+C00269,49,47,164.38,3,10,Annual,Standard,0.076,0
+C00270,48,4,53.77,6,13,Monthly,Standard,0.818,0
+C00271,33,54,207.33,2,13,Annual,Standard,0.031,0
+C00272,19,42,57.58,1,10,Monthly,Premium,0.445,1
+C00273,25,27,41.46,1,12,Annual,Standard,0.361,1
+C00274,67,13,119.53,2,10,Monthly,Value,0.535,1
+C00275,39,59,123.91,1,7,Annual,Standard,0.075,0
+C00276,43,19,121.64,2,14,Monthly,Standard,0.442,1
+C00277,42,30,107.33,4,20,Monthly,Standard,0.383,0
+C00278,58,24,218.96,2,9,Annual,Standard,0.083,0
+C00279,21,14,117.26,2,13,Monthly,Standard,0.507,1
+C00280,22,25,115.59,2,10,Monthly,Standard,0.442,0
+C00281,32,10,104.35,0,9,Annual,Premium,0.328,1
+C00282,43,1,33.37,0,19,Annual,Value,0.525,1
+C00283,52,18,138.59,1,12,Two Year,Value,0.194,0
+C00284,43,7,65.59,4,10,Monthly,Standard,0.765,1
+C00285,40,25,147.52,0,11,Annual,Premium,0.138,0
+C00286,66,52,30.17,1,13,Annual,Premium,0.206,0
+C00287,26,10,216.28,0,17,Monthly,Premium,0.207,0
+C00288,47,1,113.8,1,14,Annual,Value,0.354,0
+C00289,46,7,199.35,5,13,Monthly,Value,0.391,1
+C00290,42,31,115.11,2,15,Two Year,Standard,0.166,0
+C00291,59,17,32.07,2,12,Annual,Value,0.495,1
+C00292,31,30,184.44,1,8,Monthly,Premium,0.222,1
+C00293,67,2,149.64,3,18,Monthly,Standard,0.494,0
+C00294,35,20,176.35,3,23,Monthly,Premium,0.24,1
+C00295,46,25,105.63,0,14,Monthly,Standard,0.394,0
+C00296,45,26,147.59,5,14,Annual,Value,0.179,0
+C00297,62,34,191.25,0,13,Annual,Value,0.061,0
+C00298,40,47,146.21,1,9,Annual,Premium,0.081,0
+C00299,32,29,89.53,2,12,Monthly,Premium,0.468,1
+C00300,19,51,152.51,4,13,Annual,Standard,0.075,0
+C00301,36,32,154.37,3,15,Monthly,Premium,0.264,0
+C00302,60,16,212.12,3,14,Monthly,Standard,0.245,1
+C00303,18,14,94.18,2,17,Two Year,Standard,0.303,1
+C00304,64,20,105.02,2,22,Monthly,Standard,0.413,1
+C00305,46,36,182.42,1,13,Annual,Standard,0.068,0
+C00306,25,15,121.15,4,12,Two Year,Premium,0.302,0
+C00307,33,55,167.31,2,12,Monthly,Value,0.122,0
+C00308,46,29,111.94,4,18,Two Year,Standard,0.193,0
+C00309,34,52,63.1,1,8,Annual,Standard,0.173,1
+C00310,23,41,169.04,1,11,Annual,Standard,0.072,0
+C00311,52,21,46.23,2,13,Monthly,Standard,0.654,1
+C00312,52,14,59.72,0,8,Monthly,Premium,0.671,1
+C00313,24,45,145.36,2,13,Monthly,Premium,0.199,1
+C00314,32,20,169.45,6,10,Monthly,Standard,0.415,0
+C00315,30,15,198.94,1,20,Monthly,Standard,0.21,0
+C00316,52,56,74.52,1,21,Annual,Standard,0.091,0
+C00317,55,29,42.14,1,15,Annual,Standard,0.32,1
+C00318,55,3,211.21,1,13,Monthly,Value,0.309,1
+C00319,66,30,50.88,2,5,Annual,Premium,0.388,0
+C00320,57,28,59.53,4,5,Two Year,Premium,0.423,1
+C00321,34,52,78.27,1,12,Annual,Standard,0.131,1
+C00322,23,43,125.88,0,11,Annual,Standard,0.1,0
+C00323,49,12,196.57,6,17,Annual,Standard,0.163,0
+C00324,65,10,172.11,0,12,Monthly,Standard,0.346,0
+C00325,68,37,161.63,2,11,Monthly,Standard,0.225,0
+C00326,29,3,55.04,0,5,Two Year,Standard,0.565,1
+C00327,30,20,91.54,2,12,Annual,Standard,0.302,0
+C00328,19,9,115.68,0,24,Annual,Value,0.207,1
+C00329,25,2,49.49,2,14,Two Year,Premium,0.556,0
+C00330,46,56,74.69,4,22,Monthly,Standard,0.256,0
+C00331,46,6,81.67,1,12,Monthly,Standard,0.664,1
+C00332,37,1,45.46,0,12,Annual,Standard,0.55,1
+C00333,34,56,130.05,4,9,Monthly,Premium,0.218,0
+C00334,61,12,161.01,3,17,Annual,Standard,0.186,0
+C00335,41,49,33.99,3,9,Annual,Standard,0.275,0
+C00336,60,2,116.22,1,7,Annual,Premium,0.397,0
+C00337,68,10,176.44,3,13,Monthly,Standard,0.389,0
+C00338,34,7,169.6,2,18,Annual,Value,0.178,1
+C00339,28,43,183.01,6,8,Monthly,Standard,0.224,0
+C00340,67,38,109.65,5,21,Two Year,Premium,0.15,0
+C00341,51,29,184.11,2,10,Monthly,Value,0.232,1
+C00342,33,15,68.15,2,9,Two Year,Premium,0.431,1
+C00343,50,6,92.16,5,11,Monthly,Value,0.721,1
+C00344,44,35,55.27,1,11,Monthly,Standard,0.504,0
+C00345,65,14,113.5,4,8,Monthly,Premium,0.605,1
+C00346,31,36,98.41,7,11,Monthly,Value,0.501,0
+C00347,69,42,68.19,1,5,Monthly,Standard,0.457,0
+C00348,66,51,170.36,4,19,Annual,Standard,0.05,0
+C00349,27,30,82.77,2,14,Annual,Standard,0.24,1
+C00350,26,1,74.56,0,9,Monthly,Standard,0.722,1
+C00351,45,17,46.18,2,12,Annual,Standard,0.453,1
+C00352,20,52,107.76,0,12,Two Year,Value,0.088,0
+C00353,33,32,80.59,0,9,Annual,Standard,0.231,0
+C00354,40,38,93.85,1,9,Monthly,Standard,0.382,1
+C00355,68,28,67.2,3,10,Monthly,Standard,0.583,0
+C00356,69,10,172.63,1,13,Two Year,Standard,0.17,0
+C00357,25,54,206.0,3,15,Monthly,Standard,0.082,0
+C00358,64,47,119.59,2,9,Monthly,Standard,0.266,1
+C00359,22,60,148.6,2,10,Annual,Value,0.055,0
+C00360,56,52,193.43,3,9,Monthly,Standard,0.121,0
+C00361,61,18,219.77,3,5,Annual,Premium,0.122,0
+C00362,64,16,142.7,4,13,Monthly,Standard,0.458,1
+C00363,29,15,197.96,4,13,Annual,Standard,0.142,0
+C00364,64,56,201.72,3,12,Two Year,Premium,0.035,0
+C00365,24,34,178.29,2,17,Two Year,Premium,0.073,0
+C00366,44,28,112.19,2,14,Two Year,Standard,0.192,1
+C00367,42,59,36.23,1,14,Two Year,Value,0.154,0
+C00368,34,37,23.16,6,17,Monthly,Standard,0.639,0
+C00369,19,55,115.44,2,11,Two Year,Premium,0.09,0
+C00370,58,60,118.86,3,10,Two Year,Value,0.083,0
+C00371,35,5,101.47,0,14,Annual,Standard,0.336,1
+C00372,52,22,133.63,5,11,Monthly,Value,0.473,0
+C00373,39,45,130.43,1,14,Monthly,Standard,0.207,0
+C00374,37,49,187.32,2,9,Annual,Premium,0.052,0
+C00375,64,9,41.73,1,8,Annual,Standard,0.548,0
+C00376,22,20,65.04,1,14,Monthly,Standard,0.579,1
+C00377,56,33,178.6,4,14,Monthly,Value,0.226,0
+C00378,56,48,189.57,2,13,Annual,Premium,0.046,0
+C00379,37,7,218.96,3,13,Monthly,Value,0.298,0
+C00380,31,37,194.58,5,20,Two Year,Value,0.064,0
+C00381,18,18,197.98,2,8,Monthly,Value,0.288,0
+C00382,66,13,82.87,4,11,Monthly,Value,0.674,0
+C00383,67,31,100.33,3,11,Monthly,Premium,0.449,0
+C00384,30,25,73.62,1,8,Two Year,Standard,0.321,0
+C00385,19,39,141.26,2,12,Two Year,Value,0.109,0
+C00386,24,20,207.76,2,14,Monthly,Standard,0.214,1
+C00387,21,50,88.93,2,10,Monthly,Premium,0.313,0
+C00388,61,5,131.4,1,11,Monthly,Standard,0.538,1
+C00389,64,52,79.26,1,10,Monthly,Premium,0.303,1
+C00390,25,2,53.96,0,11,Annual,Value,0.524,1
+C00391,56,45,59.04,1,10,Monthly,Standard,0.415,1
+C00392,27,21,31.59,1,14,Annual,Standard,0.422,0
+C00393,37,24,209.86,4,9,Monthly,Value,0.247,0
+C00394,49,2,100.58,1,12,Monthly,Standard,0.644,1
+C00395,55,43,186.82,1,20,Monthly,Value,0.104,0
+C00396,63,10,156.27,3,14,Monthly,Premium,0.439,0
+C00397,20,40,58.38,3,10,Monthly,Premium,0.505,0
+C00398,28,44,55.09,2,11,Monthly,Premium,0.449,1
+C00399,32,51,182.4,2,13,Monthly,Standard,0.114,0
+C00400,34,43,72.94,1,15,Two Year,Standard,0.166,0
+C00401,69,19,202.66,0,13,Monthly,Standard,0.206,0
+C00402,58,45,48.01,3,14,Monthly,Premium,0.457,0
+C00403,34,50,155.54,0,8,Monthly,Premium,0.155,0
+C00404,68,20,182.89,1,8,Annual,Standard,0.132,0
+C00405,43,8,67.05,3,7,Two Year,Premium,0.535,1
+C00406,44,54,75.24,0,10,Annual,Value,0.125,0
+C00407,40,9,212.9,0,9,Annual,Value,0.121,1
+C00408,25,36,72.92,2,11,Annual,Standard,0.242,0
+C00409,66,15,105.99,2,15,Monthly,Standard,0.515,1
+C00410,18,8,106.5,1,13,Two Year,Standard,0.327,0
+C00411,27,47,70.61,6,16,Annual,Standard,0.212,1
+C00412,29,9,175.16,7,10,Monthly,Value,0.516,0
+C00413,32,41,174.37,5,16,Monthly,Value,0.192,0
+C00414,24,42,95.66,6,13,Monthly,Standard,0.418,1
+C00415,18,4,187.03,4,12,Monthly,Standard,0.439,0
+C00416,53,11,62.61,1,13,Annual,Value,0.425,1
+C00417,68,48,20.86,2,17,Monthly,Premium,0.464,1
+C00418,24,31,134.23,3,16,Annual,Standard,0.144,0
+C00419,33,8,218.82,1,5,Two Year,Standard,0.143,0
+C00420,44,60,27.73,3,10,Monthly,Standard,0.422,1
+C00421,66,16,61.6,1,18,Monthly,Standard,0.589,0
+C00422,54,1,123.78,2,9,Annual,Standard,0.388,0
+C00423,57,56,181.99,2,15,Annual,Premium,0.036,0
+C00424,48,1,37.81,1,14,Monthly,Standard,0.788,1
+C00425,39,34,99.05,3,6,Monthly,Value,0.47,0
+C00426,28,60,169.42,7,7,Annual,Value,0.073,0
+C00427,62,35,94.31,0,8,Two Year,Standard,0.192,0
+C00428,59,36,57.77,2,8,Monthly,Standard,0.537,1
+C00429,19,24,59.1,3,13,Monthly,Value,0.614,1
+C00430,55,8,102.01,3,12,Two Year,Standard,0.388,1
+C00431,22,35,115.88,2,11,Monthly,Standard,0.35,0
+C00432,56,54,192.36,0,15,Monthly,Standard,0.074,0
+C00433,60,6,148.45,1,11,Annual,Premium,0.252,0
+C00434,24,53,158.08,4,10,Monthly,Value,0.176,0
+C00435,40,25,216.6,0,13,Monthly,Standard,0.151,0
+C00436,24,33,102.37,1,22,Annual,Standard,0.134,0
+C00437,47,10,100.67,1,10,Annual,Value,0.35,0
+C00438,66,38,204.67,1,18,Monthly,Standard,0.107,0
+C00439,22,11,69.18,4,11,Monthly,Value,0.723,1
+C00440,38,17,165.96,1,11,Annual,Standard,0.157,0
+C00441,68,44,170.91,2,17,Annual,Standard,0.057,0
+C00442,33,4,39.56,4,14,Annual,Value,0.612,1
+C00443,24,27,113.65,1,17,Annual,Value,0.166,1
+C00444,43,36,60.11,2,12,Annual,Value,0.265,0
+C00445,44,8,57.08,3,17,Two Year,Value,0.478,0
+C00446,52,18,112.77,3,10,Annual,Standard,0.297,1
+C00447,34,21,77.89,2,5,Monthly,Premium,0.631,1
+C00448,67,40,179.21,3,12,Two Year,Standard,0.076,1
+C00449,45,59,201.52,5,12,Two Year,Value,0.037,0
+C00450,32,51,180.54,1,7,Monthly,Standard,0.129,0
+C00451,67,12,73.21,2,13,Monthly,Value,0.652,1
+C00452,66,2,74.83,2,11,Annual,Value,0.507,0
+C00453,43,4,70.95,3,8,Monthly,Value,0.768,1
+C00454,19,36,47.01,1,14,Annual,Value,0.264,0
+C00455,49,10,208.76,3,16,Annual,Standard,0.125,0
+C00456,46,14,100.41,2,6,Monthly,Standard,0.617,1
+C00457,25,51,64.94,2,18,Monthly,Value,0.307,0
+C00458,50,53,189.33,1,16,Two Year,Premium,0.032,1
+C00459,61,51,99.84,2,16,Monthly,Premium,0.238,0
+C00460,23,16,27.02,1,8,Annual,Value,0.531,1
+C00461,55,38,52.39,4,20,Monthly,Standard,0.475,0
+C00462,25,37,147.85,1,10,Monthly,Standard,0.244,1
+C00463,56,12,176.58,4,11,Annual,Premium,0.204,1
+C00464,39,34,62.19,4,5,Monthly,Standard,0.61,1
+C00465,18,32,203.48,2,15,Annual,Value,0.063,0
+C00466,68,24,190.2,1,7,Annual,Standard,0.111,0
+C00467,26,46,189.68,4,9,Monthly,Standard,0.162,0
+C00468,48,41,65.53,5,17,Monthly,Standard,0.459,0
+C00469,27,32,30.11,3,15,Annual,Value,0.369,0
+C00470,66,44,193.48,3,9,Annual,Value,0.063,0
+C00471,56,46,81.16,2,12,Annual,Standard,0.165,0
+C00472,59,35,143.78,2,13,Annual,Standard,0.117,0
+C00473,40,17,171.99,2,9,Monthly,Standard,0.356,1
+C00474,42,46,45.66,4,15,Monthly,Standard,0.469,1
+C00475,50,44,176.17,2,13,Annual,Premium,0.061,0
+C00476,58,60,207.7,2,16,Annual,Standard,0.03,0
+C00477,62,9,165.67,0,17,Annual,Standard,0.155,0
+C00478,18,26,108.24,1,6,Monthly,Standard,0.468,1
+C00479,52,56,195.34,1,8,Monthly,Standard,0.092,0
+C00480,23,31,125.49,2,12,Annual,Premium,0.164,0
+C00481,32,57,168.95,2,8,Monthly,Premium,0.128,0
+C00482,61,1,184.1,3,18,Monthly,Standard,0.4,0
+C00483,31,3,169.87,3,14,Annual,Premium,0.238,0
+C00484,59,48,77.57,2,7,Monthly,Premium,0.383,1
+C00485,42,22,43.57,2,11,Monthly,Value,0.669,1
+C00486,30,32,67.67,0,10,Monthly,Standard,0.48,1
+C00487,35,26,120.57,1,8,Two Year,Value,0.206,1
+C00488,45,25,121.06,1,14,Monthly,Standard,0.371,0
+C00489,57,57,136.53,2,11,Monthly,Standard,0.163,1
+C00490,49,6,99.02,1,12,Monthly,Standard,0.616,1
+C00491,66,47,177.38,1,10,Monthly,Premium,0.138,0
+C00492,63,54,202.63,1,12,Monthly,Value,0.079,0
+C00493,57,40,69.35,1,15,Annual,Value,0.187,1
+C00494,49,24,167.3,2,14,Monthly,Standard,0.277,1
+C00495,33,10,155.59,1,13,Monthly,Value,0.406,1
+C00496,39,41,124.62,1,13,Monthly,Standard,0.251,0
+C00497,24,29,57.71,4,16,Monthly,Value,0.573,0
+C00498,37,9,179.05,1,12,Monthly,Value,0.356,0
+C00499,66,22,212.13,0,12,Annual,Premium,0.073,0
+C00500,40,58,164.37,0,9,Annual,Value,0.042,0
+C00501,23,16,203.57,2,18,Annual,Value,0.095,0
+C00502,51,11,216.84,3,18,Monthly,Standard,0.241,0
+C00503,68,41,90.41,1,15,Two Year,Premium,0.147,0
+C00504,63,12,147.64,1,15,Annual,Value,0.194,0
+C00505,32,56,114.79,1,15,Monthly,Standard,0.172,0
+C00506,41,52,217.33,1,12,Monthly,Standard,0.072,0
+C00507,45,60,38.76,1,14,Annual,Value,0.146,0
+C00508,30,55,102.47,2,11,Monthly,Standard,0.239,0
+C00509,31,15,195.11,1,16,Monthly,Value,0.243,1
+C00510,30,13,76.81,2,13,Annual,Standard,0.389,0
+C00511,69,21,177.56,5,12,Monthly,Standard,0.346,0
+C00512,56,29,96.56,3,14,Two Year,Value,0.233,0
+C00513,61,53,216.0,2,12,Monthly,Standard,0.077,1
+C00514,60,45,196.71,2,14,Monthly,Standard,0.115,0
+C00515,67,39,80.26,3,10,Monthly,Standard,0.448,1
+C00516,23,53,174.04,2,8,Monthly,Premium,0.137,0
+C00517,63,39,87.37,1,9,Two Year,Standard,0.192,0
+C00518,21,23,141.27,1,15,Annual,Standard,0.15,0
+C00519,42,25,151.7,5,8,Two Year,Value,0.21,0
+C00520,48,32,185.92,3,6,Annual,Value,0.11,0
+C00521,36,6,24.89,3,4,Monthly,Value,0.82,1
+C00522,25,45,64.03,1,21,Monthly,Premium,0.313,1
+C00523,27,40,162.38,4,16,Monthly,Standard,0.206,0
+C00524,60,44,132.7,2,11,Two Year,Premium,0.106,1
+C00525,34,33,119.12,1,10,Monthly,Value,0.344,0
+C00526,34,47,31.04,3,5,Monthly,Standard,0.569,0
+C00527,66,57,89.66,2,14,Monthly,Value,0.235,0
+C00528,25,35,193.02,4,9,Annual,Standard,0.091,0
+C00529,65,27,26.18,1,18,Monthly,Standard,0.599,0
+C00530,65,7,99.29,1,10,Annual,Value,0.378,1
+C00531,49,47,209.03,3,10,Annual,Standard,0.046,0
+C00532,26,55,30.18,3,11,Annual,Value,0.231,0
+C00533,26,42,169.94,3,17,Monthly,Value,0.163,0
+C00534,32,52,71.52,2,20,Monthly,Standard,0.269,0
+C00535,48,52,193.32,4,10,Monthly,Standard,0.127,0
+C00536,25,48,169.21,4,11,Two Year,Standard,0.073,0
+C00537,41,31,197.14,3,16,Two Year,Value,0.073,0
+C00538,24,6,63.18,5,15,Annual,Value,0.539,0
+C00539,46,1,126.26,5,11,Monthly,Standard,0.671,1
+C00540,19,13,175.85,3,11,Monthly,Standard,0.382,0
+C00541,54,26,69.14,4,17,Annual,Standard,0.315,0
+C00542,20,45,66.15,1,17,Monthly,Standard,0.338,0
+C00543,28,28,25.44,2,14,Annual,Value,0.402,0
+C00544,27,2,211.7,0,5,Annual,Value,0.17,0
+C00545,61,13,162.0,3,17,Monthly,Standard,0.372,0
+C00546,20,59,147.11,3,15,Monthly,Standard,0.132,0
+C00547,40,60,168.8,0,11,Monthly,Standard,0.09,0
+C00548,48,23,126.32,1,16,Monthly,Premium,0.356,1
+C00549,44,49,115.23,1,14,Annual,Standard,0.091,0
+C00550,53,44,109.91,3,16,Monthly,Value,0.279,0
+C00551,59,56,148.09,2,15,Monthly,Standard,0.132,1
+C00552,38,54,60.31,2,7,Monthly,Standard,0.383,1
+C00553,61,38,197.61,5,17,Monthly,Standard,0.162,0
+C00554,34,24,182.35,5,16,Annual,Premium,0.126,0
+C00555,69,38,89.91,4,13,Annual,Standard,0.214,1
+C00556,44,20,135.72,1,20,Monthly,Value,0.323,1
+C00557,56,21,48.21,1,11,Monthly,Premium,0.644,0
+C00558,63,37,214.47,3,18,Monthly,Standard,0.116,0
+C00559,59,35,200.58,1,14,Monthly,Standard,0.138,0
+C00560,62,35,204.38,2,9,Monthly,Premium,0.166,0
+C00561,45,24,86.43,2,11,Two Year,Standard,0.293,1
+C00562,20,25,53.83,3,9,Monthly,Premium,0.653,0
+C00563,43,1,62.35,0,15,Monthly,Standard,0.709,1
+C00564,27,37,38.0,1,12,Monthly,Value,0.53,1
+C00565,64,35,44.02,3,19,Annual,Standard,0.279,1
+C00566,30,57,34.26,1,11,Monthly,Standard,0.377,1
+C00567,29,31,217.96,1,11,Two Year,Standard,0.058,0
+C00568,30,29,34.81,3,11,Monthly,Value,0.658,0
+C00569,51,5,46.51,1,12,Annual,Premium,0.534,1
+C00570,47,12,185.45,3,14,Annual,Value,0.159,0
+C00571,67,21,136.05,3,16,Monthly,Standard,0.388,1
+C00572,39,23,174.88,2,16,Monthly,Value,0.253,0
+C00573,32,22,146.18,1,14,Monthly,Standard,0.326,0
+C00574,20,24,196.44,5,11,Annual,Premium,0.126,0
+C00575,18,47,147.69,2,11,Two Year,Standard,0.081,0
+C00576,37,8,124.43,1,9,Monthly,Premium,0.55,1
+C00577,66,20,162.55,2,13,Monthly,Value,0.326,0
+C00578,45,10,109.48,1,16,Monthly,Standard,0.517,1
+C00579,64,19,89.21,2,13,Monthly,Standard,0.547,0
+C00580,23,42,113.53,0,12,Annual,Premium,0.114,0
+C00581,22,3,53.94,4,13,Monthly,Standard,0.795,1
+C00582,61,21,179.31,3,12,Monthly,Standard,0.302,0
+C00583,23,2,72.14,5,12,Two Year,Value,0.573,1
+C00584,20,58,50.71,3,14,Annual,Standard,0.16,0
+C00585,39,44,69.27,2,15,Annual,Standard,0.18,0
+C00586,66,15,188.41,1,9,Monthly,Value,0.308,0
+C00587,53,12,86.04,2,11,Two Year,Standard,0.388,1
+C00588,23,6,157.21,3,16,Annual,Standard,0.234,0
+C00589,61,29,191.28,2,11,Monthly,Premium,0.212,0
+C00590,61,46,35.55,0,11,Monthly,Standard,0.445,1
+C00591,59,36,173.0,0,9,Two Year,Standard,0.079,0
+C00592,64,53,81.53,3,8,Annual,Premium,0.162,0
+C00593,30,21,63.32,3,11,Annual,Value,0.399,0
+C00594,68,17,157.78,3,9,Annual,Premium,0.209,0
+C00595,34,29,201.96,1,11,Annual,Standard,0.074,1
+C00596,59,13,79.0,3,11,Annual,Premium,0.421,1
+C00597,48,59,133.77,3,11,Two Year,Standard,0.07,0
+C00598,58,12,77.97,6,11,Monthly,Value,0.731,1
+C00599,50,29,130.86,1,13,Monthly,Premium,0.321,0
+C00600,51,32,144.37,2,13,Annual,Standard,0.127,0
+C00601,50,4,142.07,3,16,Monthly,Standard,0.516,1
+C00602,58,29,144.71,1,18,Annual,Value,0.11,0
+C00603,56,28,47.02,2,13,Annual,Premium,0.35,0
+C00604,24,16,158.71,0,19,Annual,Value,0.127,0
+C00605,60,8,154.95,0,10,Annual,Standard,0.216,0
+C00606,45,3,156.52,2,14,Monthly,Standard,0.477,0
+C00607,34,1,34.81,1,6,Two Year,Standard,0.652,1
+C00608,44,29,109.37,4,11,Monthly,Standard,0.462,0
+C00609,68,6,101.81,2,17,Annual,Standard,0.344,0
+C00610,62,58,37.34,0,14,Two Year,Premium,0.146,0
+C00611,61,15,64.47,1,10,Monthly,Standard,0.655,1
+C00612,42,40,108.19,4,9,Monthly,Standard,0.389,0
+C00613,58,41,168.58,2,16,Monthly,Standard,0.163,0
+C00614,38,30,67.41,3,9,Annual,Premium,0.331,0
+C00615,53,54,185.95,2,12,Monthly,Standard,0.103,0
+C00616,51,7,129.16,2,11,Monthly,Standard,0.55,1
+C00617,30,15,172.08,1,15,Two Year,Standard,0.139,0
+C00618,31,16,114.51,1,17,Monthly,Value,0.441,0
+C00619,21,9,119.84,3,9,Annual,Standard,0.355,0
+C00620,25,18,143.94,2,15,Annual,Standard,0.182,1
+C00621,40,19,205.59,3,12,Monthly,Premium,0.253,0
+C00622,42,46,118.36,2,14,Monthly,Value,0.242,0
+C00623,26,19,125.73,2,13,Two Year,Standard,0.223,1
+C00624,39,53,140.4,2,9,Annual,Standard,0.078,0
+C00625,49,47,167.5,2,10,Monthly,Premium,0.165,1
+C00626,30,55,34.37,3,11,Annual,Premium,0.222,0
+C00627,35,7,123.14,2,13,Monthly,Value,0.55,0
+C00628,37,60,116.32,3,9,Monthly,Premium,0.207,0
+C00629,44,37,204.34,1,8,Annual,Standard,0.061,0
+C00630,37,59,118.7,2,14,Monthly,Premium,0.168,0
+C00631,56,22,113.66,2,14,Monthly,Value,0.439,1
+C00632,35,58,212.44,0,10,Two Year,Value,0.03,0
+C00633,40,36,110.12,2,14,Monthly,Value,0.334,0
+C00634,37,5,56.18,2,10,Monthly,Value,0.765,1
+C00635,27,25,63.38,1,9,Monthly,Value,0.584,1
+C00636,53,9,39.04,1,13,Annual,Standard,0.513,0
+C00637,30,57,20.11,0,9,Annual,Premium,0.206,0
+C00638,33,19,106.39,3,10,Two Year,Standard,0.305,0
+C00639,59,14,173.85,3,14,Monthly,Standard,0.355,0
+C00640,67,34,166.69,1,16,Annual,Standard,0.079,0
+C00641,52,26,26.43,0,12,Annual,Premium,0.39,0
+C00642,65,6,134.0,3,15,Monthly,Premium,0.532,0
+C00643,62,49,50.86,2,9,Monthly,Standard,0.435,1
+C00644,43,51,208.22,1,15,Annual,Premium,0.03,0
+C00645,58,45,53.47,5,3,Monthly,Premium,0.581,1
+C00646,35,38,145.33,1,12,Annual,Premium,0.099,0
+C00647,41,25,85.25,0,12,Annual,Standard,0.246,1
+C00648,45,33,148.31,3,8,Monthly,Premium,0.322,0
+C00649,67,32,102.45,2,14,Two Year,Premium,0.189,0
+C00650,62,10,171.93,1,4,Annual,Premium,0.22,0
+C00651,43,5,66.14,3,6,Monthly,Value,0.784,1
+C00652,51,16,201.16,1,7,Annual,Premium,0.127,0
+C00653,28,28,120.04,3,19,Monthly,Premium,0.351,0
+C00654,59,10,171.22,5,14,Annual,Value,0.224,0
+C00655,46,7,189.95,3,10,Monthly,Value,0.4,1
+C00656,45,52,219.77,2,9,Monthly,Premium,0.084,0
+C00657,57,23,64.79,2,14,Monthly,Standard,0.576,0
+C00658,50,36,77.38,1,18,Monthly,Premium,0.371,1
+C00659,21,32,70.09,4,8,Monthly,Standard,0.579,1
+C00660,32,45,72.57,3,14,Monthly,Standard,0.386,1
+C00661,27,45,136.49,2,10,Two Year,Value,0.101,0
+C00662,56,18,218.7,3,8,Monthly,Value,0.256,0
+C00663,19,51,218.06,1,16,Monthly,Standard,0.065,0
+C00664,28,23,125.35,1,8,Monthly,Premium,0.426,0
+C00665,49,51,147.81,2,11,Annual,Value,0.072,0
+C00666,54,25,191.99,1,11,Monthly,Standard,0.219,0
+C00667,44,7,206.59,5,13,Annual,Value,0.178,0
+C00668,62,46,60.77,2,8,Annual,Premium,0.225,0
+C00669,65,2,125.71,3,11,Monthly,Standard,0.624,1
+C00670,24,47,186.57,1,14,Two Year,Value,0.044,0
+C00671,67,3,80.64,2,13,Monthly,Value,0.701,1
+C00672,49,13,107.96,1,8,Annual,Standard,0.323,1
+C00673,51,37,217.12,0,10,Monthly,Standard,0.114,0
+C00674,22,57,217.01,3,9,Annual,Standard,0.031,0
+C00675,50,25,201.22,3,13,Annual,Standard,0.093,0
+C00676,55,8,179.69,0,10,Monthly,Value,0.357,0
+C00677,48,14,73.83,1,12,Monthly,Standard,0.621,1
+C00678,22,54,84.17,3,11,Monthly,Premium,0.307,0
+C00679,45,44,129.46,1,17,Monthly,Premium,0.198,0
+C00680,66,7,132.16,3,14,Two Year,Standard,0.299,0
+C00681,55,24,121.1,2,9,Annual,Value,0.226,0
+C00682,25,16,147.33,1,19,Annual,Premium,0.154,0
+C00683,67,11,101.66,2,9,Two Year,Standard,0.368,0
+C00684,67,51,169.83,2,14,Annual,Value,0.051,0
+C00685,26,38,86.71,3,16,Annual,Standard,0.188,0
+C00686,59,11,86.14,1,16,Monthly,Premium,0.577,0
+C00687,39,40,45.45,7,8,Monthly,Standard,0.647,0
+C00688,48,25,57.74,3,11,Monthly,Standard,0.626,1
+C00689,41,4,190.1,2,9,Monthly,Premium,0.412,0
+C00690,58,27,109.26,2,19,Monthly,Standard,0.368,0
+C00691,69,12,65.57,2,16,Monthly,Standard,0.649,1
+C00692,59,15,171.87,6,19,Monthly,Standard,0.375,1
+C00693,66,53,130.8,0,16,Monthly,Standard,0.144,0
+C00694,67,43,24.23,4,10,Monthly,Premium,0.602,1
+C00695,22,9,83.27,1,12,Monthly,Premium,0.635,1
+C00696,31,52,55.4,1,20,Monthly,Premium,0.29,1
+C00697,55,35,151.17,2,17,Monthly,Premium,0.222,0
+C00698,48,53,75.01,3,14,Annual,Standard,0.145,0
+C00699,20,45,32.99,3,14,Annual,Premium,0.271,0
+C00700,22,21,30.99,1,10,Monthly,Standard,0.697,1
+C00701,45,33,136.35,2,9,Monthly,Premium,0.326,0
+C00702,50,32,24.34,1,14,Monthly,Premium,0.596,0
+C00703,26,44,189.76,2,13,Monthly,Premium,0.131,0
+C00704,26,15,51.08,1,11,Monthly,Standard,0.683,1
+C00705,24,20,141.31,0,12,Two Year,Standard,0.166,0
+C00706,47,15,108.94,1,13,Monthly,Value,0.501,0
+C00707,18,18,108.57,3,10,Monthly,Premium,0.547,0
+C00708,47,10,34.36,3,10,Annual,Standard,0.588,0
+C00709,42,3,180.55,1,16,Monthly,Value,0.368,0
+C00710,42,57,198.61,3,12,Monthly,Standard,0.089,0
+C00711,53,5,22.2,1,16,Monthly,Premium,0.784,0
+C00712,45,54,55.72,3,11,Two Year,Premium,0.186,0
+C00713,55,1,200.78,3,9,Monthly,Premium,0.428,0
+C00714,57,47,129.9,2,14,Annual,Value,0.09,0
+C00715,65,20,50.01,1,13,Annual,Standard,0.386,1
+C00716,59,32,60.56,2,10,Monthly,Standard,0.546,0
+C00717,44,17,152.0,1,17,Annual,Value,0.151,0
+C00718,43,30,164.96,0,9,Monthly,Standard,0.241,0
+C00719,30,28,139.89,2,8,Monthly,Standard,0.364,1
+C00720,49,32,210.63,4,11,Monthly,Premium,0.187,0
+C00721,25,24,118.81,4,12,Two Year,Standard,0.245,1
+C00722,66,33,80.05,4,12,Monthly,Premium,0.506,1
+C00723,61,50,115.45,4,13,Monthly,Premium,0.263,1
+C00724,24,27,91.93,2,13,Two Year,Standard,0.245,0
+C00725,58,22,64.88,1,8,Monthly,Standard,0.613,0
+C00726,24,8,29.19,1,7,Two Year,Standard,0.602,0
+C00727,55,22,90.44,2,5,Annual,Standard,0.343,0
+C00728,22,8,162.28,3,16,Annual,Premium,0.211,0
+C00729,43,11,23.69,2,12,Annual,Value,0.572,0
+C00730,52,58,107.84,1,18,Annual,Premium,0.065,0
+C00731,55,6,148.8,2,8,Monthly,Value,0.526,0
+C00732,39,29,142.08,0,14,Two Year,Standard,0.118,0
+C00733,65,51,175.33,2,16,Two Year,Standard,0.044,0
+C00734,58,58,182.1,2,13,Two Year,Standard,0.036,0
+C00735,28,9,162.34,2,14,Annual,Value,0.202,1
+C00736,52,10,40.56,3,19,Annual,Standard,0.492,0
+C00737,55,23,115.0,1,10,Annual,Premium,0.224,0
+C00738,35,34,140.68,1,14,Monthly,Value,0.254,0
+C00739,56,58,69.11,2,13,Monthly,Premium,0.282,0
+C00740,64,13,28.51,0,10,Annual,Standard,0.513,1
+C00741,60,10,64.72,3,14,Annual,Standard,0.463,1
+C00742,57,16,110.98,1,11,Monthly,Value,0.503,1
+C00743,50,53,102.79,3,17,Monthly,Standard,0.229,1
+C00744,32,2,55.33,2,16,Annual,Premium,0.521,0
+C00745,59,23,184.88,4,11,Monthly,Standard,0.3,0
+C00746,36,8,205.14,2,10,Two Year,Standard,0.153,0
+C00747,45,10,60.27,2,9,Annual,Standard,0.498,1
+C00748,34,56,205.91,2,10,Monthly,Standard,0.083,0
+C00749,34,1,23.57,1,13,Monthly,Value,0.82,0
+C00750,26,20,204.99,0,9,Annual,Premium,0.093,0
+C00751,67,55,210.39,1,6,Monthly,Premium,0.086,0
+C00752,25,37,22.41,2,12,Annual,Standard,0.353,0
+C00753,22,5,172.6,6,17,Monthly,Premium,0.475,0
+C00754,66,28,214.04,1,9,Monthly,Premium,0.172,0
+C00755,46,59,201.18,1,10,Monthly,Standard,0.073,0
+C00756,40,25,214.14,2,12,Annual,Standard,0.077,0
+C00757,56,32,130.06,1,9,Two Year,Standard,0.154,1
+C00758,37,32,35.63,4,14,Two Year,Standard,0.383,0
+C00759,24,40,189.96,0,14,Monthly,Value,0.122,0
+C00760,55,12,142.77,4,12,Annual,Standard,0.27,1
+C00761,27,51,142.95,3,17,Monthly,Standard,0.164,1
+C00762,46,60,103.45,3,13,Annual,Premium,0.089,0
+C00763,67,9,134.37,2,11,Two Year,Premium,0.282,0
+C00764,66,50,50.72,2,15,Monthly,Standard,0.377,1
+C00765,36,50,167.95,3,18,Two Year,Standard,0.051,0
+C00766,58,45,35.0,1,11,Monthly,Premium,0.478,1
+C00767,49,23,165.96,4,15,Monthly,Premium,0.318,1
+C00768,42,29,189.8,3,16,Annual,Standard,0.085,0
+C00769,25,51,114.49,0,12,Two Year,Standard,0.085,0
+C00770,37,10,121.97,1,9,Monthly,Value,0.54,1
+C00771,51,50,82.44,2,9,Annual,Premium,0.158,1
+C00772,69,56,213.89,2,13,Monthly,Premium,0.069,0
+C00773,18,41,166.62,1,11,Annual,Standard,0.074,0
+C00774,55,21,93.8,1,10,Annual,Premium,0.285,0
+C00775,62,34,54.96,3,21,Monthly,Premium,0.471,0
+C00776,67,4,63.92,0,13,Annual,Standard,0.46,0
+C00777,40,56,112.78,3,13,Annual,Standard,0.091,0
+C00778,24,21,208.51,3,16,Monthly,Premium,0.21,0
+C00779,32,4,166.83,2,15,Monthly,Standard,0.429,0
+C00780,62,48,63.05,1,18,Monthly,Standard,0.315,1
+C00781,63,40,191.91,3,14,Two Year,Premium,0.062,0
+C00782,51,38,95.64,4,9,Annual,Value,0.226,0
+C00783,24,4,190.34,2,12,Annual,Standard,0.188,0
+C00784,24,46,68.34,1,11,Annual,Value,0.179,0
+C00785,42,39,143.73,4,8,Annual,Value,0.141,0
+C00786,48,48,205.33,3,6,Monthly,Standard,0.132,0
+C00787,19,50,71.58,2,9,Monthly,Premium,0.367,1
+C00788,53,13,158.59,2,13,Annual,Value,0.193,1
+C00789,46,13,217.46,4,19,Monthly,Standard,0.237,0
+C00790,18,56,50.12,3,10,Monthly,Premium,0.391,0
+C00791,22,32,37.68,1,14,Annual,Standard,0.316,0
+C00792,41,27,154.84,2,11,Two Year,Standard,0.141,0
+C00793,55,18,87.95,3,10,Annual,Value,0.362,0
+C00794,60,39,34.25,5,13,Monthly,Standard,0.603,1
+C00795,40,46,115.06,1,12,Two Year,Value,0.107,0
+C00796,33,1,170.75,3,8,Monthly,Standard,0.526,1
+C00797,68,34,77.02,2,18,Monthly,Standard,0.41,1
+C00798,41,60,87.01,3,9,Two Year,Standard,0.12,0
+C00799,34,17,189.14,1,19,Annual,Value,0.096,1
+C00800,41,17,124.01,3,11,Two Year,Value,0.269,1
+C00801,18,53,188.55,1,9,Annual,Value,0.041,0
+C00802,33,4,109.28,6,10,Annual,Value,0.485,0
+C00803,44,24,210.6,3,11,Monthly,Standard,0.217,1
+C00804,65,28,150.16,2,12,Monthly,Standard,0.305,0
+C00805,56,48,43.18,2,7,Two Year,Value,0.257,0
+C00806,58,8,197.02,2,14,Two Year,Premium,0.148,0
+C00807,46,27,117.85,2,10,Monthly,Premium,0.418,0
+C00808,23,10,48.33,0,10,Monthly,Standard,0.715,1
+C00809,38,48,50.54,2,12,Monthly,Standard,0.419,1
+C00810,69,38,157.51,2,17,Monthly,Standard,0.192,0
+C00811,20,30,29.47,3,11,Two Year,Premium,0.421,0
+C00812,63,24,77.32,1,12,Monthly,Premium,0.526,1
+C00813,53,10,47.96,4,9,Monthly,Premium,0.789,1
+C00814,32,56,108.22,1,13,Two Year,Standard,0.081,0
+C00815,58,39,102.87,2,12,Annual,Premium,0.163,0
+C00816,61,20,124.38,1,13,Monthly,Standard,0.412,1
+C00817,20,25,75.93,0,13,Monthly,Premium,0.49,1
+C00818,23,44,26.41,4,7,Monthly,Standard,0.613,1
+C00819,52,44,142.88,1,15,Monthly,Standard,0.184,0
+C00820,69,28,94.74,2,13,Monthly,Standard,0.452,0
+C00821,19,19,150.27,2,10,Monthly,Value,0.392,1
+C00822,52,40,41.73,0,12,Monthly,Premium,0.47,0
+C00823,25,40,22.76,4,8,Monthly,Standard,0.647,1
+C00824,51,36,69.66,2,8,Monthly,Standard,0.501,0
+C00825,50,5,111.31,2,15,Two Year,Premium,0.342,1
+C00826,22,29,98.81,3,8,Monthly,Value,0.497,0
+C00827,53,37,182.06,6,17,Monthly,Value,0.208,1
+C00828,64,58,95.57,2,11,Two Year,Standard,0.101,0
+C00829,62,32,126.09,0,15,Monthly,Value,0.277,0
+C00830,19,21,138.7,1,7,Monthly,Standard,0.412,1
+C00831,30,34,24.37,2,12,Annual,Standard,0.372,0
+C00832,30,11,123.03,4,11,Annual,Premium,0.335,1
+C00833,41,6,88.97,1,13,Monthly,Premium,0.636,0
+C00834,25,41,104.26,1,16,Annual,Premium,0.124,0
+C00835,62,60,40.06,3,11,Annual,Standard,0.183,0
+C00836,58,51,176.56,2,13,Monthly,Standard,0.121,0
+C00837,60,36,208.48,1,10,Monthly,Premium,0.139,0
+C00838,28,3,24.45,3,13,Monthly,Standard,0.82,1
+C00839,18,60,140.27,1,13,Annual,Premium,0.05,0
+C00840,65,27,172.77,1,11,Monthly,Standard,0.247,1
+C00841,33,18,76.96,1,14,Monthly,Premium,0.561,1
+C00842,52,54,177.51,3,12,Monthly,Standard,0.122,0
+C00843,65,45,146.47,2,15,Two Year,Standard,0.077,0
+C00844,19,45,205.83,2,8,Monthly,Standard,0.125,0
+C00845,18,17,216.2,2,16,Monthly,Premium,0.203,1
+C00846,18,60,28.47,1,14,Monthly,Standard,0.345,1
+C00847,26,28,108.99,2,12,Annual,Value,0.21,0
+C00848,20,32,129.4,1,10,Monthly,Premium,0.325,0
+C00849,60,46,49.35,5,16,Two Year,Standard,0.247,0
+C00850,49,40,87.26,2,6,Monthly,Premium,0.431,0
+C00851,68,11,217.53,4,16,Monthly,Premium,0.27,0
+C00852,59,19,23.25,4,22,Monthly,Standard,0.7,0
+C00853,68,22,110.5,3,12,Monthly,Premium,0.489,1
+C00854,30,57,188.53,3,13,Monthly,Standard,0.096,1
+C00855,32,43,84.78,3,13,Annual,Value,0.181,0
+C00856,62,22,115.96,3,15,Monthly,Premium,0.446,0
+C00857,30,45,215.61,2,8,Annual,Premium,0.045,0
+C00858,20,45,114.98,3,10,Monthly,Value,0.303,1
+C00859,52,24,46.18,1,11,Annual,Standard,0.38,1
+C00860,59,25,30.34,3,14,Monthly,Value,0.677,0
+C00861,68,54,209.08,1,6,Annual,Standard,0.035,0
+C00862,66,34,73.16,2,23,Monthly,Standard,0.379,1
+C00863,24,9,120.81,0,17,Two Year,Value,0.239,1
+C00864,58,44,38.14,3,12,Two Year,Premium,0.279,0
+C00865,61,36,104.73,2,14,Annual,Value,0.164,0
+C00866,54,31,206.02,4,16,Two Year,Standard,0.072,0
+C00867,60,44,120.48,1,12,Monthly,Value,0.247,0
+C00868,61,55,214.23,1,12,Monthly,Premium,0.067,0
+C00869,41,20,71.77,0,10,Monthly,Standard,0.572,0
+C00870,20,26,120.91,0,15,Two Year,Premium,0.156,0
+C00871,41,12,191.91,2,9,Monthly,Value,0.341,1
+C00872,28,39,109.65,3,11,Monthly,Premium,0.355,0
+C00873,23,25,75.9,3,16,Annual,Premium,0.294,0
+C00874,24,21,191.1,1,12,Monthly,Value,0.239,0
+C00875,54,42,97.98,4,14,Annual,Standard,0.171,0
+C00876,44,25,126.14,1,18,Monthly,Standard,0.325,1
+C00877,46,28,215.31,1,17,Annual,Standard,0.054,0
+C00878,56,27,57.3,3,12,Two Year,Standard,0.358,1
+C00879,46,16,80.28,0,18,Annual,Premium,0.278,1
+C00880,50,8,26.21,1,15,Monthly,Standard,0.763,1
+C00881,22,50,98.37,1,13,Monthly,Standard,0.251,0
+C00882,62,6,60.04,5,10,Monthly,Standard,0.797,1
+C00883,41,20,156.01,4,16,Monthly,Standard,0.361,1
+C00884,26,41,56.26,2,12,Annual,Premium,0.24,1
+C00885,60,8,154.96,1,21,Monthly,Standard,0.358,0
+C00886,56,40,72.7,1,8,Monthly,Premium,0.435,0
+C00887,20,44,91.04,0,7,Monthly,Standard,0.337,0
+C00888,28,40,89.77,0,11,Two Year,Standard,0.159,0
+C00889,18,19,163.35,1,14,Monthly,Standard,0.305,0
+C00890,32,2,113.3,0,9,Monthly,Standard,0.612,0
+C00891,23,54,92.26,1,18,Monthly,Standard,0.208,0
+C00892,54,20,190.52,4,9,Monthly,Value,0.323,0
+C00893,45,49,134.39,0,19,Two Year,Standard,0.058,0
+C00894,68,12,62.77,1,9,Monthly,Value,0.69,0
+C00895,56,10,200.02,0,12,Annual,Standard,0.122,0
+C00896,49,47,88.53,1,12,Annual,Premium,0.137,0
+C00897,44,57,27.8,0,14,Annual,Value,0.165,0
+C00898,20,52,118.92,2,14,Annual,Value,0.087,0
+C00899,21,46,44.79,0,8,Annual,Standard,0.227,0
+C00900,50,15,67.69,1,15,Monthly,Premium,0.605,0
+C00901,18,55,169.42,4,17,Monthly,Premium,0.12,0
+C00902,20,41,46.15,2,9,Annual,Standard,0.284,1
+C00903,29,11,181.39,2,11,Annual,Standard,0.173,0
+C00904,63,8,207.38,1,11,Monthly,Standard,0.297,0
+C00905,41,53,141.31,2,15,Monthly,Standard,0.155,0
+C00906,54,17,162.07,1,19,Monthly,Standard,0.286,0
+C00907,39,46,162.72,0,12,Monthly,Premium,0.144,0
+C00908,27,9,218.56,2,9,Monthly,Premium,0.295,0
+C00909,37,17,88.31,4,8,Monthly,Premium,0.651,1
+C00910,22,18,52.57,2,10,Monthly,Value,0.683,1
+C00911,58,17,123.83,2,10,Annual,Standard,0.259,0
+C00912,27,41,126.65,2,11,Annual,Value,0.123,0
+C00913,37,55,55.58,5,13,Annual,Standard,0.198,0
+C00914,68,55,142.62,5,11,Annual,Value,0.085,0
+C00915,48,45,22.82,3,15,Monthly,Standard,0.524,1
+C00916,41,13,205.53,2,14,Monthly,Value,0.263,0
+C00917,46,58,72.91,1,11,Annual,Value,0.119,0
+C00918,58,33,27.91,2,4,Annual,Standard,0.438,0
+C00919,31,33,41.65,3,11,Annual,Premium,0.361,0
+C00920,51,43,68.05,3,15,Annual,Standard,0.202,0
+C00921,63,47,74.78,1,8,Annual,Premium,0.178,0
+C00922,47,58,26.56,3,14,Annual,Premium,0.203,0
+C00923,41,35,75.87,0,6,Annual,Standard,0.241,0
+C00924,25,37,58.59,3,13,Annual,Value,0.272,0
+C00925,30,45,95.72,2,14,Monthly,Premium,0.303,1
+C00926,67,16,97.03,2,13,Monthly,Premium,0.55,1
+C00927,46,19,87.8,1,14,Monthly,Value,0.52,0
+C00928,33,38,85.58,3,4,Annual,Premium,0.264,0
+C00929,39,4,37.95,2,17,Annual,Premium,0.547,0
+C00930,48,20,25.04,1,16,Monthly,Standard,0.675,0
+C00931,45,44,60.42,3,12,Monthly,Value,0.446,1
+C00932,54,59,171.33,3,13,Annual,Standard,0.043,0
+C00933,31,32,218.16,4,12,Monthly,Standard,0.168,0
+C00934,51,24,205.71,1,11,Annual,Standard,0.083,1
+C00935,41,27,120.84,0,10,Monthly,Premium,0.367,0
+C00936,66,42,126.36,3,11,Monthly,Value,0.289,0
+C00937,26,33,82.92,3,9,Monthly,Value,0.501,1
+C00938,25,2,174.79,7,13,Monthly,Standard,0.552,0
+C00939,42,33,172.95,3,7,Monthly,Standard,0.268,0
+C00940,44,25,188.85,3,9,Monthly,Standard,0.272,0
+C00941,53,43,199.1,3,12,Monthly,Premium,0.137,0
+C00942,39,53,106.87,2,11,Monthly,Standard,0.242,0
+C00943,65,58,173.38,3,18,Annual,Premium,0.037,0
+C00944,42,37,181.28,3,14,Monthly,Value,0.184,1
+C00945,24,22,81.69,2,14,Monthly,Standard,0.535,1
+C00946,24,27,205.85,2,17,Monthly,Standard,0.164,0
+C00947,68,11,38.87,1,8,Two Year,Standard,0.54,1
+C00948,24,57,218.85,4,14,Annual,Value,0.03,0
+C00949,67,51,174.02,2,14,Two Year,Value,0.048,0
+C00950,32,52,38.65,2,14,Two Year,Standard,0.199,1
+C00951,22,20,151.25,2,13,Monthly,Premium,0.357,0
+C00952,33,20,26.84,1,16,Annual,Standard,0.427,1
+C00953,49,52,174.04,2,9,Monthly,Premium,0.137,0
+C00954,40,33,179.84,2,16,Two Year,Premium,0.076,0
+C00955,58,43,140.48,2,10,Monthly,Premium,0.239,0
+C00956,49,30,191.37,2,12,Monthly,Value,0.2,0
+C00957,38,27,39.58,2,10,Two Year,Premium,0.404,1
+C00958,51,38,75.18,3,7,Annual,Standard,0.268,0
+C00959,68,49,102.84,6,12,Two Year,Standard,0.164,0
+C00960,39,21,28.49,3,10,Monthly,Standard,0.739,1
+C00961,25,49,109.64,0,11,Monthly,Standard,0.229,0
+C00962,39,15,73.04,3,3,Monthly,Value,0.724,1
+C00963,61,25,98.55,1,10,Monthly,Standard,0.471,1
+C00964,29,55,105.02,5,14,Monthly,Standard,0.264,1
+C00965,67,58,195.88,2,5,Monthly,Standard,0.102,0
+C00966,48,56,74.07,2,12,Annual,Value,0.131,0
+C00967,49,19,198.75,2,15,Monthly,Value,0.232,0
+C00968,34,51,105.19,2,10,Annual,Standard,0.117,0
+C00969,65,57,85.56,1,10,Two Year,Standard,0.111,0
+C00970,19,59,120.5,0,12,Annual,Premium,0.061,0
+C00971,33,2,103.55,1,12,Monthly,Premium,0.636,1
+C00972,39,45,71.47,2,9,Monthly,Premium,0.409,1
+C00973,42,60,120.54,1,10,Monthly,Premium,0.167,0
+C00974,42,46,50.36,1,13,Annual,Premium,0.201,1
+C00975,25,14,90.39,3,14,Monthly,Value,0.6,0
+C00976,29,46,133.16,1,14,Monthly,Value,0.197,0
+C00977,22,7,102.68,2,11,Two Year,Value,0.382,0
+C00978,47,29,184.78,0,12,Annual,Standard,0.079,0
+C00979,36,38,71.34,3,11,Annual,Standard,0.25,0
+C00980,47,28,213.95,2,16,Monthly,Premium,0.151,1
+C00981,48,42,176.94,3,9,Two Year,Standard,0.08,0
+C00982,54,15,213.52,2,8,Monthly,Standard,0.271,1
+C00983,46,37,187.63,2,8,Monthly,Standard,0.191,0
+C00984,51,39,48.42,1,7,Two Year,Value,0.289,0
+C00985,48,39,125.29,1,14,Two Year,Value,0.112,0
+C00986,51,18,54.0,3,11,Monthly,Premium,0.691,1
+C00987,50,19,183.65,3,6,Monthly,Standard,0.352,0
+C00988,34,16,136.83,2,15,Monthly,Premium,0.414,1
+C00989,30,28,72.69,0,8,Annual,Premium,0.282,0
+C00990,58,36,205.92,2,9,Annual,Premium,0.065,0
+C00991,35,22,43.04,1,9,Monthly,Premium,0.666,1
+C00992,46,25,132.77,1,9,Monthly,Standard,0.379,0
+C00993,28,18,164.21,2,14,Annual,Standard,0.153,0
+C00994,40,14,31.77,2,16,Annual,Premium,0.487,0
+C00995,45,40,139.57,5,15,Monthly,Value,0.279,0
+C00996,50,49,183.18,4,13,Annual,Standard,0.057,0
+C00997,45,18,33.51,0,13,Two Year,Standard,0.429,0
+C00998,36,52,122.45,4,11,Monthly,Standard,0.247,0
+C00999,68,35,71.71,4,10,Annual,Standard,0.294,0
+C01000,44,11,152.58,1,9,Annual,Standard,0.224,0
+C01001,60,22,43.74,1,12,Annual,Standard,0.395,0
+C01002,56,1,207.41,3,10,Two Year,Value,0.197,0
+C01003,47,3,198.95,1,17,Annual,Standard,0.142,0
+C01004,64,21,57.19,2,11,Monthly,Standard,0.64,1
+C01005,24,28,84.65,2,20,Monthly,Premium,0.422,1
+C01006,65,48,137.53,1,20,Annual,Value,0.061,0
+C01007,62,9,163.61,2,13,Monthly,Standard,0.413,1
+C01008,44,51,108.53,0,13,Monthly,Standard,0.207,0
+C01009,56,15,51.26,3,6,Monthly,Value,0.754,1
+C01010,45,9,40.83,6,14,Annual,Standard,0.609,0
+C01011,31,42,219.95,4,14,Two Year,Premium,0.046,0
+C01012,59,47,111.07,3,7,Annual,Standard,0.148,0
+C01013,30,37,194.51,1,13,Annual,Standard,0.058,0
+C01014,34,7,116.48,4,13,Monthly,Value,0.614,1
+C01015,45,7,204.47,2,13,Monthly,Standard,0.316,0
+C01016,61,24,37.55,4,8,Two Year,Premium,0.497,1
+C01017,37,28,42.8,3,13,Monthly,Standard,0.627,1
+C01018,43,60,205.93,3,20,Annual,Standard,0.03,0
+C01019,20,18,209.5,1,9,Annual,Premium,0.103,1
+C01020,24,12,82.94,2,11,Monthly,Value,0.641,1
+C01021,20,57,91.03,2,13,Annual,Premium,0.103,0
+C01022,21,10,110.49,1,12,Monthly,Value,0.548,1
+C01023,63,2,103.23,3,11,Monthly,Value,0.685,1
+C01024,61,26,58.01,2,14,Monthly,Premium,0.57,0
+C01025,60,25,199.68,1,17,Monthly,Standard,0.171,0
+C01026,20,38,70.66,1,15,Monthly,Value,0.398,0
+C01027,22,53,161.05,2,10,Two Year,Standard,0.06,0
+C01028,32,56,33.43,4,14,Monthly,Standard,0.428,0
+C01029,47,18,27.75,2,12,Annual,Premium,0.499,1
+C01030,35,59,150.75,0,19,Annual,Premium,0.034,0
+C01031,43,38,87.8,1,8,Monthly,Standard,0.408,0
+C01032,26,5,151.09,3,13,Monthly,Premium,0.507,0
+C01033,56,57,38.8,1,14,Two Year,Premium,0.16,0
+C01034,34,9,209.97,2,9,Annual,Standard,0.146,0
+C01035,21,36,169.7,2,7,Two Year,Premium,0.103,0
+C01036,56,48,195.25,1,10,Monthly,Value,0.111,0
+C01037,64,15,47.29,2,8,Annual,Value,0.502,0
+C01038,18,17,84.03,5,17,Annual,Value,0.366,0
+C01039,40,29,93.67,3,9,Two Year,Premium,0.272,1
+C01040,61,54,127.43,4,16,Monthly,Standard,0.195,0
+C01041,54,14,79.37,1,9,Two Year,Value,0.385,0
+C01042,62,40,32.13,1,12,Monthly,Standard,0.521,0
+C01043,39,28,93.78,0,11,Annual,Standard,0.216,1
+C01044,37,7,70.91,3,9,Annual,Standard,0.515,0
+C01045,54,43,97.18,0,9,Annual,Standard,0.144,0
+C01046,25,50,59.39,3,15,Monthly,Standard,0.373,0
+C01047,30,35,72.38,2,15,Annual,Standard,0.225,0
+C01048,49,11,145.39,0,10,Monthly,Premium,0.431,0
+C01049,52,10,97.63,1,12,Monthly,Value,0.586,1
+C01050,24,26,89.08,0,21,Annual,Standard,0.18,0
+C01051,44,31,126.78,5,10,Annual,Premium,0.213,1
+C01052,36,34,174.37,5,10,Monthly,Standard,0.272,0
+C01053,44,15,95.77,3,20,Annual,Standard,0.288,0
+C01054,67,31,137.5,0,19,Monthly,Premium,0.231,0
+C01055,21,18,213.24,1,7,Annual,Value,0.105,0
+C01056,69,42,124.4,0,14,Annual,Standard,0.095,0
+C01057,41,48,201.96,6,14,Annual,Standard,0.054,0
+C01058,58,40,178.73,4,8,Annual,Value,0.094,0
+C01059,40,1,31.74,5,12,Annual,Standard,0.693,1
+C01060,34,60,105.82,4,22,Monthly,Standard,0.171,0
+C01061,58,2,159.66,4,11,Annual,Premium,0.308,0
+C01062,53,60,217.34,3,14,Monthly,Premium,0.061,0
+C01063,25,2,111.68,1,13,Monthly,Standard,0.605,1
+C01064,54,31,38.56,2,11,Annual,Standard,0.365,1
+C01065,57,7,132.4,0,13,Monthly,Standard,0.478,1
+C01066,38,6,45.31,5,8,Monthly,Standard,0.82,1
+C01067,66,42,170.3,5,10,Two Year,Standard,0.099,0
+C01068,51,44,121.54,2,12,Monthly,Value,0.261,0
+C01069,35,8,164.69,3,11,Monthly,Value,0.457,1
+C01070,18,59,193.87,4,5,Monthly,Standard,0.119,0
+C01071,53,20,145.79,7,6,Monthly,Value,0.543,1
+C01072,28,20,142.49,1,18,Annual,Value,0.148,0
+C01073,57,18,170.91,4,13,Annual,Premium,0.171,1
+C01074,45,28,188.49,3,13,Annual,Standard,0.097,0
+C01075,42,11,193.81,4,16,Monthly,Premium,0.329,1
+C01076,26,26,27.29,2,15,Annual,Standard,0.406,0
+C01077,54,13,131.24,4,24,Monthly,Standard,0.423,0
+C01078,26,4,63.25,1,11,Annual,Standard,0.501,1
+C01079,39,23,192.07,4,8,Annual,Value,0.138,0
+C01080,61,41,149.68,1,10,Monthly,Standard,0.216,0
+C01081,65,46,104.04,2,18,Annual,Standard,0.108,0
+C01082,69,22,57.62,3,13,Annual,Value,0.39,0
+C01083,67,20,87.8,2,9,Monthly,Value,0.577,1
+C01084,46,48,160.76,3,2,Annual,Value,0.099,0
+C01085,28,41,60.87,2,14,Annual,Premium,0.218,0
+C01086,61,50,38.72,4,12,Monthly,Premium,0.481,0
+C01087,59,55,197.61,0,16,Monthly,Premium,0.066,0
+C01088,69,50,172.84,3,11,Annual,Standard,0.061,0
+C01089,51,57,59.96,1,16,Two Year,Premium,0.121,0
+C01090,25,25,78.46,4,12,Annual,Value,0.337,0
+C01091,44,24,214.41,1,12,Annual,Standard,0.073,1
+C01092,41,20,161.64,3,16,Annual,Standard,0.151,0
+C01093,61,15,142.1,2,6,Monthly,Standard,0.485,0
+C01094,38,45,81.53,2,18,Monthly,Standard,0.309,0
+C01095,35,43,79.83,1,17,Monthly,Standard,0.317,1
+C01096,22,49,27.9,1,10,Two Year,Standard,0.248,0
+C01097,61,11,165.7,1,13,Annual,Premium,0.177,0
+C01098,57,30,28.64,2,4,Two Year,Value,0.462,0
+C01099,20,14,20.97,3,7,Monthly,Premium,0.815,1
+C01100,40,54,165.9,0,13,Monthly,Standard,0.106,1
+C01101,42,17,209.77,1,5,Annual,Value,0.119,0
+C01102,42,9,171.3,1,11,Monthly,Premium,0.386,0
+C01103,65,35,114.33,4,18,Monthly,Premium,0.339,1
+C01104,25,53,117.21,1,18,Annual,Standard,0.069,0
+C01105,33,55,107.23,2,15,Annual,Standard,0.087,0
+C01106,27,6,84.93,1,13,Annual,Premium,0.403,0
+C01107,30,20,124.34,1,13,Monthly,Premium,0.412,1
+C01108,65,10,106.23,4,10,Monthly,Premium,0.642,0
+C01109,66,19,139.63,2,10,Monthly,Standard,0.423,0
+C01110,20,33,199.62,2,14,Monthly,Premium,0.16,1
+C01111,50,17,219.0,4,14,Monthly,Value,0.24,0
+C01112,30,5,35.75,1,10,Monthly,Value,0.792,1
+C01113,28,31,96.94,3,10,Two Year,Premium,0.244,0
+C01114,33,4,56.14,3,9,Monthly,Standard,0.793,0
+C01115,28,14,90.42,2,6,Monthly,Premium,0.645,0
+C01116,43,1,77.49,1,16,Monthly,Standard,0.682,1
+C01117,69,6,54.91,2,11,Annual,Premium,0.531,1
+C01118,48,27,172.82,4,12,Monthly,Value,0.293,1
+C01119,55,52,119.26,1,9,Monthly,Standard,0.218,0
+C01120,43,47,203.85,1,13,Monthly,Standard,0.095,1
+C01121,18,6,26.52,3,11,Monthly,Standard,0.82,1
+C01122,22,3,33.4,2,22,Annual,Value,0.526,0
+C01123,31,21,100.65,3,12,Monthly,Standard,0.527,0
+C01124,30,40,36.06,2,14,Monthly,Premium,0.514,0
+C01125,61,45,72.55,1,14,Annual,Value,0.162,1
+C01126,61,50,217.21,2,11,Monthly,Standard,0.086,0
+C01127,62,21,61.79,3,10,Annual,Standard,0.412,1
+C01128,51,11,59.62,1,12,Monthly,Standard,0.683,1
+C01129,46,2,134.73,4,16,Annual,Standard,0.335,0
+C01130,51,9,119.6,1,13,Monthly,Premium,0.521,1
+C01131,39,4,136.09,4,16,Monthly,Premium,0.556,1
+C01132,52,52,95.35,2,10,Monthly,Standard,0.282,1
+C01133,59,17,185.35,3,20,Two Year,Standard,0.114,0
+C01134,57,50,47.72,5,13,Monthly,Value,0.468,0
+C01135,49,34,105.68,4,14,Two Year,Standard,0.2,0
+C01136,21,33,157.95,1,15,Two Year,Value,0.092,0
+C01137,55,28,193.65,0,13,Monthly,Value,0.174,0
+C01138,37,50,93.91,6,14,Monthly,Standard,0.348,0
+C01139,56,3,133.55,0,13,Monthly,Premium,0.509,1
+C01140,46,6,33.83,1,8,Two Year,Standard,0.597,0
+C01141,63,26,54.06,0,19,Annual,Standard,0.264,1
+C01142,35,24,33.83,2,14,Annual,Standard,0.412,1
+C01143,66,33,165.58,3,14,Monthly,Premium,0.238,0
+C01144,61,45,77.61,3,11,Annual,Standard,0.194,0
+C01145,35,36,164.75,1,7,Monthly,Standard,0.233,0
+C01146,43,16,33.28,1,10,Monthly,Standard,0.727,1
+C01147,45,20,192.51,1,18,Monthly,Value,0.206,0
+C01148,57,46,187.11,0,7,Monthly,Standard,0.13,0
+C01149,53,13,37.79,4,11,Two Year,Standard,0.566,0
+C01150,62,31,24.75,2,16,Annual,Standard,0.363,1
+C01151,37,33,31.26,4,13,Monthly,Standard,0.64,1
+C01152,44,46,190.73,0,11,Monthly,Premium,0.111,0
+C01153,40,43,66.94,2,7,Annual,Standard,0.236,0
+C01154,65,28,129.65,2,10,Annual,Standard,0.182,1
+C01155,33,19,105.25,0,14,Monthly,Standard,0.446,1
+C01156,48,23,179.11,0,12,Monthly,Premium,0.236,0
+C01157,24,25,117.78,1,7,Annual,Value,0.224,0
+C01158,62,14,120.13,4,13,Two Year,Value,0.304,0
+C01159,37,38,217.82,3,14,Annual,Standard,0.049,0
+C01160,35,13,50.03,1,10,Monthly,Standard,0.708,1
+C01161,48,39,186.14,2,9,Annual,Standard,0.074,0
+C01162,43,46,30.35,0,8,Monthly,Standard,0.486,0
+C01163,62,58,115.53,2,9,Two Year,Standard,0.087,0
+C01164,45,8,197.27,2,12,Monthly,Standard,0.335,1
+C01165,44,46,153.04,2,21,Monthly,Value,0.142,0
+C01166,23,6,157.04,1,10,Monthly,Standard,0.461,1
+C01167,19,21,72.66,0,16,Monthly,Standard,0.508,1
+C01168,38,11,103.71,2,11,Monthly,Standard,0.59,0
+C01169,69,10,93.32,2,11,Annual,Standard,0.383,1
+C01170,65,11,124.29,1,7,Annual,Standard,0.303,1
+C01171,50,3,112.45,3,10,Annual,Value,0.417,0
+C01172,50,50,85.38,2,14,Monthly,Premium,0.292,0
+C01173,38,4,81.1,1,11,Monthly,Premium,0.688,1
+C01174,27,24,70.17,5,15,Monthly,Standard,0.609,0
+C01175,18,42,93.01,2,18,Monthly,Value,0.302,1
+C01176,35,60,49.99,1,10,Monthly,Standard,0.319,0
+C01177,34,52,194.42,4,14,Two Year,Standard,0.044,0
+C01178,27,9,140.42,1,21,Two Year,Standard,0.191,1
+C01179,31,60,46.76,0,12,Monthly,Standard,0.293,0
+C01180,19,40,158.77,2,9,Annual,Value,0.096,0
+C01181,49,11,189.53,0,13,Annual,Value,0.128,0
+C01182,66,27,67.51,1,10,Monthly,Value,0.546,0
+C01183,53,56,50.12,0,16,Annual,Value,0.128,0
+C01184,41,24,21.72,1,10,Monthly,Premium,0.698,1
+C01185,39,12,29.45,3,9,Monthly,Standard,0.799,1
+C01186,33,53,172.45,1,17,Two Year,Standard,0.038,0
+C01187,25,58,217.44,2,7,Annual,Standard,0.03,0
+C01188,49,59,28.98,1,16,Monthly,Premium,0.336,0
+C01189,47,58,169.61,1,14,Monthly,Standard,0.094,0
+C01190,18,53,34.37,4,17,Two Year,Premium,0.214,0
+C01191,39,28,138.43,5,13,Monthly,Standard,0.39,1
+C01192,32,12,171.22,1,4,Two Year,Standard,0.21,0
+C01193,26,38,91.84,1,8,Two Year,Value,0.194,0
+C01194,54,14,22.19,0,7,Monthly,Standard,0.768,1
+C01195,45,29,139.04,4,13,Annual,Standard,0.171,0
+C01196,50,40,218.25,4,6,Annual,Value,0.065,0
+C01197,55,57,71.52,4,16,Annual,Value,0.135,0
+C01198,69,18,57.9,3,6,Monthly,Standard,0.718,1
+C01199,59,16,44.79,2,11,Monthly,Value,0.71,0
+C01200,50,45,131.05,3,11,Monthly,Premium,0.257,0

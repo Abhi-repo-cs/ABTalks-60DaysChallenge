@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="850">
+<rect width="1400" height="850" fill="#f5f7fb"/>
+<text x="60" y="65" font-family="Arial" font-size="34" font-weight="bold">Customer Intelligence Dashboard</text>
+<text x="60" y="98" font-family="Arial" font-size="18" fill="#666">Interactive customer analytics, segmentation and churn-risk intelligence</text>
+<g font-family="Arial">
+<g><rect x="60" y="135" width="290" height="100" rx="12" fill="white"/><text x="85" y="170" font-size="16" fill="#666">CUSTOMERS</text><text x="85" y="212" font-size="34" font-weight="bold">1,200</text></g>
+<g><rect x="380" y="135" width="290" height="100" rx="12" fill="white"/><text x="405" y="170" font-size="16" fill="#666">MONTHLY REVENUE</text><text x="405" y="212" font-size="34" font-weight="bold">$143K</text></g>
+<g><rect x="700" y="135" width="290" height="100" rx="12" fill="white"/><text x="725" y="170" font-size="16" fill="#666">CHURN RATE</text><text x="725" y="212" font-size="34" font-weight="bold">35.1%</text></g>
+<g><rect x="1020" y="135" width="320" height="100" rx="12" fill="white"/><text x="1045" y="170" font-size="16" fill="#666">HIGH-RISK CUSTOMERS</text><text x="1045" y="212" font-size="34" font-weight="bold">410</text></g>
+</g>
+<rect x="60" y="270" width="620" height="250" rx="12" fill="white"/><text x="90" y="310" font-family="Arial" font-size="22" font-weight="bold">Customer Segmentation</text>
+<g fill="#888"><rect x="130" y="440" width="110" height="45"/><rect x="300" y="385" width="110" height="100"/><rect x="470" y="335" width="110" height="150"/></g>
+<text x="145" y="505" font-family="Arial" font-size="16">Value</text><text x="315" y="505" font-family="Arial" font-size="16">Standard</text><text x="495" y="505" font-family="Arial" font-size="16">Premium</text>
+<rect x="720" y="270" width="620" height="250" rx="12" fill="white"/><text x="750" y="310" font-family="Arial" font-size="22" font-weight="bold">Churn Rate by Segment</text>
+<g fill="#aaa"><rect x="800" y="430" width="110" height="55"/><rect x="970" y="390" width="110" height="95"/><rect x="1140" y="350" width="110" height="135"/></g>
+<text x="820" y="505" font-family="Arial" font-size="16">Premium</text><text x="985" y="505" font-family="Arial" font-size="16">Standard</text><text x="1160" y="505" font-family="Arial" font-size="16">Value</text>
+<rect x="60" y="555" width="1280" height="235" rx="12" fill="white"/><text x="90" y="595" font-family="Arial" font-size="22" font-weight="bold">High-Risk Customer Watchlist</text>
+<g font-family="Arial" font-size="16" fill="#555"><text x="90" y="640">CustomerID</text><text x="270" y="640">Segment</text><text x="420" y="640">Contract</text><text x="590" y="640">Revenue</text><text x="760" y="640">Tenure</text><text x="900" y="640">Support</text><text x="1040" y="640">Logins</text><text x="1160" y="640">Risk</text></g>
+<g font-family="Arial" font-size="15"><text x="90" y="680">C00421</text><text x="270" y="680">Value</text><text x="420" y="680">Monthly</text><text x="590" y="680">$42</text><text x="760" y="680">3 mo</text><text x="900" y="680">7</text><text x="1040" y="680">4</text><text x="1160" y="680">0.82</text>
+<text x="90" y="715">C00877</text><text x="270" y="715">Standard</text><text x="420" y="715">Monthly</text><text x="590" y="680">$61</text><text x="760" y="715">6 mo</text><text x="900" y="715">6</text><text x="1040" y="715">5</text><text x="1160" y="715">0.78</text></g>
+</svg>

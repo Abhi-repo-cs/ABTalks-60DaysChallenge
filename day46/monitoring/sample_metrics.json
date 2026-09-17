@@ -1,0 +1,8 @@
+{
+  "total_requests": 6,
+  "prediction_requests": 2,
+  "successful_predictions": 1,
+  "validation_errors": 1,
+  "prediction_errors": 0,
+  "average_latency_ms": 2.31
+}

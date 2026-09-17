@@ -1,0 +1,26 @@
+
+==================================== ERRORS ====================================
+[31m[1m______________________ ERROR collecting tests/test_api.py ______________________[0m
+[31mImportError while importing test module '/mnt/data/day46_production_monitoring/tests/test_api.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+[1m[31m/usr/lib/python3.13/importlib/__init__.py[0m:88: in import_module
+    [0m[94mreturn[39;49;00m _bootstrap._gcd_import(name[level:], package, level)[90m[39;49;00m
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[90m[39;49;00m
+[1m[31mtests/test_api.py[0m:5: in <module>
+    [0m[94mfrom[39;49;00m[90m [39;49;00m[04m[96mapp[39;49;00m[04m[96m.[39;49;00m[04m[96mmain[39;49;00m[90m [39;49;00m[94mimport[39;49;00m app[90m[39;49;00m
+[1m[31mapp/main.py[0m:4: in <module>
+    [0m[94mfrom[39;49;00m[90m [39;49;00m[04m[96mflask[39;49;00m[90m [39;49;00m[94mimport[39;49;00m Flask, jsonify, request[90m[39;49;00m
+[1m[31mE   ModuleNotFoundError: No module named 'flask'[0m[0m
+[36m[1m=========================== short test summary info ============================[0m
+[31mERROR[0m tests/test_api.py
+!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+[31m[31m[1m1 error[0m[31m in 0.20s[0m[0m
+
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/spreadsheet_warmup.py", line 772, in warm_spreadsheet_runtime
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/connection.py", line 37, in get_or_create_client
+  File "/tmp/tmp.L2TH2Y5coc/artifact_tool_v2-2.8.22/artifact_tool/rpc/daemon.py", line 124, in start_daemon
+TimeoutError: Timed out waiting for artifact tool daemon socket. Set ARTIFACT_TOOL_RPC_DAEMON_STARTUP_TIMEOUT_S=<seconds> to increase the limit.

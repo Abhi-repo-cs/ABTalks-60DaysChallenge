@@ -1,0 +1,27 @@
+DAY 47/60 — Capstone Project Kickoff 🚀
+
+Today marks the beginning of the capstone phase of my 60 Days Data Science Challenge.
+
+I am starting an end-to-end Customer Intelligence Platform called “CustomerIQ”.
+
+The goal is to move beyond isolated ML models and build a complete business-oriented data science system.
+
+The platform will bring together:
+
+• Customer analytics
+• RFM-based customer segmentation
+• Churn prediction
+• Customer value analysis
+• Revenue/demand forecasting
+• Interactive business dashboard
+• Action-oriented recommendations
+
+For the capstone, I have completed the initial business problem definition, dataset selection, system architecture, module planning, and Day 47–60 roadmap.
+
+The key lesson from Day 47:
+
+Data Science is not just about training a model. A strong real-world project starts by understanding the business problem, defining measurable objectives, designing the system, and then choosing the right analytical methods.
+
+Next: data acquisition, exploration, cleaning, and feature engineering.
+
+#60DaysDataScience #DataScience #MachineLearning #Python #CustomerAnalytics #CapstoneProject #LearningInPublic

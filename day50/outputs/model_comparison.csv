@@ -1,0 +1,4 @@
+model,cv_best_roc_auc,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,train_roc_auc,generalization_gap,best_params
+Random Forest,0.9253,0.7667,0.5,0.7143,0.5882,0.8882,1.0,0.1118,"{'classifier__max_depth': None, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 200}"
+Logistic Regression,0.9836,0.7,0.4286,0.8571,0.5714,0.882,0.9968,0.1148,"{'classifier__C': 1.0, 'classifier__solver': 'liblinear'}"
+Gradient Boosting,0.9109,0.7333,0.4444,0.5714,0.5,0.8478,1.0,0.1522,"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 125}"

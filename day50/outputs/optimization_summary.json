@@ -1,0 +1,4 @@
+{
+  "best_model_by_test_roc_auc": "Random Forest",
+  "best_model_parameters": "{'classifier__max_depth': None, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 200}"
+}

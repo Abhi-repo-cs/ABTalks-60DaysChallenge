@@ -1,0 +1,55 @@
+{
+  "best_parameters": {
+    "classifier__max_depth": null,
+    "classifier__min_samples_leaf": 2,
+    "classifier__n_estimators": 200
+  },
+  "test_roc_auc": 0.8882,
+  "shap": {
+    "available": true,
+    "method": "TreeExplainer",
+    "explained_customer": "C033"
+  },
+  "top_features": [
+    {
+      "feature": "numeric__total_spend",
+      "importance": 0.19937042310428224
+    },
+    {
+      "feature": "numeric__tenure_months",
+      "importance": 0.19352244878603847
+    },
+    {
+      "feature": "numeric__orders",
+      "importance": 0.11812296623941144
+    },
+    {
+      "feature": "numeric__complaints",
+      "importance": 0.10236651676364185
+    },
+    {
+      "feature": "numeric__orders_per_month",
+      "importance": 0.07864909895748341
+    },
+    {
+      "feature": "numeric__spend_per_month",
+      "importance": 0.07570891786212046
+    },
+    {
+      "feature": "numeric__avg_order_value",
+      "importance": 0.06846084955473765
+    },
+    {
+      "feature": "numeric__income",
+      "importance": 0.044977557056596854
+    },
+    {
+      "feature": "numeric__age",
+      "importance": 0.035870635278585916
+    },
+    {
+      "feature": "categorical__preferred_channel_Mobile",
+      "importance": 0.028843435965230292
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "customer_id": "CUST-1053",
+  "tenure": 12,
+  "monthly_spend": 85,
+  "orders": 4,
+  "complaints": 0,
+  "support_tickets": 1,
+  "days_since_last_order": 12,
+  "satisfaction": 7,
+  "preferred_channel": "Mobile",
+  "contract": "Monthly",
+  "payment_method": "Card"
+}

@@ -1,0 +1,5 @@
+metric,value,period,definition
+customer_count,99441,Illustrative,Replace with validated capstone metric
+at_risk_share,0.18,Illustrative,Replace with validated risk distribution
+avg_monthly_spend,85,Illustrative,Replace with validated metric
+avg_satisfaction,7.0,Illustrative,Replace with validated metric

@@ -1,0 +1,9 @@
+metric,value
+customers,120.0
+churned_customers,30.0
+retained_customers,90.0
+churn_rate_pct,25.0
+total_spend,7243120.0
+average_spend,60359.333333333336
+median_spend,55559.5
+average_complaints,1.5

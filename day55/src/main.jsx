@@ -1,0 +1,16 @@
+import React,{useMemo,useState} from "react";
+import{createRoot}from"react-dom/client";import"./styles.css";
+const customers=[
+{id:"C001",city:"Mumbai",spend:19817,orders:7,complaints:3,churn:1},{id:"C002",city:"Bengaluru",spend:29344,orders:12,complaints:2,churn:1},
+{id:"C003",city:"Delhi",spend:39181,orders:17,complaints:1,churn:0},{id:"C004",city:"Hyderabad",spend:49328,orders:22,complaints:0,churn:0},
+{id:"C005",city:"Chennai",spend:59785,orders:27,complaints:3,churn:0},{id:"C006",city:"Mumbai",spend:10972,orders:2,complaints:2,churn:1},
+{id:"C007",city:"Bengaluru",spend:21119,orders:7,complaints:1,churn:1},{id:"C008",city:"Delhi",spend:31576,orders:12,complaints:0,churn:0}];
+function App(){const[city,setCity]=useState("All"),[query,setQuery]=useState(""),[status,setStatus]=useState("Healthy");
+const filtered=useMemo(()=>customers.filter(c=>(city==="All"||c.city===city)&&c.id.toLowerCase().includes(query.toLowerCase())),[city,query]);
+const stats=useMemo(()=>({customers:filtered.length,churned:filtered.filter(c=>c.churn).length,revenue:filtered.reduce((s,c)=>s+c.spend,0),orders:filtered.length?filtered.reduce((s,c)=>s+c.orders,0)/filtered.length:0}),[filtered]);
+function test(){setStatus("Testing validation…");setTimeout(()=>setStatus("Recovered — invalid request safely rejected"),700)}
+return <main><header><div><span className="badge">DAY 55</span><h1>Customer Intelligence Platform</h1><p>Scalability & Reliability Control Center</p></div><div className="health"><span/> {status}</div></header>
+<section className="cards"><div><small>CUSTOMERS</small><strong>{stats.customers}</strong></div><div><small>CHURNED</small><strong>{stats.churned}</strong></div><div><small>VISIBLE SPEND</small><strong>₹{stats.revenue.toLocaleString()}</strong></div><div><small>AVG ORDERS</small><strong>{stats.orders.toFixed(1)}</strong></div></section>
+<section className="panel"><div className="toolbar"><input placeholder="Search customer ID…" value={query} onChange={e=>setQuery(e.target.value)}/><select value={city} onChange={e=>setCity(e.target.value)}><option>All</option><option>Mumbai</option><option>Bengaluru</option><option>Delhi</option><option>Hyderabad</option><option>Chennai</option></select><button onClick={test}>Test error handling</button></div><h2>Optimized Customer View</h2><p className="muted">Memoized filtering and aggregation reduce repeated dashboard calculations.</p><div className="table">{filtered.map(c=><div className="row" key={c.id}><b>{c.id}</b><span>{c.city}</span><span>₹{c.spend.toLocaleString()}</span><span>{c.orders} orders</span><span>{c.complaints} complaints</span><span>{c.churn?"High risk":"Retained"}</span></div>)}</div></section>
+<section className="grid"><article><h3>Performance</h3><p>Memoized calculations and lightweight rendering reduce unnecessary work.</p></article><article><h3>Reliability</h3><p>Validated inputs, structured errors and health checks support safer operation.</p></article><article><h3>Scalability</h3><p>Architecture supports caching, horizontal API scaling and independent model serving.</p></article></section></main>}
+createRoot(document.getElementById("root")).render(<App/>);

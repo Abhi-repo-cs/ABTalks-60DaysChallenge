@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<style>
+text { font-family: Arial, sans-serif; fill: #111; }
+.box { fill: #fff; stroke: #333; stroke-width: 2; rx: 12; }
+.title { font-size: 28px; font-weight: bold; }
+.label { font-size: 18px; }
+.arrow { stroke: #333; stroke-width: 2; marker-end: url(#arrow); fill: none; }
+</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#333"/></marker></defs>
+<text x="600" y="40" text-anchor="middle" class="title">Customer Intelligence Platform</text>
+<rect x="60" y="100" width="190" height="70" class="box"/><text x="155" y="142" text-anchor="middle" class="label">Customer Data</text>
+<rect x="330" y="100" width="220" height="70" class="box"/><text x="440" y="142" text-anchor="middle" class="label">Validation +</text><text x="440" y="164" text-anchor="middle" class="label">Preprocessing</text>
+<rect x="630" y="100" width="190" height="70" class="box"/><text x="725" y="142" text-anchor="middle" class="label">Feature Set</text>
+<path d="M250 135 L330 135" class="arrow"/><path d="M550 135 L630 135" class="arrow"/>
+<rect x="180" y="270" width="200" height="75" class="box"/><text x="280" y="315" text-anchor="middle" class="label">Analytics</text>
+<rect x="500" y="270" width="200" height="75" class="box"/><text x="600" y="315" text-anchor="middle" class="label">Segmentation</text>
+<rect x="820" y="270" width="200" height="75" class="box"/><text x="920" y="315" text-anchor="middle" class="label">Prediction</text>
+<path d="M700 170 L280 270" class="arrow"/><path d="M725 170 L600 270" class="arrow"/><path d="M750 170 L920 270" class="arrow"/>
+<rect x="820" y="410" width="200" height="75" class="box"/><text x="920" y="455" text-anchor="middle" class="label">Explainability</text>
+<rect x="500" y="530" width="200" height="75" class="box"/><text x="600" y="575" text-anchor="middle" class="label">Dashboard / API</text>
+<path d="M920 345 L920 410" class="arrow"/><path d="M280 345 L540 530" class="arrow"/><path d="M600 345 L600 530" class="arrow"/><path d="M920 485 L680 545" class="arrow"/>
+</svg>

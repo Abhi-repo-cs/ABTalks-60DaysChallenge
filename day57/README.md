@@ -227,15 +227,7 @@ The platform should track:
 
 Monitoring helps identify failures early and provides evidence for future model and infrastructure improvements.
 
-## Screenshots
 
-Add final screenshots to `docs/assets/` and reference them here:
-
-```markdown
-![Dashboard](docs/assets/dashboard.png)
-![Prediction](docs/assets/prediction.png)
-![Segmentation](docs/assets/segmentation.png)
-```
 
 ## Documentation
 

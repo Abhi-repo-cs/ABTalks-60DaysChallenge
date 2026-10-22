@@ -1,0 +1,99 @@
+# Bug-Fix and Optimization Report — Day 59
+
+## 1. Project
+**CustomerIQ — Customer Intelligence Platform**  
+**Date prepared:** 22 October 2026  
+**Purpose:** Record final reliability, usability, performance, and code-quality checks before showcase/submission.
+
+## 2. Scope
+Review the current implementation for:
+- Application startup and dependency issues
+- Data loading, schema validation, missing values, and unexpected data types
+- Dashboard layout and navigation at different viewport sizes
+- Chart readability, axis/label correctness, and consistency with source data
+- Segmentation, churn-risk, and forecasting input/output handling (where implemented)
+- Invalid inputs, empty datasets, and recoverable exceptions
+- Deployment health and configuration
+- Unused files, debug output, secrets, and dependency hygiene
+
+## 3. Findings and fixes
+Complete this table only after inspecting and testing the current code.
+
+| ID | Area | Observed issue | Root cause | Fix applied | Verification evidence | Status |
+|---|---|---|---|---|---|---|
+| B-01 | Data loading | Pending inspection | Pending | Pending | Pending | Not verified |
+| B-02 | Dashboard/UI | Pending inspection | Pending | Pending | Pending | Not verified |
+| B-03 | Visualizations | Pending inspection | Pending | Pending | Pending | Not verified |
+| B-04 | Prediction/model | Pending inspection | Pending | Pending | Pending | Not verified |
+| B-05 | Deployment/API | Pending inspection | Pending | Pending | Pending | Not verified |
+| B-06 | Code/security hygiene | Pending inspection | Pending | Pending | Pending | Not verified |
+
+## 4. Optimization approach
+1. Reproduce the issue before changing code.
+2. Identify the smallest safe fix.
+3. Run a targeted test.
+4. Run a broader regression check.
+5. Record evidence and remaining limitations.
+6. Avoid claiming speedups unless measured before and after under comparable conditions.
+
+## 5. Performance measurements
+Do not invent numbers. If measuring performance, record the same workload and environment.
+
+| Measurement | Before | After | Method/environment |
+|---|---:|---:|---|
+| Cold app start | Not measured | Not measured | Record machine, command, and repetitions |
+| Dashboard first render | Not measured | Not measured | Record browser and network |
+| Data load duration | Not measured | Not measured | Use same input dataset |
+| Prediction duration | Not measured | Not measured | Use same model/input |
+
+## 6. Security and release hygiene
+- Keep API keys and credentials out of Git.
+- Ensure `.env` is ignored and provide `.env.example` with placeholder values only if needed.
+- Avoid committing private or personally identifying customer data.
+- Pin or document dependencies where practical.
+- Confirm error messages do not expose secrets or local filesystem details.
+
+## 7. Outcome
+**Current report status:** Prepared for evidence collection; code-level fixes and test outcomes have not been verified in this document.
+
+After code review, replace the pending rows with actual findings, fixes, and test evidence. If no issue is found in an area, write “No issue observed in the checks performed” and list the checks performed.
+
+
+# Final Testing Report — Day 59
+
+## Test environment
+- Application URL: https://customerdashboard-iejuws2ipk46pqkefelix3.streamlit.app/
+- Repository: https://github.com/Abhi-repo-cs/ABTalks-60DaysChallenge
+- Test date/time: Fill in after testing
+- Browser/OS: Fill in
+- Commit SHA tested: Fill in
+
+## Results
+Use **PASS**, **FAIL**, **BLOCKED**, or **NOT RUN**. Include evidence or a short note for every result.
+
+| Test ID | Check | Expected result | Result | Evidence/notes |
+|---|---|---|---|---|
+| T-01 | Open deployed dashboard | App loads and main page is usable | NOT RUN | |
+| T-02 | Initial dashboard state | No unhandled error; metrics/charts render | NOT RUN | |
+| T-03 | Data loading | Correct dataset/schema loaded or clear error shown | NOT RUN | |
+| T-04 | Empty/missing data | Graceful validation or helpful message | NOT RUN | |
+| T-05 | KPI calculations | Values match source data and calculation definitions | NOT RUN | |
+| T-06 | Segmentation (if implemented) | Output renders and is repeatable for same configuration | NOT RUN | |
+| T-07 | Churn prediction (if implemented) | Input validation and output interpretation are clear | NOT RUN | |
+| T-08 | Forecasting (if implemented) | Forecast horizon/units are clear; no fabricated metrics | NOT RUN | |
+| T-09 | Charts | Titles, axes, labels, legends, and units are readable | NOT RUN | |
+| T-10 | Responsive layout | Core content remains usable at narrow and wide widths | NOT RUN | |
+| T-11 | Exception handling | Invalid input produces a clear, safe message | NOT RUN | |
+| T-12 | Fresh environment install | Dependencies install and app starts from documented steps | NOT RUN | |
+| T-13 | Secret scan | No credentials/API keys committed | NOT RUN | |
+| T-14 | Final regression | Core user journey works end to end | NOT RUN | |
+
+## Summary
+- Passed: Fill in
+- Failed: Fill in
+- Blocked: Fill in
+- Not run: Fill in
+- Known limitations: Fill in
+
+## Sign-off
+Do not mark the application release-ready until blocking failures are resolved or explicitly documented and accepted.
